@@ -3,7 +3,7 @@
 <a href="https://codesandbox.io/u/saurabharch">
   <img align="left" alt="Saurabh Kashyap | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/saurabharch/saurabharch/master/assets/codesandbox.svg" />
 </a>
-<a href="https://twitter.com/anuraghazru">
+<a href="https://twitter.com/7304130972">
   <img align="left" alt="Saurabh Kashyap | Twitter" width="21px" src="https://raw.githubusercontent.com/saurabharch/saurabharch/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/saurabh#4839">
