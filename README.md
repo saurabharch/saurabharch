@@ -1,4 +1,4 @@
-# Hi,[<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">](https://saurabh.netlify.com/) I am Saurabh Kashyap
+# Hi,[<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">](https://saurabh.netlify.com/)
 <br/>
 <br/>
 <img src="https://github-hero-readme.vercel.app/api?username=saurabharch&linkedin=saurabh-kashyap-976084114&twitter=saurabhk0972&description=Software%20Engineer%20@STL%20|%20JavaScript%20♥&width=&width='100%'">
