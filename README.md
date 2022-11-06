@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Saurabh Kashyap, a passionate self-taught Full Stack Developer developer from India.
+## I'm an Indian 🇮🇳, A Learner , a passionate self-taught Full Stack Developer , and a friend!🙌 .
 - 🌱 I’m a Technological enthusiast and currently all into 🧡. 
 - 👯 I’m looking to collaborate with other open source contributor.  
 - ⚡ Fun fact: I think, I am in Love with Javascript.  
