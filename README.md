@@ -183,6 +183,16 @@
 
 
 
+### ⚡ Recent GitHub Activity
+
+<br/>
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#83](https://github.com/saurabharch/odoo/pull/83) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
+2. 💪 Opened PR [#45](https://github.com/saurabharch/autopush/pull/45) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
+3. 💪 Opened PR [#29](https://github.com/raindigi/eShopOnContainersAI/pull/29) in [raindigi/eShopOnContainersAI](https://github.com/raindigi/eShopOnContainersAI)
+4. 💪 Opened PR [#67](https://github.com/saurabharch/docs-tools/pull/67) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
+5. 💪 Opened PR [#139](https://github.com/saurabharch/codesandbox-client/pull/139) in [saurabharch/codesandbox-client](https://github.com/saurabharch/codesandbox-client)
+<!--END_SECTION:activity-->
 
 
 
@@ -194,16 +204,6 @@
 -  issuehunt: saurabharch
 -  otechie: saurabharch
 
-### ⚡ Recent GitHub Activity
-
-<br/>
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#83](https://github.com/saurabharch/odoo/pull/83) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
-2. 💪 Opened PR [#45](https://github.com/saurabharch/autopush/pull/45) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
-3. 💪 Opened PR [#29](https://github.com/raindigi/eShopOnContainersAI/pull/29) in [raindigi/eShopOnContainersAI](https://github.com/raindigi/eShopOnContainersAI)
-4. 💪 Opened PR [#67](https://github.com/saurabharch/docs-tools/pull/67) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
-5. 💪 Opened PR [#139](https://github.com/saurabharch/codesandbox-client/pull/139) in [saurabharch/codesandbox-client](https://github.com/saurabharch/codesandbox-client)
-<!--END_SECTION:activity-->
   
 ![Visitor Count](https://profile-counter.glitch.me/{saurabharch}/count.svg)
 
