@@ -194,7 +194,11 @@
 -  issuehunt: saurabharch
 -  otechie: saurabharch
 
+### ⚡ Recent GitHub Activity
 
+<br/>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
   
 ![Visitor Count](https://profile-counter.glitch.me/{saurabharch}/count.svg)
 
