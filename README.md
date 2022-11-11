@@ -24,20 +24,15 @@
 - 💬 Ask me about anything [here](https://github.com/saurabharch/saurabharch/issues)
  
  ## 📕 Latest Blog Posts
-<details>
-<summary><b>Blogs Post</b></summary>
+
 <!-- BLOG-POST-LIST:START -->
 - [Web Push Notification Full Stack Application With Node Js Restful API](https://medium.com/@saurabhkashyap0001/web-push-notification-full-stack-application-with-node-js-restful-api-b2cfaf6c1fe6?source=rss-135b00681175------2)
 <!-- BLOG-POST-LIST:END -->
-</details>
 
 ## 🐥Latest Twitter Threads
-<details>
-<summary><b>Threads</b></summary>
 <!-- TWITTER:START -->
 - [Hire me from my @aboutdotme page! 💼👍 https://about.me/saurabh.kashyap?utm_campaign=socialshare&amp;utm_source=product&amp;utm_medium=twitter](https://nitter.net/saurabhk0972/status/805171940805644288#m)
 <!-- TWITTER:END -->
-</details>
 <!--- 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
