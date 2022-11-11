@@ -31,6 +31,7 @@
 
 ## 🐥Latest Twitter Threads
 <!-- TWITTER:START -->
+- [Hire me from my @aboutdotme page! 💼👍 https://about.me/saurabh.kashyap?utm_campaign=socialshare&amp;utm_source=product&amp;utm_medium=twitter](https://nitter.net/saurabhk0972/status/805171940805644288#m)
 <!-- TWITTER:END -->
 <!--- 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
