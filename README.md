@@ -27,7 +27,6 @@
 <details>
 <summary><b>Blogs Post</b></summary>
 <!-- BLOG-POST-LIST:START -->
-- [Web Push Notification Full Stack Application With Node Js Restful API](https://medium.com/@saurabhkashyap0001/web-push-notification-full-stack-application-with-node-js-restful-api-b2cfaf6c1fe6?source=rss-135b00681175------2)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
