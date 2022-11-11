@@ -28,9 +28,10 @@
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
-
+<br/>
+ ## 📕 Latest Video
 <details>
-<summary><b>📺 Latest YouTube Videos</b></summary>
+<summary><b>📺 Latest YouTube Videos List</b></summary>
 <div align="center">
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/n8n-io?sub_confirmation=1)
@@ -40,6 +41,8 @@
 <td><a href="https://www.youtube.com/watch?v=kDeRm4zw-Pg">Demo Events</a><br/>Oct 24, 2020</td></tr></table>
 <!-- YOUTUBE:END -->
 </details>
+
+<br/>
 
 ## 🐥Latest Twitter Threads
 <!-- TWITTER:START -->
