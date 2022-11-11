@@ -15,4 +15,4 @@ jobs:
         with:
           max_post_count: "14"
           remove_duplicates: true
-          feed_list: "https://medium.com/feed/@saurabhkashyap0001,https://dev.to/feed/n8n,https://medium.com/feed/@harshil1712"
+          feed_list: "https://medium.com/feed/@saurabhkashyap0001"
