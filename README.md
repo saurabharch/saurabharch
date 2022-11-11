@@ -29,6 +29,17 @@
 - [Web Push Notification Full Stack Application With Node Js Restful API](https://medium.com/@saurabhkashyap0001/web-push-notification-full-stack-application-with-node-js-restful-api-b2cfaf6c1fe6?source=rss-135b00681175------2)
 <!-- BLOG-POST-LIST:END -->
 
+<details>
+<summary><b>📺 Latest YouTube Videos</b></summary>
+<div align="center">
+
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/n8n-io?sub_confirmation=1)
+
+</div>
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+</details>
+
 ## 🐥Latest Twitter Threads
 <!-- TWITTER:START -->
 - [Hire me from my @aboutdotme page! 💼👍 https://about.me/saurabh.kashyap?utm_campaign=socialshare&amp;utm_source=product&amp;utm_medium=twitter](https://nitter.net/saurabhk0972/status/805171940805644288#m)
