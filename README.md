@@ -26,20 +26,7 @@
  ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How hyperautomation will transform business operations](https://dev.to/n8n/how-hyperautomation-will-transform-business-operations-39jd)
-- [How to automatically manage contributions to open-source projects 🏷️](https://dev.to/n8n/how-to-automatically-manage-contributions-to-open-source-projects-4njl)
-- [6 features of tasks that can be automated 📑](https://dev.to/n8n/6-features-of-tasks-that-can-be-automated-5am8)
-- [How to automatically manage contributions to open-source projects ️](https://medium.com/n8n-io/how-to-automatically-manage-contributions-to-open-source-projects-%EF%B8%8F-e53d9cfa8ce9?source=rss-e04a8d1ce662------2)
-- [Create a toxic language detector for Telegram in 4 steps 🤬](https://dev.to/n8n/create-a-toxic-language-detector-for-telegram-in-4-steps-3m7o)
-- [How to get started with CRM automation &lpar;with 3 no-code workflow ideas&rpar; 👥](https://dev.to/n8n/how-to-get-started-with-crm-automation-with-3-no-code-workflow-ideas-1ef5)
-- [6 e-commerce workflows to power up your Shopify store 🛒](https://dev.to/n8n/6-e-commerce-workflows-to-power-up-your-shopify-store-5b60)
-- [How to set up a no-code CI/CD pipeline with GitHub and TravisCI](https://medium.com/n8n-io/how-to-set-up-a-no-code-ci-cd-pipeline-with-github-and-travisci-232ec4572d5c?source=rss-e04a8d1ce662------2)
-- [5 tasks you can automate with the new Notion API ⚡](https://dev.to/n8n/5-tasks-you-can-automate-with-the-new-notion-api-43i)
-- [What are APIs and how to use them with no code](https://medium.com/n8n-io/what-are-apis-and-how-to-use-them-with-no-code-8ca86dadbfcd?source=rss-e04a8d1ce662------2)
-- [15 Google apps you can combine and automate to increase productivity](https://dev.to/n8n/15-google-apps-you-can-combine-and-automate-to-increase-productivity-2dck)
-- [Automate your data processing pipeline in 9 steps ⚙️](https://dev.to/n8n/automate-your-data-processing-pipeline-in-9-steps-9de)
-- [How a digital strategist uses n8n for online marketing 💻](https://dev.to/n8n/how-a-digital-strategist-uses-n8n-for-online-marketing-3fj1)
-- [5 creative ideas for virtual team building events for startups 🎭](https://dev.to/n8n/5-creative-ideas-for-virtual-team-building-events-for-startups-26bl)
+
 <!-- BLOG-POST-LIST:END -->
 
 <details>
