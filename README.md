@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#85](https://github.com/saurabharch/odoo/pull/85) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
-2. 💪 Opened PR [#30](https://github.com/saurabharch/AdvMasterDetails/pull/30) in [saurabharch/AdvMasterDetails](https://github.com/saurabharch/AdvMasterDetails)
-3. 💪 Opened PR [#6](https://github.com/saurabharch/n8n/pull/6) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
-4. 💪 Opened PR [#71](https://github.com/saurabharch/docs-tools/pull/71) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
-5. 💪 Opened PR [#84](https://github.com/saurabharch/odoo/pull/84) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
+1. 💪 Opened PR [#72](https://github.com/saurabharch/docs-tools/pull/72) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
+2. 💪 Opened PR [#85](https://github.com/saurabharch/odoo/pull/85) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
+3. 💪 Opened PR [#30](https://github.com/saurabharch/AdvMasterDetails/pull/30) in [saurabharch/AdvMasterDetails](https://github.com/saurabharch/AdvMasterDetails)
+4. 💪 Opened PR [#6](https://github.com/saurabharch/n8n/pull/6) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
+5. 💪 Opened PR [#71](https://github.com/saurabharch/docs-tools/pull/71) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
 <!--END_SECTION:activity-->
 <br/>
 
