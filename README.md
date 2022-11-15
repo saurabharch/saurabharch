@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#153](https://github.com/saurabharch/cyph/pull/153) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-2. 💪 Opened PR [#56](https://github.com/saurabharch/byodb/pull/56) in [saurabharch/byodb](https://github.com/saurabharch/byodb)
-3. 💪 Opened PR [#32](https://github.com/saurabharch/AdvMasterDetails/pull/32) in [saurabharch/AdvMasterDetails](https://github.com/saurabharch/AdvMasterDetails)
-4. 💪 Opened PR [#31](https://github.com/saurabharch/AdvMasterDetails/pull/31) in [saurabharch/AdvMasterDetails](https://github.com/saurabharch/AdvMasterDetails)
-5. 💪 Opened PR [#54](https://github.com/saurabharch/TerraWatts/pull/54) in [saurabharch/TerraWatts](https://github.com/saurabharch/TerraWatts)
+1. 💪 Opened PR [#47](https://github.com/saurabharch/autopush/pull/47) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
+2. 💪 Opened PR [#153](https://github.com/saurabharch/cyph/pull/153) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
+3. 💪 Opened PR [#56](https://github.com/saurabharch/byodb/pull/56) in [saurabharch/byodb](https://github.com/saurabharch/byodb)
+4. 💪 Opened PR [#32](https://github.com/saurabharch/AdvMasterDetails/pull/32) in [saurabharch/AdvMasterDetails](https://github.com/saurabharch/AdvMasterDetails)
+5. 💪 Opened PR [#31](https://github.com/saurabharch/AdvMasterDetails/pull/31) in [saurabharch/AdvMasterDetails](https://github.com/saurabharch/AdvMasterDetails)
 <!--END_SECTION:activity-->
 <br/>
 
