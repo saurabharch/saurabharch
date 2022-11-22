@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/saurabharch/pokemart/pull/55) in [saurabharch/pokemart](https://github.com/saurabharch/pokemart)
-2. 💪 Opened PR [#10](https://github.com/saurabharch/casino-server/pull/10) in [saurabharch/casino-server](https://github.com/saurabharch/casino-server)
-3. 💪 Opened PR [#50](https://github.com/saurabharch/HireDot2/pull/50) in [saurabharch/HireDot2](https://github.com/saurabharch/HireDot2)
-4. 💪 Opened PR [#155](https://github.com/saurabharch/cyph/pull/155) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-5. 💪 Opened PR [#56](https://github.com/saurabharch/fastyper/pull/56) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
+1. 💪 Opened PR [#55](https://github.com/saurabharch/fireframe/pull/55) in [saurabharch/fireframe](https://github.com/saurabharch/fireframe)
+2. 💪 Opened PR [#55](https://github.com/saurabharch/pokemart/pull/55) in [saurabharch/pokemart](https://github.com/saurabharch/pokemart)
+3. 💪 Opened PR [#10](https://github.com/saurabharch/casino-server/pull/10) in [saurabharch/casino-server](https://github.com/saurabharch/casino-server)
+4. 💪 Opened PR [#50](https://github.com/saurabharch/HireDot2/pull/50) in [saurabharch/HireDot2](https://github.com/saurabharch/HireDot2)
+5. 💪 Opened PR [#155](https://github.com/saurabharch/cyph/pull/155) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
 <!--END_SECTION:activity-->
 <br/>
 
