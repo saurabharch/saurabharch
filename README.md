@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#56](https://github.com/saurabharch/fastyper/pull/56) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
-2. 💪 Opened PR [#75](https://github.com/saurabharch/docs-tools/pull/75) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
-3. 💪 Opened PR [#89](https://github.com/saurabharch/odoo/pull/89) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
-4. 💪 Opened PR [#97](https://github.com/saurabharch/fireship.io/pull/97) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
-5. 💪 Opened PR [#88](https://github.com/saurabharch/odoo/pull/88) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
+1. 💪 Opened PR [#50](https://github.com/saurabharch/HireDot2/pull/50) in [saurabharch/HireDot2](https://github.com/saurabharch/HireDot2)
+2. 💪 Opened PR [#155](https://github.com/saurabharch/cyph/pull/155) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
+3. 💪 Opened PR [#56](https://github.com/saurabharch/fastyper/pull/56) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
+4. 💪 Opened PR [#75](https://github.com/saurabharch/docs-tools/pull/75) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
+5. 💪 Opened PR [#89](https://github.com/saurabharch/odoo/pull/89) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
 <!--END_SECTION:activity-->
 <br/>
 
