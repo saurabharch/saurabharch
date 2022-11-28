@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#154](https://github.com/raindigi/site-preview/pull/154) in [raindigi/site-preview](https://github.com/raindigi/site-preview)
-2. 💪 Opened PR [#62](https://github.com/saurabharch/create-react-app/pull/62) in [saurabharch/create-react-app](https://github.com/saurabharch/create-react-app)
-3. 💪 Opened PR [#280](https://github.com/saurabharch/react/pull/280) in [saurabharch/react](https://github.com/saurabharch/react)
-4. 💪 Opened PR [#279](https://github.com/saurabharch/react/pull/279) in [saurabharch/react](https://github.com/saurabharch/react)
-5. 💪 Opened PR [#27](https://github.com/raindigi/pizzaql/pull/27) in [raindigi/pizzaql](https://github.com/raindigi/pizzaql)
+1. 💪 Opened PR [#282](https://github.com/saurabharch/react/pull/282) in [saurabharch/react](https://github.com/saurabharch/react)
+2. 💪 Opened PR [#59](https://github.com/saurabharch/gatsby-starter-simple-landing/pull/59) in [saurabharch/gatsby-starter-simple-landing](https://github.com/saurabharch/gatsby-starter-simple-landing)
+3. 💪 Opened PR [#281](https://github.com/saurabharch/react/pull/281) in [saurabharch/react](https://github.com/saurabharch/react)
+4. 💪 Opened PR [#154](https://github.com/raindigi/site-preview/pull/154) in [raindigi/site-preview](https://github.com/raindigi/site-preview)
+5. 💪 Opened PR [#62](https://github.com/saurabharch/create-react-app/pull/62) in [saurabharch/create-react-app](https://github.com/saurabharch/create-react-app)
 <!--END_SECTION:activity-->
 <br/>
 
