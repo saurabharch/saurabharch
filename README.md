@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#198](https://github.com/saurabharch/spectrum/pull/198) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
-2. 💪 Opened PR [#134](https://github.com/saurabharch/howtographql/pull/134) in [saurabharch/howtographql](https://github.com/saurabharch/howtographql)
-3. 💪 Opened PR [#145](https://github.com/saurabharch/codesandbox-client/pull/145) in [saurabharch/codesandbox-client](https://github.com/saurabharch/codesandbox-client)
-4. 💪 Opened PR [#135](https://github.com/saurabharch/Story/pull/135) in [saurabharch/Story](https://github.com/saurabharch/Story)
-5. 💪 Opened PR [#20](https://github.com/saurabharch/fcm-node/pull/20) in [saurabharch/fcm-node](https://github.com/saurabharch/fcm-node)
+1. 💪 Opened PR [#26](https://github.com/raindigi/erxes-widgets-api/pull/26) in [raindigi/erxes-widgets-api](https://github.com/raindigi/erxes-widgets-api)
+2. 💪 Opened PR [#70](https://github.com/saurabharch/f8app/pull/70) in [saurabharch/f8app](https://github.com/saurabharch/f8app)
+3. 💪 Opened PR [#198](https://github.com/saurabharch/spectrum/pull/198) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
+4. 💪 Opened PR [#134](https://github.com/saurabharch/howtographql/pull/134) in [saurabharch/howtographql](https://github.com/saurabharch/howtographql)
+5. 💪 Opened PR [#145](https://github.com/saurabharch/codesandbox-client/pull/145) in [saurabharch/codesandbox-client](https://github.com/saurabharch/codesandbox-client)
 <!--END_SECTION:activity-->
 <br/>
 
