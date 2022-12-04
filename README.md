@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/saurabharch/www.greglobinski.com/pull/36) in [saurabharch/www.greglobinski.com](https://github.com/saurabharch/www.greglobinski.com)
-2. 💪 Opened PR [#8](https://github.com/saurabharch/yt-graphql-react-event-booking-api/pull/8) in [saurabharch/yt-graphql-react-event-booking-api](https://github.com/saurabharch/yt-graphql-react-event-booking-api)
-3. 💪 Opened PR [#8](https://github.com/saurabharch/node-imager/pull/8) in [saurabharch/node-imager](https://github.com/saurabharch/node-imager)
-4. 💪 Opened PR [#56](https://github.com/saurabharch/TerraWatts/pull/56) in [saurabharch/TerraWatts](https://github.com/saurabharch/TerraWatts)
-5. 💪 Opened PR [#37](https://github.com/saurabharch/push-rest/pull/37) in [saurabharch/push-rest](https://github.com/saurabharch/push-rest)
+1. 💪 Opened PR [#12](https://github.com/raindigi/cinema-microservice/pull/12) in [raindigi/cinema-microservice](https://github.com/raindigi/cinema-microservice)
+2. 💪 Opened PR [#167](https://github.com/saurabharch/summit-workshop/pull/167) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
+3. 💪 Opened PR [#36](https://github.com/saurabharch/www.greglobinski.com/pull/36) in [saurabharch/www.greglobinski.com](https://github.com/saurabharch/www.greglobinski.com)
+4. 💪 Opened PR [#8](https://github.com/saurabharch/yt-graphql-react-event-booking-api/pull/8) in [saurabharch/yt-graphql-react-event-booking-api](https://github.com/saurabharch/yt-graphql-react-event-booking-api)
+5. 💪 Opened PR [#8](https://github.com/saurabharch/node-imager/pull/8) in [saurabharch/node-imager](https://github.com/saurabharch/node-imager)
 <!--END_SECTION:activity-->
 <br/>
 
