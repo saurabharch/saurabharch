@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#166](https://github.com/saurabharch/summit-workshop/pull/166) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
-2. 💪 Opened PR [#26](https://github.com/raindigi/erxes-widgets-api/pull/26) in [raindigi/erxes-widgets-api](https://github.com/raindigi/erxes-widgets-api)
-3. 💪 Opened PR [#70](https://github.com/saurabharch/f8app/pull/70) in [saurabharch/f8app](https://github.com/saurabharch/f8app)
-4. 💪 Opened PR [#198](https://github.com/saurabharch/spectrum/pull/198) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
-5. 💪 Opened PR [#134](https://github.com/saurabharch/howtographql/pull/134) in [saurabharch/howtographql](https://github.com/saurabharch/howtographql)
+1. 💪 Opened PR [#184](https://github.com/saurabharch/wekanhow/pull/184) in [saurabharch/wekanhow](https://github.com/saurabharch/wekanhow)
+2. 💪 Opened PR [#287](https://github.com/saurabharch/react/pull/287) in [saurabharch/react](https://github.com/saurabharch/react)
+3. 💪 Opened PR [#81](https://github.com/raindigi/graphql-server-with-node/pull/81) in [raindigi/graphql-server-with-node](https://github.com/raindigi/graphql-server-with-node)
+4. 💪 Opened PR [#166](https://github.com/saurabharch/summit-workshop/pull/166) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
+5. 💪 Opened PR [#26](https://github.com/raindigi/erxes-widgets-api/pull/26) in [raindigi/erxes-widgets-api](https://github.com/raindigi/erxes-widgets-api)
 <!--END_SECTION:activity-->
 <br/>
 
