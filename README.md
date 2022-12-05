@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#56](https://github.com/saurabharch/pokemart/pull/56) in [saurabharch/pokemart](https://github.com/saurabharch/pokemart)
-2. 💪 Opened PR [#100](https://github.com/saurabharch/fireship.io/pull/100) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
-3. 💪 Opened PR [#26](https://github.com/raindigi/animinated-date-gif/pull/26) in [raindigi/animinated-date-gif](https://github.com/raindigi/animinated-date-gif)
-4. 💪 Opened PR [#173](https://github.com/raindigi/GraphqlType-API-Registration/pull/173) in [raindigi/GraphqlType-API-Registration](https://github.com/raindigi/GraphqlType-API-Registration)
-5. 💪 Opened PR [#137](https://github.com/saurabharch/Story/pull/137) in [saurabharch/Story](https://github.com/saurabharch/Story)
+1. 💪 Opened PR [#69](https://github.com/saurabharch/gatsby-starter-kitchen-sink/pull/69) in [saurabharch/gatsby-starter-kitchen-sink](https://github.com/saurabharch/gatsby-starter-kitchen-sink)
+2. 💪 Opened PR [#12](https://github.com/saurabharch/node-chat/pull/12) in [saurabharch/node-chat](https://github.com/saurabharch/node-chat)
+3. 💪 Opened PR [#56](https://github.com/saurabharch/pokemart/pull/56) in [saurabharch/pokemart](https://github.com/saurabharch/pokemart)
+4. 💪 Opened PR [#100](https://github.com/saurabharch/fireship.io/pull/100) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
+5. 💪 Opened PR [#26](https://github.com/raindigi/animinated-date-gif/pull/26) in [raindigi/animinated-date-gif](https://github.com/raindigi/animinated-date-gif)
 <!--END_SECTION:activity-->
 <br/>
 
