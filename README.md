@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/raindigi/erxes-logger/pull/11) in [raindigi/erxes-logger](https://github.com/raindigi/erxes-logger)
-2. 💪 Opened PR [#48](https://github.com/saurabharch/stitch-examples/pull/48) in [saurabharch/stitch-examples](https://github.com/saurabharch/stitch-examples)
-3. 💪 Opened PR [#36](https://github.com/raindigi/pencilblue/pull/36) in [raindigi/pencilblue](https://github.com/raindigi/pencilblue)
-4. 💪 Opened PR [#38](https://github.com/saurabharch/GraphqlType-API-Registration/pull/38) in [saurabharch/GraphqlType-API-Registration](https://github.com/saurabharch/GraphqlType-API-Registration)
-5. 💪 Opened PR [#11](https://github.com/saurabharch/node-dc-mongo/pull/11) in [saurabharch/node-dc-mongo](https://github.com/saurabharch/node-dc-mongo)
+1. 💪 Opened PR [#8](https://github.com/saurabharch/subnodes/pull/8) in [saurabharch/subnodes](https://github.com/saurabharch/subnodes)
+2. 💪 Opened PR [#59](https://github.com/saurabharch/fastyper/pull/59) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
+3. 💪 Opened PR [#9](https://github.com/saurabharch/Push-notification-with-node/pull/9) in [saurabharch/Push-notification-with-node](https://github.com/saurabharch/Push-notification-with-node)
+4. 💪 Opened PR [#70](https://github.com/saurabharch/linkpreview/pull/70) in [saurabharch/linkpreview](https://github.com/saurabharch/linkpreview)
+5. 💪 Opened PR [#11](https://github.com/raindigi/erxes-logger/pull/11) in [raindigi/erxes-logger](https://github.com/raindigi/erxes-logger)
 <!--END_SECTION:activity-->
 <br/>
 
