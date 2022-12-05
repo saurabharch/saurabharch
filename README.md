@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#200](https://github.com/saurabharch/spectrum/pull/200) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
-2. 💪 Opened PR [#14](https://github.com/raindigi/erxes-integrations/pull/14) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
-3. 💪 Opened PR [#135](https://github.com/saurabharch/howtographql/pull/135) in [saurabharch/howtographql](https://github.com/saurabharch/howtographql)
-4. 💪 Opened PR [#15](https://github.com/raindigi/erxes-widgets/pull/15) in [raindigi/erxes-widgets](https://github.com/raindigi/erxes-widgets)
-5. 💪 Opened PR [#60](https://github.com/saurabharch/ImVue/pull/60) in [saurabharch/ImVue](https://github.com/saurabharch/ImVue)
+1. 💪 Opened PR [#22](https://github.com/saurabharch/meteor-apollo-starter-kit/pull/22) in [saurabharch/meteor-apollo-starter-kit](https://github.com/saurabharch/meteor-apollo-starter-kit)
+2. 💪 Opened PR [#200](https://github.com/saurabharch/spectrum/pull/200) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
+3. 💪 Opened PR [#14](https://github.com/raindigi/erxes-integrations/pull/14) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
+4. 💪 Opened PR [#135](https://github.com/saurabharch/howtographql/pull/135) in [saurabharch/howtographql](https://github.com/saurabharch/howtographql)
+5. 💪 Opened PR [#15](https://github.com/raindigi/erxes-widgets/pull/15) in [raindigi/erxes-widgets](https://github.com/raindigi/erxes-widgets)
 <!--END_SECTION:activity-->
 <br/>
 
