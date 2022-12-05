@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/saurabharch/mongotron/pull/22) in [saurabharch/mongotron](https://github.com/saurabharch/mongotron)
-2. 💪 Opened PR [#56](https://github.com/saurabharch/snippets/pull/56) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
-3. 💪 Opened PR [#49](https://github.com/raindigi/stf/pull/49) in [raindigi/stf](https://github.com/raindigi/stf)
-4. 💪 Opened PR [#45](https://github.com/saurabharch/meanblog/pull/45) in [saurabharch/meanblog](https://github.com/saurabharch/meanblog)
-5. 💪 Opened PR [#50](https://github.com/saurabharch/microservices-example/pull/50) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
+1. 💪 Opened PR [#60](https://github.com/saurabharch/ImVue/pull/60) in [saurabharch/ImVue](https://github.com/saurabharch/ImVue)
+2. 💪 Opened PR [#199](https://github.com/saurabharch/spectrum/pull/199) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
+3. 💪 Opened PR [#65](https://github.com/saurabharch/lounge/pull/65) in [saurabharch/lounge](https://github.com/saurabharch/lounge)
+4. 💪 Opened PR [#11](https://github.com/saurabharch/aadhaarpay/pull/11) in [saurabharch/aadhaarpay](https://github.com/saurabharch/aadhaarpay)
+5. 💪 Opened PR [#60](https://github.com/saurabharch/EBB/pull/60) in [saurabharch/EBB](https://github.com/saurabharch/EBB)
 <!--END_SECTION:activity-->
 <br/>
 
