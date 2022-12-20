@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1799](https://github.com/saurabharch/gatsby/pull/1799) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-2. 💪 Opened PR [#38](https://github.com/saurabharch/moonly-app/pull/38) in [saurabharch/moonly-app](https://github.com/saurabharch/moonly-app)
-3. 💪 Opened PR [#22](https://github.com/saurabharch/meteor-apollo-starter-kit/pull/22) in [saurabharch/meteor-apollo-starter-kit](https://github.com/saurabharch/meteor-apollo-starter-kit)
-4. 💪 Opened PR [#200](https://github.com/saurabharch/spectrum/pull/200) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
-5. 💪 Opened PR [#14](https://github.com/raindigi/erxes-integrations/pull/14) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
+1. 💪 Opened PR [#12](https://github.com/saurabharch/mogo-chat/pull/12) in [saurabharch/mogo-chat](https://github.com/saurabharch/mogo-chat)
+2. 💪 Opened PR [#1799](https://github.com/saurabharch/gatsby/pull/1799) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+3. 💪 Opened PR [#38](https://github.com/saurabharch/moonly-app/pull/38) in [saurabharch/moonly-app](https://github.com/saurabharch/moonly-app)
+4. 💪 Opened PR [#22](https://github.com/saurabharch/meteor-apollo-starter-kit/pull/22) in [saurabharch/meteor-apollo-starter-kit](https://github.com/saurabharch/meteor-apollo-starter-kit)
+5. 💪 Opened PR [#200](https://github.com/saurabharch/spectrum/pull/200) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
 <!--END_SECTION:activity-->
 <br/>
 
