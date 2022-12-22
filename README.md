@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](https://github.com/raindigi/pizzaql/pull/28) in [raindigi/pizzaql](https://github.com/raindigi/pizzaql)
-2. 💪 Opened PR [#41](https://github.com/saurabharch/mean-full-starter/pull/41) in [saurabharch/mean-full-starter](https://github.com/saurabharch/mean-full-starter)
-3. 💪 Opened PR [#15](https://github.com/saurabharch/meanstacktutorial/pull/15) in [saurabharch/meanstacktutorial](https://github.com/saurabharch/meanstacktutorial)
-4. 💪 Opened PR [#19](https://github.com/raindigi/SchoolERP-API/pull/19) in [raindigi/SchoolERP-API](https://github.com/raindigi/SchoolERP-API)
-5. 💪 Opened PR [#338](https://github.com/saurabharch/rollout/pull/338) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
+1. 💪 Opened PR [#16](https://github.com/saurabharch/first-timers-bot/pull/16) in [saurabharch/first-timers-bot](https://github.com/saurabharch/first-timers-bot)
+2. 💪 Opened PR [#28](https://github.com/raindigi/pizzaql/pull/28) in [raindigi/pizzaql](https://github.com/raindigi/pizzaql)
+3. 💪 Opened PR [#41](https://github.com/saurabharch/mean-full-starter/pull/41) in [saurabharch/mean-full-starter](https://github.com/saurabharch/mean-full-starter)
+4. 💪 Opened PR [#15](https://github.com/saurabharch/meanstacktutorial/pull/15) in [saurabharch/meanstacktutorial](https://github.com/saurabharch/meanstacktutorial)
+5. 💪 Opened PR [#19](https://github.com/raindigi/SchoolERP-API/pull/19) in [raindigi/SchoolERP-API](https://github.com/raindigi/SchoolERP-API)
 <!--END_SECTION:activity-->
 <br/>
 
