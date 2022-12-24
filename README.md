@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](https://github.com/saurabharch/autopush/pull/53) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
-2. 💪 Opened PR [#80](https://github.com/saurabharch/docs-tools/pull/80) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
-3. 💪 Opened PR [#91](https://github.com/saurabharch/odoo/pull/91) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
-4. 💪 Opened PR [#52](https://github.com/saurabharch/autopush/pull/52) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
-5. 💪 Opened PR [#222](https://github.com/raindigi/site-landing/pull/222) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
+1. 💪 Opened PR [#49](https://github.com/raindigi/room-booking-system/pull/49) in [raindigi/room-booking-system](https://github.com/raindigi/room-booking-system)
+2. 💪 Opened PR [#53](https://github.com/saurabharch/autopush/pull/53) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
+3. 💪 Opened PR [#80](https://github.com/saurabharch/docs-tools/pull/80) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
+4. 💪 Opened PR [#91](https://github.com/saurabharch/odoo/pull/91) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
+5. 💪 Opened PR [#52](https://github.com/saurabharch/autopush/pull/52) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
 <!--END_SECTION:activity-->
 <br/>
 
