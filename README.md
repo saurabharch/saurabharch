@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#316](https://github.com/saurabharch/react/pull/316) in [saurabharch/react](https://github.com/saurabharch/react)
-2. 💪 Opened PR [#29](https://github.com/raindigi/pizzaql/pull/29) in [raindigi/pizzaql](https://github.com/raindigi/pizzaql)
-3. 💪 Opened PR [#1817](https://github.com/saurabharch/gatsby/pull/1817) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#88](https://github.com/saurabhkashyap/graphql-asia/pull/88) in [saurabhkashyap/graphql-asia](https://github.com/saurabhkashyap/graphql-asia)
-5. 💪 Opened PR [#138](https://github.com/saurabharch/howtographql/pull/138) in [saurabharch/howtographql](https://github.com/saurabharch/howtographql)
+1. 💪 Opened PR [#1818](https://github.com/saurabharch/gatsby/pull/1818) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+2. 💪 Opened PR [#316](https://github.com/saurabharch/react/pull/316) in [saurabharch/react](https://github.com/saurabharch/react)
+3. 💪 Opened PR [#29](https://github.com/raindigi/pizzaql/pull/29) in [raindigi/pizzaql](https://github.com/raindigi/pizzaql)
+4. 💪 Opened PR [#1817](https://github.com/saurabharch/gatsby/pull/1817) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+5. 💪 Opened PR [#88](https://github.com/saurabhkashyap/graphql-asia/pull/88) in [saurabhkashyap/graphql-asia](https://github.com/saurabhkashyap/graphql-asia)
 <!--END_SECTION:activity-->
 <br/>
 
