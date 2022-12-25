@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](https://github.com/saurabharch/kentcdodds.com/pull/70) in [saurabharch/kentcdodds.com](https://github.com/saurabharch/kentcdodds.com)
-2. 💪 Opened PR [#319](https://github.com/saurabharch/react/pull/319) in [saurabharch/react](https://github.com/saurabharch/react)
-3. 💪 Opened PR [#74](https://github.com/saurabharch/linkpreview/pull/74) in [saurabharch/linkpreview](https://github.com/saurabharch/linkpreview)
-4. 💪 Opened PR [#63](https://github.com/saurabharch/gatsby-starter-simple-landing/pull/63) in [saurabharch/gatsby-starter-simple-landing](https://github.com/saurabharch/gatsby-starter-simple-landing)
-5. 💪 Opened PR [#318](https://github.com/saurabharch/react/pull/318) in [saurabharch/react](https://github.com/saurabharch/react)
+1. 💪 Opened PR [#226](https://github.com/raindigi/site-landing/pull/226) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
+2. 💪 Opened PR [#70](https://github.com/saurabharch/kentcdodds.com/pull/70) in [saurabharch/kentcdodds.com](https://github.com/saurabharch/kentcdodds.com)
+3. 💪 Opened PR [#319](https://github.com/saurabharch/react/pull/319) in [saurabharch/react](https://github.com/saurabharch/react)
+4. 💪 Opened PR [#74](https://github.com/saurabharch/linkpreview/pull/74) in [saurabharch/linkpreview](https://github.com/saurabharch/linkpreview)
+5. 💪 Opened PR [#63](https://github.com/saurabharch/gatsby-starter-simple-landing/pull/63) in [saurabharch/gatsby-starter-simple-landing](https://github.com/saurabharch/gatsby-starter-simple-landing)
 <!--END_SECTION:activity-->
 <br/>
 
