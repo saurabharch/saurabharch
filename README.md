@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/saurabharch/node-imager/pull/9) in [saurabharch/node-imager](https://github.com/saurabharch/node-imager)
-2. 💪 Opened PR [#57](https://github.com/saurabharch/TerraWatts/pull/57) in [saurabharch/TerraWatts](https://github.com/saurabharch/TerraWatts)
-3. 💪 Opened PR [#52](https://github.com/raindigi/room-booking-system/pull/52) in [raindigi/room-booking-system](https://github.com/raindigi/room-booking-system)
-4. 💪 Opened PR [#6](https://github.com/saurabharch/playwright/pull/6) in [saurabharch/playwright](https://github.com/saurabharch/playwright)
-5. 💪 Opened PR [#192](https://github.com/saurabharch/wekanhow/pull/192) in [saurabharch/wekanhow](https://github.com/saurabharch/wekanhow)
+1. 💪 Opened PR [#83](https://github.com/saurabharch/pomodoro-gatsby/pull/83) in [saurabharch/pomodoro-gatsby](https://github.com/saurabharch/pomodoro-gatsby)
+2. 💪 Opened PR [#29](https://github.com/raindigi/mailtrain/pull/29) in [raindigi/mailtrain](https://github.com/raindigi/mailtrain)
+3. 💪 Opened PR [#39](https://github.com/saurabharch/www.greglobinski.com/pull/39) in [saurabharch/www.greglobinski.com](https://github.com/saurabharch/www.greglobinski.com)
+4. 💪 Opened PR [#13](https://github.com/raindigi/cinema-microservice/pull/13) in [raindigi/cinema-microservice](https://github.com/raindigi/cinema-microservice)
+5. 💪 Opened PR [#9](https://github.com/saurabharch/node-imager/pull/9) in [saurabharch/node-imager](https://github.com/saurabharch/node-imager)
 <!--END_SECTION:activity-->
 <br/>
 
