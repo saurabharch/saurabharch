@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/saurabharch/react-phone-e-commerce-project/pull/39) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
-2. 💪 Opened PR [#40](https://github.com/raindigi/ChainReactApp2019/pull/40) in [raindigi/ChainReactApp2019](https://github.com/raindigi/ChainReactApp2019)
-3. 💪 Opened PR [#16](https://github.com/saurabharch/meanstacktutorial/pull/16) in [saurabharch/meanstacktutorial](https://github.com/saurabharch/meanstacktutorial)
-4. 💪 Opened PR [#15](https://github.com/raindigi/cinema-microservice/pull/15) in [raindigi/cinema-microservice](https://github.com/raindigi/cinema-microservice)
-5. 💪 Opened PR [#61](https://github.com/saurabharch/taniarascia.com/pull/61) in [saurabharch/taniarascia.com](https://github.com/saurabharch/taniarascia.com)
+1. 💪 Opened PR [#30](https://github.com/raindigi/pizzaql/pull/30) in [raindigi/pizzaql](https://github.com/raindigi/pizzaql)
+2. 💪 Opened PR [#90](https://github.com/saurabhkashyap/graphql-asia/pull/90) in [saurabhkashyap/graphql-asia](https://github.com/saurabhkashyap/graphql-asia)
+3. 💪 Opened PR [#57](https://github.com/saurabharch/microservices-example/pull/57) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
+4. 💪 Opened PR [#42](https://github.com/saurabharch/mean-full-starter/pull/42) in [saurabharch/mean-full-starter](https://github.com/saurabharch/mean-full-starter)
+5. 💪 Opened PR [#174](https://github.com/saurabharch/summit-workshop/pull/174) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
 <!--END_SECTION:activity-->
 <br/>
 
