@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1871](https://github.com/saurabharch/gatsby/pull/1871) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-2. 💪 Opened PR [#50](https://github.com/raindigi/stf/pull/50) in [raindigi/stf](https://github.com/raindigi/stf)
-3. 💪 Opened PR [#46](https://github.com/saurabharch/meanblog/pull/46) in [saurabharch/meanblog](https://github.com/saurabharch/meanblog)
-4. 💪 Opened PR [#60](https://github.com/saurabharch/microservices-example/pull/60) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
-5. 💪 Opened PR [#2](https://github.com/saurabharch/ascoltatori/pull/2) in [saurabharch/ascoltatori](https://github.com/saurabharch/ascoltatori)
+1. 💪 Opened PR [#58](https://github.com/saurabharch/snippets/pull/58) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
+2. 💪 Opened PR [#337](https://github.com/saurabharch/react/pull/337) in [saurabharch/react](https://github.com/saurabharch/react)
+3. 💪 Opened PR [#1871](https://github.com/saurabharch/gatsby/pull/1871) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+4. 💪 Opened PR [#50](https://github.com/raindigi/stf/pull/50) in [raindigi/stf](https://github.com/raindigi/stf)
+5. 💪 Opened PR [#46](https://github.com/saurabharch/meanblog/pull/46) in [saurabharch/meanblog](https://github.com/saurabharch/meanblog)
 <!--END_SECTION:activity-->
 <br/>
 
