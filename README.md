@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/saurabharch/n8n/pull/16) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
-2. 💪 Opened PR [#94](https://github.com/saurabharch/odoo/pull/94) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
-3. 💪 Opened PR [#1990](https://github.com/saurabharch/gatsby/pull/1990) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#215](https://github.com/saurabharch/spectrum/pull/215) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
-5. 💪 Opened PR [#1988](https://github.com/saurabharch/gatsby/pull/1988) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+1. ❌ Closed PR [#16](https://github.com/saurabharch/n8n/pull/16) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
+2. ❌ Closed PR [#9](https://github.com/saurabharch/n8n/pull/9) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
+3. ❌ Closed PR [#8](https://github.com/saurabharch/n8n/pull/8) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
+4. ❌ Closed PR [#7](https://github.com/saurabharch/n8n/pull/7) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
+5. ❌ Closed PR [#6](https://github.com/saurabharch/n8n/pull/6) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
 <!--END_SECTION:activity-->
 <br/>
 
