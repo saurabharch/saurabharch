@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#96](https://github.com/saurabharch/odoo/pull/96) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
-2. 💪 Opened PR [#16](https://github.com/raindigi/example-voting-app/pull/16) in [raindigi/example-voting-app](https://github.com/raindigi/example-voting-app)
-3. 💪 Opened PR [#1994](https://github.com/saurabharch/gatsby/pull/1994) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#1993](https://github.com/saurabharch/gatsby/pull/1993) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-5. 💪 Opened PR [#35](https://github.com/saurabharch/merge-conflicts/pull/35) in [saurabharch/merge-conflicts](https://github.com/saurabharch/merge-conflicts)
+1. 💪 Opened PR [#2](https://github.com/saurabharch/camelot/pull/2) in [saurabharch/camelot](https://github.com/saurabharch/camelot)
+2. 💪 Opened PR [#96](https://github.com/saurabharch/odoo/pull/96) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
+3. 💪 Opened PR [#16](https://github.com/raindigi/example-voting-app/pull/16) in [raindigi/example-voting-app](https://github.com/raindigi/example-voting-app)
+4. 💪 Opened PR [#1994](https://github.com/saurabharch/gatsby/pull/1994) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+5. 💪 Opened PR [#1993](https://github.com/saurabharch/gatsby/pull/1993) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
