@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/raindigi/eShopOnContainersAI/pull/33) in [raindigi/eShopOnContainersAI](https://github.com/raindigi/eShopOnContainersAI)
-2. 💪 Opened PR [#37](https://github.com/saurabharch/AdvMasterDetails/pull/37) in [saurabharch/AdvMasterDetails](https://github.com/saurabharch/AdvMasterDetails)
-3. 💪 Opened PR [#36](https://github.com/saurabharch/AdvMasterDetails/pull/36) in [saurabharch/AdvMasterDetails](https://github.com/saurabharch/AdvMasterDetails)
-4. 💪 Opened PR [#2](https://github.com/saurabharch/camelot/pull/2) in [saurabharch/camelot](https://github.com/saurabharch/camelot)
-5. 💪 Opened PR [#96](https://github.com/saurabharch/odoo/pull/96) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
+1. 💪 Opened PR [#29](https://github.com/raindigi/eShopOnContainers/pull/29) in [raindigi/eShopOnContainers](https://github.com/raindigi/eShopOnContainers)
+2. 💪 Opened PR [#34](https://github.com/raindigi/eShopOnContainersAI/pull/34) in [raindigi/eShopOnContainersAI](https://github.com/raindigi/eShopOnContainersAI)
+3. 💪 Opened PR [#33](https://github.com/raindigi/eShopOnContainersAI/pull/33) in [raindigi/eShopOnContainersAI](https://github.com/raindigi/eShopOnContainersAI)
+4. 💪 Opened PR [#37](https://github.com/saurabharch/AdvMasterDetails/pull/37) in [saurabharch/AdvMasterDetails](https://github.com/saurabharch/AdvMasterDetails)
+5. 💪 Opened PR [#36](https://github.com/saurabharch/AdvMasterDetails/pull/36) in [saurabharch/AdvMasterDetails](https://github.com/saurabharch/AdvMasterDetails)
 <!--END_SECTION:activity-->
 <br/>
 
