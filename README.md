@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/saurabharch/typeorm/pull/38) in [saurabharch/typeorm](https://github.com/saurabharch/typeorm)
-2. 💪 Opened PR [#360](https://github.com/saurabharch/react/pull/360) in [saurabharch/react](https://github.com/saurabharch/react)
-3. 💪 Opened PR [#27](https://github.com/saurabharch/n8n/pull/27) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
-4. 💪 Opened PR [#26](https://github.com/saurabharch/n8n/pull/26) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
-5. 💪 Opened PR [#39](https://github.com/saurabharch/AdvMasterDetails/pull/39) in [saurabharch/AdvMasterDetails](https://github.com/saurabharch/AdvMasterDetails)
+1. 💪 Opened PR [#47](https://github.com/raindigi/erxes-api/pull/47) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
+2. 💪 Opened PR [#38](https://github.com/saurabharch/typeorm/pull/38) in [saurabharch/typeorm](https://github.com/saurabharch/typeorm)
+3. 💪 Opened PR [#360](https://github.com/saurabharch/react/pull/360) in [saurabharch/react](https://github.com/saurabharch/react)
+4. 💪 Opened PR [#27](https://github.com/saurabharch/n8n/pull/27) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
+5. 💪 Opened PR [#26](https://github.com/saurabharch/n8n/pull/26) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
 <!--END_SECTION:activity-->
 <br/>
 
