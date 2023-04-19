@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2006](https://github.com/saurabharch/gatsby/pull/2006) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-2. 💪 Opened PR [#2005](https://github.com/saurabharch/gatsby/pull/2005) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-3. 💪 Opened PR [#2003](https://github.com/saurabharch/gatsby/pull/2003) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#2002](https://github.com/saurabharch/gatsby/pull/2002) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-5. 💪 Opened PR [#55](https://github.com/saurabharch/nicky-blog/pull/55) in [saurabharch/nicky-blog](https://github.com/saurabharch/nicky-blog)
+1. 💪 Opened PR [#2007](https://github.com/saurabharch/gatsby/pull/2007) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+2. 💪 Opened PR [#2006](https://github.com/saurabharch/gatsby/pull/2006) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+3. 💪 Opened PR [#2005](https://github.com/saurabharch/gatsby/pull/2005) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+4. 💪 Opened PR [#2003](https://github.com/saurabharch/gatsby/pull/2003) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+5. 💪 Opened PR [#2002](https://github.com/saurabharch/gatsby/pull/2002) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
