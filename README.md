@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#364](https://github.com/saurabharch/rollout/pull/364) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
-2. ❌ Closed PR [#359](https://github.com/saurabharch/rollout/pull/359) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
-3. ❌ Closed PR [#357](https://github.com/saurabharch/rollout/pull/357) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
-4. ❌ Closed PR [#358](https://github.com/saurabharch/rollout/pull/358) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
-5. ❌ Closed PR [#356](https://github.com/saurabharch/rollout/pull/356) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
+1. 💪 Opened PR [#374](https://github.com/saurabharch/rollout/pull/374) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
+2. 💪 Opened PR [#373](https://github.com/saurabharch/rollout/pull/373) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
+3. 💪 Opened PR [#372](https://github.com/saurabharch/rollout/pull/372) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
+4. 💪 Opened PR [#371](https://github.com/saurabharch/rollout/pull/371) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
+5. 💪 Opened PR [#370](https://github.com/saurabharch/rollout/pull/370) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
 <!--END_SECTION:activity-->
 <br/>
 
