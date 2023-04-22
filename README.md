@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#371](https://github.com/saurabharch/rollout/pull/371) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
-2. 🎉 Merged PR [#372](https://github.com/saurabharch/rollout/pull/372) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
-3. 🎉 Merged PR [#374](https://github.com/saurabharch/rollout/pull/374) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
-4. 🎉 Merged PR [#366](https://github.com/saurabharch/rollout/pull/366) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
-5. 💪 Opened PR [#374](https://github.com/saurabharch/rollout/pull/374) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
+1. 💪 Opened PR [#384](https://github.com/saurabharch/rollout/pull/384) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
+2. 💪 Opened PR [#383](https://github.com/saurabharch/rollout/pull/383) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
+3. 💪 Opened PR [#382](https://github.com/saurabharch/rollout/pull/382) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
+4. 🎉 Merged PR [#371](https://github.com/saurabharch/rollout/pull/371) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
+5. 🎉 Merged PR [#372](https://github.com/saurabharch/rollout/pull/372) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
 <!--END_SECTION:activity-->
 <br/>
 
