@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#218](https://github.com/saurabharch/spectrum/pull/218) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
-2. 💪 Opened PR [#51](https://github.com/raindigi/stf/pull/51) in [raindigi/stf](https://github.com/raindigi/stf)
-3. 💪 Opened PR [#2013](https://github.com/saurabharch/gatsby/pull/2013) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. ❌ Closed PR [#2012](https://github.com/saurabharch/gatsby/pull/2012) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-5. 💪 Opened PR [#2012](https://github.com/saurabharch/gatsby/pull/2012) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+1. 💪 Opened PR [#2014](https://github.com/saurabharch/gatsby/pull/2014) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+2. 💪 Opened PR [#218](https://github.com/saurabharch/spectrum/pull/218) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
+3. 💪 Opened PR [#51](https://github.com/raindigi/stf/pull/51) in [raindigi/stf](https://github.com/raindigi/stf)
+4. 💪 Opened PR [#2013](https://github.com/saurabharch/gatsby/pull/2013) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+5. ❌ Closed PR [#2012](https://github.com/saurabharch/gatsby/pull/2012) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
