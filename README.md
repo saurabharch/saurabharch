@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#67](https://github.com/saurabharch/CodeGenius/pull/67) in [saurabharch/CodeGenius](https://github.com/saurabharch/CodeGenius)
-2. 💪 Opened PR [#362](https://github.com/saurabharch/react/pull/362) in [saurabharch/react](https://github.com/saurabharch/react)
-3. 💪 Opened PR [#91](https://github.com/saurabharch/NodeBB/pull/91) in [saurabharch/NodeBB](https://github.com/saurabharch/NodeBB)
-4. 💪 Opened PR [#29](https://github.com/saurabharch/elasticsearch-client/pull/29) in [saurabharch/elasticsearch-client](https://github.com/saurabharch/elasticsearch-client)
-5. 💪 Opened PR [#28](https://github.com/saurabharch/elasticsearch-client/pull/28) in [saurabharch/elasticsearch-client](https://github.com/saurabharch/elasticsearch-client)
+1. 💪 Opened PR [#50](https://github.com/raindigi/erxes-api/pull/50) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
+2. 💪 Opened PR [#67](https://github.com/saurabharch/CodeGenius/pull/67) in [saurabharch/CodeGenius](https://github.com/saurabharch/CodeGenius)
+3. 💪 Opened PR [#362](https://github.com/saurabharch/react/pull/362) in [saurabharch/react](https://github.com/saurabharch/react)
+4. 💪 Opened PR [#91](https://github.com/saurabharch/NodeBB/pull/91) in [saurabharch/NodeBB](https://github.com/saurabharch/NodeBB)
+5. 💪 Opened PR [#29](https://github.com/saurabharch/elasticsearch-client/pull/29) in [saurabharch/elasticsearch-client](https://github.com/saurabharch/elasticsearch-client)
 <!--END_SECTION:activity-->
 <br/>
 
