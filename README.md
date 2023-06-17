@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2172](https://github.com/saurabharch/gatsby/pull/2172) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-2. 💪 Opened PR [#63](https://github.com/raindigi/medium-blog-kafka-udemy/pull/63) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
-3. 💪 Opened PR [#62](https://github.com/raindigi/medium-blog-kafka-udemy/pull/62) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
-4. 💪 Opened PR [#171](https://github.com/saurabharch/cyph/pull/171) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-5. 💪 Opened PR [#50](https://github.com/saurabharch/mail-for-good/pull/50) in [saurabharch/mail-for-good](https://github.com/saurabharch/mail-for-good)
+1. 💪 Opened PR [#64](https://github.com/raindigi/medium-blog-kafka-udemy/pull/64) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+2. 💪 Opened PR [#2172](https://github.com/saurabharch/gatsby/pull/2172) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+3. 💪 Opened PR [#63](https://github.com/raindigi/medium-blog-kafka-udemy/pull/63) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+4. 💪 Opened PR [#62](https://github.com/raindigi/medium-blog-kafka-udemy/pull/62) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+5. 💪 Opened PR [#171](https://github.com/saurabharch/cyph/pull/171) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
 <!--END_SECTION:activity-->
 <br/>
 
