@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#104](https://github.com/raindigi/black-shop/pull/104) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
-2. 💪 Opened PR [#99](https://github.com/saurabhkashyap/graphql-asia/pull/99) in [saurabhkashyap/graphql-asia](https://github.com/saurabhkashyap/graphql-asia)
-3. 💪 Opened PR [#64](https://github.com/raindigi/medium-blog-kafka-udemy/pull/64) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
-4. 💪 Opened PR [#2172](https://github.com/saurabharch/gatsby/pull/2172) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-5. 💪 Opened PR [#63](https://github.com/raindigi/medium-blog-kafka-udemy/pull/63) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+1. 💪 Opened PR [#105](https://github.com/raindigi/black-shop/pull/105) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+2. 💪 Opened PR [#104](https://github.com/raindigi/black-shop/pull/104) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+3. 💪 Opened PR [#99](https://github.com/saurabhkashyap/graphql-asia/pull/99) in [saurabhkashyap/graphql-asia](https://github.com/saurabhkashyap/graphql-asia)
+4. 💪 Opened PR [#64](https://github.com/raindigi/medium-blog-kafka-udemy/pull/64) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+5. 💪 Opened PR [#2172](https://github.com/saurabharch/gatsby/pull/2172) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
