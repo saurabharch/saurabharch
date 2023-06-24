@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2244](https://github.com/saurabharch/gatsby/pull/2244) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-2. 💪 Opened PR [#2243](https://github.com/saurabharch/gatsby/pull/2243) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-3. 💪 Opened PR [#102](https://github.com/saurabhkashyap/graphql-asia/pull/102) in [saurabhkashyap/graphql-asia](https://github.com/saurabhkashyap/graphql-asia)
-4. 💪 Opened PR [#2242](https://github.com/saurabharch/gatsby/pull/2242) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-5. 💪 Opened PR [#126](https://github.com/saurabharch/fireship.io/pull/126) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
+1. 💪 Opened PR [#2246](https://github.com/saurabharch/gatsby/pull/2246) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+2. 💪 Opened PR [#2245](https://github.com/saurabharch/gatsby/pull/2245) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+3. 💪 Opened PR [#2244](https://github.com/saurabharch/gatsby/pull/2244) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+4. 💪 Opened PR [#2243](https://github.com/saurabharch/gatsby/pull/2243) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+5. 💪 Opened PR [#102](https://github.com/saurabhkashyap/graphql-asia/pull/102) in [saurabhkashyap/graphql-asia](https://github.com/saurabhkashyap/graphql-asia)
 <!--END_SECTION:activity-->
 <br/>
 
