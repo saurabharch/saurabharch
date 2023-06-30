@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#222](https://github.com/saurabharch/spectrum/pull/222) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
-2. 💪 Opened PR [#45](https://github.com/saurabharch/moonly-app/pull/45) in [saurabharch/moonly-app](https://github.com/saurabharch/moonly-app)
-3. 💪 Opened PR [#109](https://github.com/saurabharch/dev.to/pull/109) in [saurabharch/dev.to](https://github.com/saurabharch/dev.to)
-4. 💪 Opened PR [#63](https://github.com/saurabharch/yatrum-api/pull/63) in [saurabharch/yatrum-api](https://github.com/saurabharch/yatrum-api)
-5. 💪 Opened PR [#173](https://github.com/saurabharch/cyph/pull/173) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
+1. ❌ Closed PR [#30](https://github.com/raindigi/mailtrain/pull/30) in [raindigi/mailtrain](https://github.com/raindigi/mailtrain)
+2. 💪 Opened PR [#30](https://github.com/raindigi/mailtrain/pull/30) in [raindigi/mailtrain](https://github.com/raindigi/mailtrain)
+3. 💪 Opened PR [#74](https://github.com/saurabharch/fastyper/pull/74) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
+4. ❌ Closed PR [#88](https://github.com/saurabharch/react-rewards/pull/88) in [saurabharch/react-rewards](https://github.com/saurabharch/react-rewards)
+5. 💪 Opened PR [#88](https://github.com/saurabharch/react-rewards/pull/88) in [saurabharch/react-rewards](https://github.com/saurabharch/react-rewards)
 <!--END_SECTION:activity-->
 <br/>
 
