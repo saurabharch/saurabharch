@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#30](https://github.com/raindigi/mailtrain/pull/30) in [raindigi/mailtrain](https://github.com/raindigi/mailtrain)
-2. 💪 Opened PR [#30](https://github.com/raindigi/mailtrain/pull/30) in [raindigi/mailtrain](https://github.com/raindigi/mailtrain)
-3. 💪 Opened PR [#74](https://github.com/saurabharch/fastyper/pull/74) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
-4. ❌ Closed PR [#88](https://github.com/saurabharch/react-rewards/pull/88) in [saurabharch/react-rewards](https://github.com/saurabharch/react-rewards)
-5. 💪 Opened PR [#88](https://github.com/saurabharch/react-rewards/pull/88) in [saurabharch/react-rewards](https://github.com/saurabharch/react-rewards)
+1. 💪 Opened PR [#19](https://github.com/saurabharch/first-timers-bot/pull/19) in [saurabharch/first-timers-bot](https://github.com/saurabharch/first-timers-bot)
+2. 💪 Opened PR [#56](https://github.com/raindigi/room-booking-system/pull/56) in [raindigi/room-booking-system](https://github.com/raindigi/room-booking-system)
+3. ❌ Closed PR [#30](https://github.com/raindigi/mailtrain/pull/30) in [raindigi/mailtrain](https://github.com/raindigi/mailtrain)
+4. 💪 Opened PR [#30](https://github.com/raindigi/mailtrain/pull/30) in [raindigi/mailtrain](https://github.com/raindigi/mailtrain)
+5. 💪 Opened PR [#74](https://github.com/saurabharch/fastyper/pull/74) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
 <!--END_SECTION:activity-->
 <br/>
 
