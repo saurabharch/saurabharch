@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/saurabharch/demo.lazywill.com/pull/46) in [saurabharch/demo.lazywill.com](https://github.com/saurabharch/demo.lazywill.com)
-2. 💪 Opened PR [#223](https://github.com/saurabharch/spectrum/pull/223) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
-3. 💪 Opened PR [#2255](https://github.com/saurabharch/gatsby/pull/2255) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#2254](https://github.com/saurabharch/gatsby/pull/2254) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-5. 💪 Opened PR [#372](https://github.com/saurabharch/react/pull/372) in [saurabharch/react](https://github.com/saurabharch/react)
+1. 💪 Opened PR [#55](https://github.com/saurabharch/bulma-book-code/pull/55) in [saurabharch/bulma-book-code](https://github.com/saurabharch/bulma-book-code)
+2. 💪 Opened PR [#46](https://github.com/saurabharch/demo.lazywill.com/pull/46) in [saurabharch/demo.lazywill.com](https://github.com/saurabharch/demo.lazywill.com)
+3. 💪 Opened PR [#223](https://github.com/saurabharch/spectrum/pull/223) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
+4. 💪 Opened PR [#2255](https://github.com/saurabharch/gatsby/pull/2255) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+5. 💪 Opened PR [#2254](https://github.com/saurabharch/gatsby/pull/2254) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
