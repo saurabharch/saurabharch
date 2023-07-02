@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/saurabharch/react-phone-e-commerce-project/pull/43) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
-2. 💪 Opened PR [#55](https://github.com/saurabharch/bulma-book-code/pull/55) in [saurabharch/bulma-book-code](https://github.com/saurabharch/bulma-book-code)
-3. 💪 Opened PR [#46](https://github.com/saurabharch/demo.lazywill.com/pull/46) in [saurabharch/demo.lazywill.com](https://github.com/saurabharch/demo.lazywill.com)
-4. 💪 Opened PR [#223](https://github.com/saurabharch/spectrum/pull/223) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
-5. 💪 Opened PR [#2255](https://github.com/saurabharch/gatsby/pull/2255) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+1. 💪 Opened PR [#101](https://github.com/saurabharch/odoo/pull/101) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
+2. 💪 Opened PR [#2256](https://github.com/saurabharch/gatsby/pull/2256) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+3. 💪 Opened PR [#43](https://github.com/saurabharch/react-phone-e-commerce-project/pull/43) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
+4. 💪 Opened PR [#55](https://github.com/saurabharch/bulma-book-code/pull/55) in [saurabharch/bulma-book-code](https://github.com/saurabharch/bulma-book-code)
+5. 💪 Opened PR [#46](https://github.com/saurabharch/demo.lazywill.com/pull/46) in [saurabharch/demo.lazywill.com](https://github.com/saurabharch/demo.lazywill.com)
 <!--END_SECTION:activity-->
 <br/>
 
