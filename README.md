@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#44](https://github.com/saurabharch/react-phone-e-commerce-project/pull/44) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
-2. 💪 Opened PR [#175](https://github.com/raindigi/Advanced-React/pull/175) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
-3. 💪 Opened PR [#101](https://github.com/saurabharch/odoo/pull/101) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
-4. 💪 Opened PR [#2256](https://github.com/saurabharch/gatsby/pull/2256) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-5. 💪 Opened PR [#43](https://github.com/saurabharch/react-phone-e-commerce-project/pull/43) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
+1. 💪 Opened PR [#33](https://github.com/raindigi/pizzaql/pull/33) in [raindigi/pizzaql](https://github.com/raindigi/pizzaql)
+2. 💪 Opened PR [#44](https://github.com/saurabharch/react-phone-e-commerce-project/pull/44) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
+3. 💪 Opened PR [#175](https://github.com/raindigi/Advanced-React/pull/175) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
+4. 💪 Opened PR [#101](https://github.com/saurabharch/odoo/pull/101) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
+5. 💪 Opened PR [#2256](https://github.com/saurabharch/gatsby/pull/2256) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
