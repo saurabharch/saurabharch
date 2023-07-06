@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#128](https://github.com/saurabharch/fireship.io/pull/128) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
-2. 💪 Opened PR [#176](https://github.com/raindigi/Advanced-React/pull/176) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
-3. 💪 Opened PR [#71](https://github.com/saurabharch/create-react-app/pull/71) in [saurabharch/create-react-app](https://github.com/saurabharch/create-react-app)
-4. 💪 Opened PR [#151](https://github.com/saurabharch/Story/pull/151) in [saurabharch/Story](https://github.com/saurabharch/Story)
-5. 💪 Opened PR [#224](https://github.com/saurabharch/spectrum/pull/224) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
+1. 💪 Opened PR [#341](https://github.com/raindigi/site-landing/pull/341) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
+2. 💪 Opened PR [#128](https://github.com/saurabharch/fireship.io/pull/128) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
+3. 💪 Opened PR [#176](https://github.com/raindigi/Advanced-React/pull/176) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
+4. 💪 Opened PR [#71](https://github.com/saurabharch/create-react-app/pull/71) in [saurabharch/create-react-app](https://github.com/saurabharch/create-react-app)
+5. 💪 Opened PR [#151](https://github.com/saurabharch/Story/pull/151) in [saurabharch/Story](https://github.com/saurabharch/Story)
 <!--END_SECTION:activity-->
 <br/>
 
