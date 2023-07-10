@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](https://github.com/saurabharch/CodeGenius/pull/70) in [saurabharch/CodeGenius](https://github.com/saurabharch/CodeGenius)
-2. 💪 Opened PR [#178](https://github.com/raindigi/Advanced-React/pull/178) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
-3. 💪 Opened PR [#64](https://github.com/saurabharch/snippets/pull/64) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
-4. 💪 Opened PR [#64](https://github.com/saurabharch/EBB/pull/64) in [saurabharch/EBB](https://github.com/saurabharch/EBB)
-5. 💪 Opened PR [#7](https://github.com/raindigi/eShopModernizing/pull/7) in [raindigi/eShopModernizing](https://github.com/raindigi/eShopModernizing)
+1. 💪 Opened PR [#107](https://github.com/raindigi/black-shop/pull/107) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+2. 💪 Opened PR [#61](https://github.com/saurabharch/TerraWatts/pull/61) in [saurabharch/TerraWatts](https://github.com/saurabharch/TerraWatts)
+3. 💪 Opened PR [#70](https://github.com/saurabharch/CodeGenius/pull/70) in [saurabharch/CodeGenius](https://github.com/saurabharch/CodeGenius)
+4. 💪 Opened PR [#178](https://github.com/raindigi/Advanced-React/pull/178) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
+5. 💪 Opened PR [#64](https://github.com/saurabharch/snippets/pull/64) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
 <!--END_SECTION:activity-->
 <br/>
 
