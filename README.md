@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#185](https://github.com/saurabharch/summit-workshop/pull/185) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
-2. 💪 Opened PR [#16](https://github.com/saurabharch/web-push-book/pull/16) in [saurabharch/web-push-book](https://github.com/saurabharch/web-push-book)
-3. 💪 Opened PR [#47](https://github.com/saurabharch/meanblog/pull/47) in [saurabharch/meanblog](https://github.com/saurabharch/meanblog)
-4. 💪 Opened PR [#2257](https://github.com/saurabharch/gatsby/pull/2257) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-5. 💪 Opened PR [#197](https://github.com/saurabharch/wekanhow/pull/197) in [saurabharch/wekanhow](https://github.com/saurabharch/wekanhow)
+1. 💪 Opened PR [#86](https://github.com/raindigi/Merchello/pull/86) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
+2. 💪 Opened PR [#185](https://github.com/saurabharch/summit-workshop/pull/185) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
+3. 💪 Opened PR [#16](https://github.com/saurabharch/web-push-book/pull/16) in [saurabharch/web-push-book](https://github.com/saurabharch/web-push-book)
+4. 💪 Opened PR [#47](https://github.com/saurabharch/meanblog/pull/47) in [saurabharch/meanblog](https://github.com/saurabharch/meanblog)
+5. 💪 Opened PR [#2257](https://github.com/saurabharch/gatsby/pull/2257) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
