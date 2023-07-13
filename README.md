@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#87](https://github.com/raindigi/Merchello/pull/87) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
-2. 💪 Opened PR [#86](https://github.com/raindigi/Merchello/pull/86) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
-3. 💪 Opened PR [#185](https://github.com/saurabharch/summit-workshop/pull/185) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
-4. 💪 Opened PR [#16](https://github.com/saurabharch/web-push-book/pull/16) in [saurabharch/web-push-book](https://github.com/saurabharch/web-push-book)
-5. 💪 Opened PR [#47](https://github.com/saurabharch/meanblog/pull/47) in [saurabharch/meanblog](https://github.com/saurabharch/meanblog)
+1. 💪 Opened PR [#75](https://github.com/saurabharch/gatsby-starter-kitchen-sink/pull/75) in [saurabharch/gatsby-starter-kitchen-sink](https://github.com/saurabharch/gatsby-starter-kitchen-sink)
+2. 💪 Opened PR [#87](https://github.com/raindigi/Merchello/pull/87) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
+3. 💪 Opened PR [#86](https://github.com/raindigi/Merchello/pull/86) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
+4. 💪 Opened PR [#185](https://github.com/saurabharch/summit-workshop/pull/185) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
+5. 💪 Opened PR [#16](https://github.com/saurabharch/web-push-book/pull/16) in [saurabharch/web-push-book](https://github.com/saurabharch/web-push-book)
 <!--END_SECTION:activity-->
 <br/>
 
