@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#91](https://github.com/raindigi/Merchello/pull/91) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
-2. 💪 Opened PR [#90](https://github.com/raindigi/Merchello/pull/90) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
-3. 💪 Opened PR [#89](https://github.com/raindigi/Merchello/pull/89) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
-4. 💪 Opened PR [#2258](https://github.com/saurabharch/gatsby/pull/2258) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-5. 💪 Opened PR [#36](https://github.com/saurabharch/angular4-mails/pull/36) in [saurabharch/angular4-mails](https://github.com/saurabharch/angular4-mails)
+1. 🎉 Merged PR [#405](https://github.com/saurabharch/rollout/pull/405) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
+2. 💪 Opened PR [#405](https://github.com/saurabharch/rollout/pull/405) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
+3. 💪 Opened PR [#91](https://github.com/raindigi/Merchello/pull/91) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
+4. 💪 Opened PR [#90](https://github.com/raindigi/Merchello/pull/90) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
+5. 💪 Opened PR [#89](https://github.com/raindigi/Merchello/pull/89) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
 <!--END_SECTION:activity-->
 <br/>
 
