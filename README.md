@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#62](https://github.com/saurabharch/TerraWatts/pull/62) in [saurabharch/TerraWatts](https://github.com/saurabharch/TerraWatts)
-2. 💪 Opened PR [#16](https://github.com/raindigi/erxes-integrations/pull/16) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
-3. 💪 Opened PR [#65](https://github.com/saurabharch/microservices-example/pull/65) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
-4. 💪 Opened PR [#18](https://github.com/saurabharch/meanstacktutorial/pull/18) in [saurabharch/meanstacktutorial](https://github.com/saurabharch/meanstacktutorial)
-5. 💪 Opened PR [#65](https://github.com/saurabharch/EBB/pull/65) in [saurabharch/EBB](https://github.com/saurabharch/EBB)
+1. 💪 Opened PR [#101](https://github.com/saurabharch/meeting-for-good/pull/101) in [saurabharch/meeting-for-good](https://github.com/saurabharch/meeting-for-good)
+2. 💪 Opened PR [#52](https://github.com/raindigi/erxes-api/pull/52) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
+3. 💪 Opened PR [#62](https://github.com/saurabharch/TerraWatts/pull/62) in [saurabharch/TerraWatts](https://github.com/saurabharch/TerraWatts)
+4. 💪 Opened PR [#16](https://github.com/raindigi/erxes-integrations/pull/16) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
+5. 💪 Opened PR [#65](https://github.com/saurabharch/microservices-example/pull/65) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
 <!--END_SECTION:activity-->
 <br/>
 
