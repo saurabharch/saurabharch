@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/saurabharch/meanstacktutorial/pull/18) in [saurabharch/meanstacktutorial](https://github.com/saurabharch/meanstacktutorial)
-2. 💪 Opened PR [#65](https://github.com/saurabharch/EBB/pull/65) in [saurabharch/EBB](https://github.com/saurabharch/EBB)
-3. 💪 Opened PR [#13](https://github.com/saurabharch/node-dc-mongo/pull/13) in [saurabharch/node-dc-mongo](https://github.com/saurabharch/node-dc-mongo)
-4. 💪 Opened PR [#64](https://github.com/saurabharch/microservices-example/pull/64) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
-5. 💪 Opened PR [#152](https://github.com/saurabharch/Story/pull/152) in [saurabharch/Story](https://github.com/saurabharch/Story)
+1. 💪 Opened PR [#65](https://github.com/saurabharch/microservices-example/pull/65) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
+2. 💪 Opened PR [#18](https://github.com/saurabharch/meanstacktutorial/pull/18) in [saurabharch/meanstacktutorial](https://github.com/saurabharch/meanstacktutorial)
+3. 💪 Opened PR [#65](https://github.com/saurabharch/EBB/pull/65) in [saurabharch/EBB](https://github.com/saurabharch/EBB)
+4. 💪 Opened PR [#13](https://github.com/saurabharch/node-dc-mongo/pull/13) in [saurabharch/node-dc-mongo](https://github.com/saurabharch/node-dc-mongo)
+5. 💪 Opened PR [#64](https://github.com/saurabharch/microservices-example/pull/64) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
 <!--END_SECTION:activity-->
 <br/>
 
