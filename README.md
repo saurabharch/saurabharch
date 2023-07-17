@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#65](https://github.com/saurabharch/microservices-example/pull/65) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
-2. 💪 Opened PR [#18](https://github.com/saurabharch/meanstacktutorial/pull/18) in [saurabharch/meanstacktutorial](https://github.com/saurabharch/meanstacktutorial)
-3. 💪 Opened PR [#65](https://github.com/saurabharch/EBB/pull/65) in [saurabharch/EBB](https://github.com/saurabharch/EBB)
-4. 💪 Opened PR [#13](https://github.com/saurabharch/node-dc-mongo/pull/13) in [saurabharch/node-dc-mongo](https://github.com/saurabharch/node-dc-mongo)
-5. 💪 Opened PR [#64](https://github.com/saurabharch/microservices-example/pull/64) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
+1. 💪 Opened PR [#16](https://github.com/raindigi/erxes-integrations/pull/16) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
+2. 💪 Opened PR [#65](https://github.com/saurabharch/microservices-example/pull/65) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
+3. 💪 Opened PR [#18](https://github.com/saurabharch/meanstacktutorial/pull/18) in [saurabharch/meanstacktutorial](https://github.com/saurabharch/meanstacktutorial)
+4. 💪 Opened PR [#65](https://github.com/saurabharch/EBB/pull/65) in [saurabharch/EBB](https://github.com/saurabharch/EBB)
+5. 💪 Opened PR [#13](https://github.com/saurabharch/node-dc-mongo/pull/13) in [saurabharch/node-dc-mongo](https://github.com/saurabharch/node-dc-mongo)
 <!--END_SECTION:activity-->
 <br/>
 
