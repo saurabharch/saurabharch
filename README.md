@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#66](https://github.com/raindigi/medium-blog-kafka-udemy/pull/66) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
-2. 💪 Opened PR [#65](https://github.com/raindigi/medium-blog-kafka-udemy/pull/65) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
-3. 🎉 Merged PR [#1](https://github.com/saurabharch/jenkins-with-nodejs/pull/1) in [saurabharch/jenkins-with-nodejs](https://github.com/saurabharch/jenkins-with-nodejs)
-4. 💪 Opened PR [#18](https://github.com/saurabharch/Ionic-3-Uber/pull/18) in [saurabharch/Ionic-3-Uber](https://github.com/saurabharch/Ionic-3-Uber)
-5. 💪 Opened PR [#92](https://github.com/raindigi/Ghost/pull/92) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
+1. 💪 Opened PR [#67](https://github.com/raindigi/medium-blog-kafka-udemy/pull/67) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+2. 💪 Opened PR [#66](https://github.com/raindigi/medium-blog-kafka-udemy/pull/66) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+3. 💪 Opened PR [#65](https://github.com/raindigi/medium-blog-kafka-udemy/pull/65) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+4. 🎉 Merged PR [#1](https://github.com/saurabharch/jenkins-with-nodejs/pull/1) in [saurabharch/jenkins-with-nodejs](https://github.com/saurabharch/jenkins-with-nodejs)
+5. 💪 Opened PR [#18](https://github.com/saurabharch/Ionic-3-Uber/pull/18) in [saurabharch/Ionic-3-Uber](https://github.com/saurabharch/Ionic-3-Uber)
 <!--END_SECTION:activity-->
 <br/>
 
