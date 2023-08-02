@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#84](https://github.com/saurabharch/docs-tools/pull/84) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
-2. 💪 Opened PR [#92](https://github.com/raindigi/Merchello/pull/92) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
-3. 💪 Opened PR [#175](https://github.com/saurabharch/cyph/pull/175) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-4. 💪 Opened PR [#83](https://github.com/saurabharch/docs-tools/pull/83) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
-5. 💪 Opened PR [#58](https://github.com/saurabharch/autopush/pull/58) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
+1. 💪 Opened PR [#59](https://github.com/saurabharch/autopush/pull/59) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
+2. 💪 Opened PR [#84](https://github.com/saurabharch/docs-tools/pull/84) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
+3. 💪 Opened PR [#92](https://github.com/raindigi/Merchello/pull/92) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
+4. 💪 Opened PR [#175](https://github.com/saurabharch/cyph/pull/175) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
+5. 💪 Opened PR [#83](https://github.com/saurabharch/docs-tools/pull/83) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
 <!--END_SECTION:activity-->
 <br/>
 
