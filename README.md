@@ -213,6 +213,8 @@
 -  issuehunt: saurabharch
 -  otechie: saurabharch
 
+# Scan QR
+<a href='https://github.com/saurabharch' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://raw.githubusercontent.com/saurabharch/java-prepration/master/lib/MyQRCode.png' border='0' alt='Scan Here' />
   
 ![Visitor Count](https://profile-counter.glitch.me/{saurabharch}/count.svg)
 
