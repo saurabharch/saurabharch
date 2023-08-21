@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#131](https://github.com/saurabharch/fireship.io/pull/131) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
-2. 💪 Opened PR [#7](https://github.com/raindigi/Ghost-Admin/pull/7) in [raindigi/Ghost-Admin](https://github.com/raindigi/Ghost-Admin)
-3. 💪 Opened PR [#342](https://github.com/raindigi/site-landing/pull/342) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
-4. 💪 Opened PR [#60](https://github.com/saurabharch/autopush/pull/60) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
-5. 💪 Opened PR [#42](https://github.com/saurabharch/merge-conflicts/pull/42) in [saurabharch/merge-conflicts](https://github.com/saurabharch/merge-conflicts)
+1. 💪 Opened PR [#64](https://github.com/saurabharch/yatrum-api/pull/64) in [saurabharch/yatrum-api](https://github.com/saurabharch/yatrum-api)
+2. 💪 Opened PR [#131](https://github.com/saurabharch/fireship.io/pull/131) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
+3. 💪 Opened PR [#7](https://github.com/raindigi/Ghost-Admin/pull/7) in [raindigi/Ghost-Admin](https://github.com/raindigi/Ghost-Admin)
+4. 💪 Opened PR [#342](https://github.com/raindigi/site-landing/pull/342) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
+5. 💪 Opened PR [#60](https://github.com/saurabharch/autopush/pull/60) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
 <!--END_SECTION:activity-->
 <br/>
 
