@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#108](https://github.com/raindigi/black-shop/pull/108) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
-2. 💪 Opened PR [#37](https://github.com/saurabharch/huddo121.github.io/pull/37) in [saurabharch/huddo121.github.io](https://github.com/saurabharch/huddo121.github.io)
-3. 💪 Opened PR [#110](https://github.com/saurabharch/dev.to/pull/110) in [saurabharch/dev.to](https://github.com/saurabharch/dev.to)
-4. 💪 Opened PR [#64](https://github.com/saurabharch/yatrum-api/pull/64) in [saurabharch/yatrum-api](https://github.com/saurabharch/yatrum-api)
-5. 💪 Opened PR [#131](https://github.com/saurabharch/fireship.io/pull/131) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
+1. 💪 Opened PR [#81](https://github.com/saurabharch/linkpreview/pull/81) in [saurabharch/linkpreview](https://github.com/saurabharch/linkpreview)
+2. 💪 Opened PR [#42](https://github.com/saurabharch/yatrum/pull/42) in [saurabharch/yatrum](https://github.com/saurabharch/yatrum)
+3. 💪 Opened PR [#108](https://github.com/raindigi/black-shop/pull/108) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+4. 💪 Opened PR [#37](https://github.com/saurabharch/huddo121.github.io/pull/37) in [saurabharch/huddo121.github.io](https://github.com/saurabharch/huddo121.github.io)
+5. 💪 Opened PR [#110](https://github.com/saurabharch/dev.to/pull/110) in [saurabharch/dev.to](https://github.com/saurabharch/dev.to)
 <!--END_SECTION:activity-->
 <br/>
 
