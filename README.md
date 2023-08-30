@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#58](https://github.com/raindigi/room-booking-system/pull/58) in [raindigi/room-booking-system](https://github.com/raindigi/room-booking-system)
-2. 💪 Opened PR [#48](https://github.com/saurabharch/demo.lazywill.com/pull/48) in [saurabharch/demo.lazywill.com](https://github.com/saurabharch/demo.lazywill.com)
-3. 💪 Opened PR [#30](https://github.com/saurabhkashyap/gh-cc-exercise/pull/30) in [saurabhkashyap/gh-cc-exercise](https://github.com/saurabhkashyap/gh-cc-exercise)
-4. 💪 Opened PR [#93](https://github.com/raindigi/Ghost/pull/93) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
-5. 💪 Opened PR [#25](https://github.com/raindigi/wildduck/pull/25) in [raindigi/wildduck](https://github.com/raindigi/wildduck)
+1. 💪 Opened PR [#39](https://github.com/saurabharch/typeorm/pull/39) in [saurabharch/typeorm](https://github.com/saurabharch/typeorm)
+2. 💪 Opened PR [#225](https://github.com/saurabharch/spectrum/pull/225) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
+3. 💪 Opened PR [#58](https://github.com/raindigi/room-booking-system/pull/58) in [raindigi/room-booking-system](https://github.com/raindigi/room-booking-system)
+4. 💪 Opened PR [#48](https://github.com/saurabharch/demo.lazywill.com/pull/48) in [saurabharch/demo.lazywill.com](https://github.com/saurabharch/demo.lazywill.com)
+5. 💪 Opened PR [#30](https://github.com/saurabhkashyap/gh-cc-exercise/pull/30) in [saurabhkashyap/gh-cc-exercise](https://github.com/saurabhkashyap/gh-cc-exercise)
 <!--END_SECTION:activity-->
 <br/>
 
