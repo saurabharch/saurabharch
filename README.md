@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#183](https://github.com/raindigi/GraphqlType-API-Registration/pull/183) in [raindigi/GraphqlType-API-Registration](https://github.com/raindigi/GraphqlType-API-Registration)
-2. 💪 Opened PR [#65](https://github.com/raindigi/jamcommerce/pull/65) in [raindigi/jamcommerce](https://github.com/raindigi/jamcommerce)
-3. 💪 Opened PR [#176](https://github.com/saurabharch/cyph/pull/176) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-4. 💪 Opened PR [#53](https://github.com/raindigi/erxes-api/pull/53) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
-5. 💪 Opened PR [#179](https://github.com/raindigi/Advanced-React/pull/179) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
+1. 💪 Opened PR [#28](https://github.com/raindigi/erxes-widgets-api/pull/28) in [raindigi/erxes-widgets-api](https://github.com/raindigi/erxes-widgets-api)
+2. 💪 Opened PR [#65](https://github.com/saurabharch/reaction/pull/65) in [saurabharch/reaction](https://github.com/saurabharch/reaction)
+3. 💪 Opened PR [#183](https://github.com/raindigi/GraphqlType-API-Registration/pull/183) in [raindigi/GraphqlType-API-Registration](https://github.com/raindigi/GraphqlType-API-Registration)
+4. 💪 Opened PR [#65](https://github.com/raindigi/jamcommerce/pull/65) in [raindigi/jamcommerce](https://github.com/raindigi/jamcommerce)
+5. 💪 Opened PR [#176](https://github.com/saurabharch/cyph/pull/176) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
 <!--END_SECTION:activity-->
 <br/>
 
