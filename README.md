@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#176](https://github.com/saurabharch/cyph/pull/176) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-2. 💪 Opened PR [#53](https://github.com/raindigi/erxes-api/pull/53) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
-3. 💪 Opened PR [#179](https://github.com/raindigi/Advanced-React/pull/179) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
-4. 💪 Opened PR [#227](https://github.com/raindigi/reaction/pull/227) in [raindigi/reaction](https://github.com/raindigi/reaction)
-5. 💪 Opened PR [#94](https://github.com/saurabharch/NodeBB/pull/94) in [saurabharch/NodeBB](https://github.com/saurabharch/NodeBB)
+1. 💪 Opened PR [#65](https://github.com/raindigi/jamcommerce/pull/65) in [raindigi/jamcommerce](https://github.com/raindigi/jamcommerce)
+2. 💪 Opened PR [#176](https://github.com/saurabharch/cyph/pull/176) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
+3. 💪 Opened PR [#53](https://github.com/raindigi/erxes-api/pull/53) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
+4. 💪 Opened PR [#179](https://github.com/raindigi/Advanced-React/pull/179) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
+5. 💪 Opened PR [#227](https://github.com/raindigi/reaction/pull/227) in [raindigi/reaction](https://github.com/raindigi/reaction)
 <!--END_SECTION:activity-->
 <br/>
 
