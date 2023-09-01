@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/raindigi/pizzaql/pull/34) in [raindigi/pizzaql](https://github.com/raindigi/pizzaql)
-2. 💪 Opened PR [#28](https://github.com/raindigi/erxes-widgets-api/pull/28) in [raindigi/erxes-widgets-api](https://github.com/raindigi/erxes-widgets-api)
-3. 💪 Opened PR [#65](https://github.com/saurabharch/reaction/pull/65) in [saurabharch/reaction](https://github.com/saurabharch/reaction)
-4. 💪 Opened PR [#183](https://github.com/raindigi/GraphqlType-API-Registration/pull/183) in [raindigi/GraphqlType-API-Registration](https://github.com/raindigi/GraphqlType-API-Registration)
-5. 💪 Opened PR [#65](https://github.com/raindigi/jamcommerce/pull/65) in [raindigi/jamcommerce](https://github.com/raindigi/jamcommerce)
+1. 💪 Opened PR [#23](https://github.com/saurabharch/meteor-apollo-starter-kit/pull/23) in [saurabharch/meteor-apollo-starter-kit](https://github.com/saurabharch/meteor-apollo-starter-kit)
+2. 💪 Opened PR [#34](https://github.com/raindigi/pizzaql/pull/34) in [raindigi/pizzaql](https://github.com/raindigi/pizzaql)
+3. 💪 Opened PR [#28](https://github.com/raindigi/erxes-widgets-api/pull/28) in [raindigi/erxes-widgets-api](https://github.com/raindigi/erxes-widgets-api)
+4. 💪 Opened PR [#65](https://github.com/saurabharch/reaction/pull/65) in [saurabharch/reaction](https://github.com/saurabharch/reaction)
+5. 💪 Opened PR [#183](https://github.com/raindigi/GraphqlType-API-Registration/pull/183) in [raindigi/GraphqlType-API-Registration](https://github.com/raindigi/GraphqlType-API-Registration)
 <!--END_SECTION:activity-->
 <br/>
 
