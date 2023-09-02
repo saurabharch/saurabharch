@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/raindigi/mailtrain/pull/31) in [raindigi/mailtrain](https://github.com/raindigi/mailtrain)
-2. 💪 Opened PR [#180](https://github.com/raindigi/Advanced-React/pull/180) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
-3. 💪 Opened PR [#377](https://github.com/saurabharch/react/pull/377) in [saurabharch/react](https://github.com/saurabharch/react)
-4. 🎉 Merged PR [#416](https://github.com/saurabharch/rollout/pull/416) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
-5. 💪 Opened PR [#416](https://github.com/saurabharch/rollout/pull/416) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
+1. 💪 Opened PR [#378](https://github.com/saurabharch/react/pull/378) in [saurabharch/react](https://github.com/saurabharch/react)
+2. 💪 Opened PR [#31](https://github.com/raindigi/mailtrain/pull/31) in [raindigi/mailtrain](https://github.com/raindigi/mailtrain)
+3. 💪 Opened PR [#180](https://github.com/raindigi/Advanced-React/pull/180) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
+4. 💪 Opened PR [#377](https://github.com/saurabharch/react/pull/377) in [saurabharch/react](https://github.com/saurabharch/react)
+5. 🎉 Merged PR [#416](https://github.com/saurabharch/rollout/pull/416) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
 <!--END_SECTION:activity-->
 <br/>
 
