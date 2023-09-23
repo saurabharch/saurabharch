@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#103](https://github.com/saurabharch/odoo/pull/103) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
-2. 💪 Opened PR [#111](https://github.com/raindigi/black-shop/pull/111) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
-3. 💪 Opened PR [#102](https://github.com/saurabharch/odoo/pull/102) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
-4. 💪 Opened PR [#93](https://github.com/raindigi/Merchello/pull/93) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
-5. 💪 Opened PR [#110](https://github.com/raindigi/black-shop/pull/110) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+1. 💪 Opened PR [#61](https://github.com/saurabharch/autopush/pull/61) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
+2. 💪 Opened PR [#103](https://github.com/saurabharch/odoo/pull/103) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
+3. 💪 Opened PR [#111](https://github.com/raindigi/black-shop/pull/111) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+4. 💪 Opened PR [#102](https://github.com/saurabharch/odoo/pull/102) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
+5. 💪 Opened PR [#93](https://github.com/raindigi/Merchello/pull/93) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
 <!--END_SECTION:activity-->
 <br/>
 
