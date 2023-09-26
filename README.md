@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/saurabharch/camelot/pull/4) in [saurabharch/camelot](https://github.com/saurabharch/camelot)
-2. 💪 Opened PR [#68](https://github.com/raindigi/medium-blog-kafka-udemy/pull/68) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
-3. 💪 Opened PR [#61](https://github.com/saurabharch/autopush/pull/61) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
-4. 💪 Opened PR [#103](https://github.com/saurabharch/odoo/pull/103) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
-5. 💪 Opened PR [#111](https://github.com/raindigi/black-shop/pull/111) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+1. 💪 Opened PR [#69](https://github.com/raindigi/medium-blog-kafka-udemy/pull/69) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+2. 💪 Opened PR [#4](https://github.com/saurabharch/camelot/pull/4) in [saurabharch/camelot](https://github.com/saurabharch/camelot)
+3. 💪 Opened PR [#68](https://github.com/raindigi/medium-blog-kafka-udemy/pull/68) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+4. 💪 Opened PR [#61](https://github.com/saurabharch/autopush/pull/61) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
+5. 💪 Opened PR [#103](https://github.com/saurabharch/odoo/pull/103) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
 <!--END_SECTION:activity-->
 <br/>
 
