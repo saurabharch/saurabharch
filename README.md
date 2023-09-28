@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#190](https://github.com/saurabharch/codesandbox-client/pull/190) in [saurabharch/codesandbox-client](https://github.com/saurabharch/codesandbox-client)
-2. 💪 Opened PR [#2259](https://github.com/saurabharch/gatsby/pull/2259) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-3. 💪 Opened PR [#31](https://github.com/saurabharch/elasticsearch-client/pull/31) in [saurabharch/elasticsearch-client](https://github.com/saurabharch/elasticsearch-client)
-4. 💪 Opened PR [#104](https://github.com/saurabharch/odoo/pull/104) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
-5. 💪 Opened PR [#70](https://github.com/raindigi/medium-blog-kafka-udemy/pull/70) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+1. 💪 Opened PR [#2261](https://github.com/saurabharch/gatsby/pull/2261) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+2. 💪 Opened PR [#2260](https://github.com/saurabharch/gatsby/pull/2260) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+3. 💪 Opened PR [#190](https://github.com/saurabharch/codesandbox-client/pull/190) in [saurabharch/codesandbox-client](https://github.com/saurabharch/codesandbox-client)
+4. 💪 Opened PR [#2259](https://github.com/saurabharch/gatsby/pull/2259) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+5. 💪 Opened PR [#31](https://github.com/saurabharch/elasticsearch-client/pull/31) in [saurabharch/elasticsearch-client](https://github.com/saurabharch/elasticsearch-client)
 <!--END_SECTION:activity-->
 <br/>
 
