@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#87](https://github.com/saurabharch/pomodoro-gatsby/pull/87) in [saurabharch/pomodoro-gatsby](https://github.com/saurabharch/pomodoro-gatsby)
-2. 💪 Opened PR [#49](https://github.com/saurabharch/demo.lazywill.com/pull/49) in [saurabharch/demo.lazywill.com](https://github.com/saurabharch/demo.lazywill.com)
-3. 💪 Opened PR [#35](https://github.com/raindigi/pizzaql/pull/35) in [raindigi/pizzaql](https://github.com/raindigi/pizzaql)
-4. 💪 Opened PR [#68](https://github.com/saurabharch/taniarascia.com/pull/68) in [saurabharch/taniarascia.com](https://github.com/saurabharch/taniarascia.com)
-5. 💪 Opened PR [#2285](https://github.com/saurabharch/gatsby/pull/2285) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+1. 💪 Opened PR [#2286](https://github.com/saurabharch/gatsby/pull/2286) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+2. 💪 Opened PR [#71](https://github.com/raindigi/medium-blog-kafka-udemy/pull/71) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+3. 💪 Opened PR [#87](https://github.com/saurabharch/pomodoro-gatsby/pull/87) in [saurabharch/pomodoro-gatsby](https://github.com/saurabharch/pomodoro-gatsby)
+4. 💪 Opened PR [#49](https://github.com/saurabharch/demo.lazywill.com/pull/49) in [saurabharch/demo.lazywill.com](https://github.com/saurabharch/demo.lazywill.com)
+5. 💪 Opened PR [#35](https://github.com/raindigi/pizzaql/pull/35) in [raindigi/pizzaql](https://github.com/raindigi/pizzaql)
 <!--END_SECTION:activity-->
 <br/>
 
