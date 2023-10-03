@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#74](https://github.com/raindigi/medium-blog-kafka-udemy/pull/74) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
-2. 💪 Opened PR [#112](https://github.com/raindigi/black-shop/pull/112) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
-3. 💪 Opened PR [#77](https://github.com/saurabharch/gatsby-starter-simple-landing/pull/77) in [saurabharch/gatsby-starter-simple-landing](https://github.com/saurabharch/gatsby-starter-simple-landing)
-4. 💪 Opened PR [#2331](https://github.com/saurabharch/gatsby/pull/2331) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-5. 💪 Opened PR [#82](https://github.com/saurabharch/linkpreview/pull/82) in [saurabharch/linkpreview](https://github.com/saurabharch/linkpreview)
+1. 💪 Opened PR [#113](https://github.com/raindigi/black-shop/pull/113) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+2. 💪 Opened PR [#74](https://github.com/raindigi/medium-blog-kafka-udemy/pull/74) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+3. 💪 Opened PR [#112](https://github.com/raindigi/black-shop/pull/112) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+4. 💪 Opened PR [#77](https://github.com/saurabharch/gatsby-starter-simple-landing/pull/77) in [saurabharch/gatsby-starter-simple-landing](https://github.com/saurabharch/gatsby-starter-simple-landing)
+5. 💪 Opened PR [#2331](https://github.com/saurabharch/gatsby/pull/2331) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
