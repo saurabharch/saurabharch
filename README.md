@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/raindigi/pizzaql/pull/36) in [raindigi/pizzaql](https://github.com/raindigi/pizzaql)
-2. 💪 Opened PR [#76](https://github.com/raindigi/medium-blog-kafka-udemy/pull/76) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
-3. 💪 Opened PR [#88](https://github.com/saurabharch/docs-tools/pull/88) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
-4. 💪 Opened PR [#62](https://github.com/saurabharch/autopush/pull/62) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
-5. 💪 Opened PR [#97](https://github.com/raindigi/Ghost/pull/97) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
+1. 💪 Opened PR [#77](https://github.com/raindigi/medium-blog-kafka-udemy/pull/77) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+2. 💪 Opened PR [#36](https://github.com/raindigi/pizzaql/pull/36) in [raindigi/pizzaql](https://github.com/raindigi/pizzaql)
+3. 💪 Opened PR [#76](https://github.com/raindigi/medium-blog-kafka-udemy/pull/76) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+4. 💪 Opened PR [#88](https://github.com/saurabharch/docs-tools/pull/88) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
+5. 💪 Opened PR [#62](https://github.com/saurabharch/autopush/pull/62) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
 <!--END_SECTION:activity-->
 <br/>
 
