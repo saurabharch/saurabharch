@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#133](https://github.com/saurabharch/fireship.io/pull/133) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
-2. 💪 Opened PR [#79](https://github.com/raindigi/medium-blog-kafka-udemy/pull/79) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
-3. 💪 Opened PR [#78](https://github.com/raindigi/medium-blog-kafka-udemy/pull/78) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
-4. 💪 Opened PR [#77](https://github.com/raindigi/medium-blog-kafka-udemy/pull/77) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
-5. 💪 Opened PR [#36](https://github.com/raindigi/pizzaql/pull/36) in [raindigi/pizzaql](https://github.com/raindigi/pizzaql)
+1. 💪 Opened PR [#18](https://github.com/raindigi/SmartStoreNET/pull/18) in [raindigi/SmartStoreNET](https://github.com/raindigi/SmartStoreNET)
+2. 💪 Opened PR [#133](https://github.com/saurabharch/fireship.io/pull/133) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
+3. 💪 Opened PR [#79](https://github.com/raindigi/medium-blog-kafka-udemy/pull/79) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+4. 💪 Opened PR [#78](https://github.com/raindigi/medium-blog-kafka-udemy/pull/78) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+5. 💪 Opened PR [#77](https://github.com/raindigi/medium-blog-kafka-udemy/pull/77) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
 <!--END_SECTION:activity-->
 <br/>
 
