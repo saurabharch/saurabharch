@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#98](https://github.com/raindigi/Ghost/pull/98) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
-2. 💪 Opened PR [#47](https://github.com/raindigi/ChainReactApp2019/pull/47) in [raindigi/ChainReactApp2019](https://github.com/raindigi/ChainReactApp2019)
-3. 💪 Opened PR [#114](https://github.com/raindigi/black-shop/pull/114) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
-4. 💪 Opened PR [#90](https://github.com/saurabharch/docs-tools/pull/90) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
-5. 💪 Opened PR [#63](https://github.com/saurabharch/autopush/pull/63) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
+1. 💪 Opened PR [#79](https://github.com/saurabharch/f8app/pull/79) in [saurabharch/f8app](https://github.com/saurabharch/f8app)
+2. 💪 Opened PR [#98](https://github.com/raindigi/Ghost/pull/98) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
+3. 💪 Opened PR [#47](https://github.com/raindigi/ChainReactApp2019/pull/47) in [raindigi/ChainReactApp2019](https://github.com/raindigi/ChainReactApp2019)
+4. 💪 Opened PR [#114](https://github.com/raindigi/black-shop/pull/114) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+5. 💪 Opened PR [#90](https://github.com/saurabharch/docs-tools/pull/90) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
 <!--END_SECTION:activity-->
 <br/>
 
