@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63](https://github.com/saurabharch/TerraWatts/pull/63) in [saurabharch/TerraWatts](https://github.com/saurabharch/TerraWatts)
-2. 💪 Opened PR [#66](https://github.com/saurabharch/byodb/pull/66) in [saurabharch/byodb](https://github.com/saurabharch/byodb)
-3. 💪 Opened PR [#92](https://github.com/saurabharch/Breezeblocks/pull/92) in [saurabharch/Breezeblocks](https://github.com/saurabharch/Breezeblocks)
-4. 💪 Opened PR [#64](https://github.com/saurabharch/autopush/pull/64) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
-5. 💪 Opened PR [#22](https://github.com/raindigi/example-voting-app/pull/22) in [raindigi/example-voting-app](https://github.com/raindigi/example-voting-app)
+1. 💪 Opened PR [#107](https://github.com/saurabharch/odoo/pull/107) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
+2. 💪 Opened PR [#63](https://github.com/saurabharch/TerraWatts/pull/63) in [saurabharch/TerraWatts](https://github.com/saurabharch/TerraWatts)
+3. 💪 Opened PR [#66](https://github.com/saurabharch/byodb/pull/66) in [saurabharch/byodb](https://github.com/saurabharch/byodb)
+4. 💪 Opened PR [#92](https://github.com/saurabharch/Breezeblocks/pull/92) in [saurabharch/Breezeblocks](https://github.com/saurabharch/Breezeblocks)
+5. 💪 Opened PR [#64](https://github.com/saurabharch/autopush/pull/64) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
 <!--END_SECTION:activity-->
 <br/>
 
