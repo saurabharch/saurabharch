@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#201](https://github.com/saurabharch/wekanhow/pull/201) in [saurabharch/wekanhow](https://github.com/saurabharch/wekanhow)
-2. 💪 Opened PR [#227](https://github.com/saurabharch/spectrum/pull/227) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
-3. 💪 Opened PR [#49](https://github.com/raindigi/ChainReactApp2019/pull/49) in [raindigi/ChainReactApp2019](https://github.com/raindigi/ChainReactApp2019)
-4. 💪 Opened PR [#2339](https://github.com/saurabharch/gatsby/pull/2339) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-5. 💪 Opened PR [#53](https://github.com/saurabharch/fileapp-reactjs/pull/53) in [saurabharch/fileapp-reactjs](https://github.com/saurabharch/fileapp-reactjs)
+1. 💪 Opened PR [#2340](https://github.com/saurabharch/gatsby/pull/2340) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+2. 💪 Opened PR [#201](https://github.com/saurabharch/wekanhow/pull/201) in [saurabharch/wekanhow](https://github.com/saurabharch/wekanhow)
+3. 💪 Opened PR [#227](https://github.com/saurabharch/spectrum/pull/227) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
+4. 💪 Opened PR [#49](https://github.com/raindigi/ChainReactApp2019/pull/49) in [raindigi/ChainReactApp2019](https://github.com/raindigi/ChainReactApp2019)
+5. 💪 Opened PR [#2339](https://github.com/saurabharch/gatsby/pull/2339) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
