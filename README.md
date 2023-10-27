@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/saurabharch/simple-sso/pull/30) in [saurabharch/simple-sso](https://github.com/saurabharch/simple-sso)
-2. 💪 Opened PR [#347](https://github.com/raindigi/site-landing/pull/347) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
-3. 💪 Opened PR [#66](https://github.com/saurabharch/EBB/pull/66) in [saurabharch/EBB](https://github.com/saurabharch/EBB)
-4. 💪 Opened PR [#346](https://github.com/raindigi/site-landing/pull/346) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
-5. 💪 Opened PR [#2340](https://github.com/saurabharch/gatsby/pull/2340) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+1. 💪 Opened PR [#60](https://github.com/raindigi/room-booking-system/pull/60) in [raindigi/room-booking-system](https://github.com/raindigi/room-booking-system)
+2. 💪 Opened PR [#2341](https://github.com/saurabharch/gatsby/pull/2341) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+3. 💪 Opened PR [#30](https://github.com/saurabharch/simple-sso/pull/30) in [saurabharch/simple-sso](https://github.com/saurabharch/simple-sso)
+4. 💪 Opened PR [#347](https://github.com/raindigi/site-landing/pull/347) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
+5. 💪 Opened PR [#66](https://github.com/saurabharch/EBB/pull/66) in [saurabharch/EBB](https://github.com/saurabharch/EBB)
 <!--END_SECTION:activity-->
 <br/>
 
