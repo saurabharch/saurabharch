@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2346](https://github.com/saurabharch/gatsby/pull/2346) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-2. 💪 Opened PR [#65](https://github.com/saurabharch/snippets/pull/65) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
-3. 💪 Opened PR [#134](https://github.com/saurabharch/fireship.io/pull/134) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
-4. 💪 Opened PR [#70](https://github.com/raindigi/Learn-Node/pull/70) in [raindigi/Learn-Node](https://github.com/raindigi/Learn-Node)
-5. 💪 Opened PR [#2345](https://github.com/saurabharch/gatsby/pull/2345) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+1. 💪 Opened PR [#228](https://github.com/saurabharch/spectrum/pull/228) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
+2. 💪 Opened PR [#2346](https://github.com/saurabharch/gatsby/pull/2346) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+3. 💪 Opened PR [#65](https://github.com/saurabharch/snippets/pull/65) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
+4. 💪 Opened PR [#134](https://github.com/saurabharch/fireship.io/pull/134) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
+5. 💪 Opened PR [#70](https://github.com/raindigi/Learn-Node/pull/70) in [raindigi/Learn-Node](https://github.com/raindigi/Learn-Node)
 <!--END_SECTION:activity-->
 <br/>
 
