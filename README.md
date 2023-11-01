@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/raindigi/example-voting-app/pull/23) in [raindigi/example-voting-app](https://github.com/raindigi/example-voting-app)
-2. 🎉 Merged PR [#389](https://github.com/saurabharch/rollout/pull/389) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
-3. 💪 Opened PR [#431](https://github.com/saurabharch/rollout/pull/431) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
-4. 💪 Opened PR [#195](https://github.com/saurabharch/codesandbox-client/pull/195) in [saurabharch/codesandbox-client](https://github.com/saurabharch/codesandbox-client)
-5. 💪 Opened PR [#40](https://github.com/saurabharch/typeorm/pull/40) in [saurabharch/typeorm](https://github.com/saurabharch/typeorm)
+1. 💪 Opened PR [#108](https://github.com/saurabharch/odoo/pull/108) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
+2. 💪 Opened PR [#23](https://github.com/raindigi/example-voting-app/pull/23) in [raindigi/example-voting-app](https://github.com/raindigi/example-voting-app)
+3. 🎉 Merged PR [#389](https://github.com/saurabharch/rollout/pull/389) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
+4. 💪 Opened PR [#431](https://github.com/saurabharch/rollout/pull/431) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
+5. 💪 Opened PR [#195](https://github.com/saurabharch/codesandbox-client/pull/195) in [saurabharch/codesandbox-client](https://github.com/saurabharch/codesandbox-client)
 <!--END_SECTION:activity-->
 <br/>
 
