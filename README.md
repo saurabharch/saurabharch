@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#78](https://github.com/saurabharch/gatsby-starter-kitchen-sink/pull/78) in [saurabharch/gatsby-starter-kitchen-sink](https://github.com/saurabharch/gatsby-starter-kitchen-sink)
-2. 💪 Opened PR [#5](https://github.com/saurabharch/camelot/pull/5) in [saurabharch/camelot](https://github.com/saurabharch/camelot)
-3. 💪 Opened PR [#109](https://github.com/saurabharch/odoo/pull/109) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
-4. 💪 Opened PR [#23](https://github.com/saurabharch/refinery/pull/23) in [saurabharch/refinery](https://github.com/saurabharch/refinery)
-5. 💪 Opened PR [#135](https://github.com/saurabharch/fireship.io/pull/135) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
+1. 💪 Opened PR [#78](https://github.com/saurabharch/gatsby-starter-simple-landing/pull/78) in [saurabharch/gatsby-starter-simple-landing](https://github.com/saurabharch/gatsby-starter-simple-landing)
+2. 💪 Opened PR [#78](https://github.com/saurabharch/gatsby-starter-kitchen-sink/pull/78) in [saurabharch/gatsby-starter-kitchen-sink](https://github.com/saurabharch/gatsby-starter-kitchen-sink)
+3. 💪 Opened PR [#5](https://github.com/saurabharch/camelot/pull/5) in [saurabharch/camelot](https://github.com/saurabharch/camelot)
+4. 💪 Opened PR [#109](https://github.com/saurabharch/odoo/pull/109) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
+5. 💪 Opened PR [#23](https://github.com/saurabharch/refinery/pull/23) in [saurabharch/refinery](https://github.com/saurabharch/refinery)
 <!--END_SECTION:activity-->
 <br/>
 
