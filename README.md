@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#67](https://github.com/raindigi/jamcommerce/pull/67) in [raindigi/jamcommerce](https://github.com/raindigi/jamcommerce)
-2. 💪 Opened PR [#202](https://github.com/saurabharch/wekanhow/pull/202) in [saurabharch/wekanhow](https://github.com/saurabharch/wekanhow)
-3. 💪 Opened PR [#155](https://github.com/saurabharch/howtographql/pull/155) in [saurabharch/howtographql](https://github.com/saurabharch/howtographql)
-4. 💪 Opened PR [#88](https://github.com/saurabharch/pomodoro-gatsby/pull/88) in [saurabharch/pomodoro-gatsby](https://github.com/saurabharch/pomodoro-gatsby)
-5. 💪 Opened PR [#78](https://github.com/saurabharch/gatsby-starter-simple-landing/pull/78) in [saurabharch/gatsby-starter-simple-landing](https://github.com/saurabharch/gatsby-starter-simple-landing)
+1. 💪 Opened PR [#160](https://github.com/raindigi/site-preview/pull/160) in [raindigi/site-preview](https://github.com/raindigi/site-preview)
+2. 💪 Opened PR [#67](https://github.com/raindigi/jamcommerce/pull/67) in [raindigi/jamcommerce](https://github.com/raindigi/jamcommerce)
+3. 💪 Opened PR [#202](https://github.com/saurabharch/wekanhow/pull/202) in [saurabharch/wekanhow](https://github.com/saurabharch/wekanhow)
+4. 💪 Opened PR [#155](https://github.com/saurabharch/howtographql/pull/155) in [saurabharch/howtographql](https://github.com/saurabharch/howtographql)
+5. 💪 Opened PR [#88](https://github.com/saurabharch/pomodoro-gatsby/pull/88) in [saurabharch/pomodoro-gatsby](https://github.com/saurabharch/pomodoro-gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
