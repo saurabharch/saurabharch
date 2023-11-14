@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#67](https://github.com/saurabharch/yatrum-api/pull/67) in [saurabharch/yatrum-api](https://github.com/saurabharch/yatrum-api)
-2. 💪 Opened PR [#385](https://github.com/saurabharch/react/pull/385) in [saurabharch/react](https://github.com/saurabharch/react)
-3. 💪 Opened PR [#39](https://github.com/saurabharch/n8n/pull/39) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
-4. 💪 Opened PR [#160](https://github.com/raindigi/site-preview/pull/160) in [raindigi/site-preview](https://github.com/raindigi/site-preview)
-5. 💪 Opened PR [#67](https://github.com/raindigi/jamcommerce/pull/67) in [raindigi/jamcommerce](https://github.com/raindigi/jamcommerce)
+1. 💪 Opened PR [#18](https://github.com/raindigi/cinema-microservice/pull/18) in [raindigi/cinema-microservice](https://github.com/raindigi/cinema-microservice)
+2. 💪 Opened PR [#67](https://github.com/saurabharch/yatrum-api/pull/67) in [saurabharch/yatrum-api](https://github.com/saurabharch/yatrum-api)
+3. 💪 Opened PR [#385](https://github.com/saurabharch/react/pull/385) in [saurabharch/react](https://github.com/saurabharch/react)
+4. 💪 Opened PR [#39](https://github.com/saurabharch/n8n/pull/39) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
+5. 💪 Opened PR [#160](https://github.com/raindigi/site-preview/pull/160) in [raindigi/site-preview](https://github.com/raindigi/site-preview)
 <!--END_SECTION:activity-->
 <br/>
 
