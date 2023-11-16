@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/saurabharch/merge-conflicts/pull/43) in [saurabharch/merge-conflicts](https://github.com/saurabharch/merge-conflicts)
-2. 💪 Opened PR [#115](https://github.com/saurabharch/dev.to/pull/115) in [saurabharch/dev.to](https://github.com/saurabharch/dev.to)
-3. 💪 Opened PR [#60](https://github.com/saurabharch/reelcool/pull/60) in [saurabharch/reelcool](https://github.com/saurabharch/reelcool)
-4. 💪 Opened PR [#39](https://github.com/raindigi/pencilblue/pull/39) in [raindigi/pencilblue](https://github.com/raindigi/pencilblue)
-5. 💪 Opened PR [#22](https://github.com/raindigi/cinema-microservice/pull/22) in [raindigi/cinema-microservice](https://github.com/raindigi/cinema-microservice)
+1. 💪 Opened PR [#82](https://github.com/raindigi/medium-blog-kafka-udemy/pull/82) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+2. 💪 Opened PR [#43](https://github.com/saurabharch/merge-conflicts/pull/43) in [saurabharch/merge-conflicts](https://github.com/saurabharch/merge-conflicts)
+3. 💪 Opened PR [#115](https://github.com/saurabharch/dev.to/pull/115) in [saurabharch/dev.to](https://github.com/saurabharch/dev.to)
+4. 💪 Opened PR [#60](https://github.com/saurabharch/reelcool/pull/60) in [saurabharch/reelcool](https://github.com/saurabharch/reelcool)
+5. 💪 Opened PR [#39](https://github.com/raindigi/pencilblue/pull/39) in [raindigi/pencilblue](https://github.com/raindigi/pencilblue)
 <!--END_SECTION:activity-->
 <br/>
 
