@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#71](https://github.com/saurabharch/microservices-example/pull/71) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
-2. 💪 Opened PR [#186](https://github.com/raindigi/Advanced-React/pull/186) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
-3. 💪 Opened PR [#23](https://github.com/raindigi/cinema-microservice/pull/23) in [raindigi/cinema-microservice](https://github.com/raindigi/cinema-microservice)
-4. 💪 Opened PR [#82](https://github.com/raindigi/medium-blog-kafka-udemy/pull/82) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
-5. 💪 Opened PR [#43](https://github.com/saurabharch/merge-conflicts/pull/43) in [saurabharch/merge-conflicts](https://github.com/saurabharch/merge-conflicts)
+1. 💪 Opened PR [#89](https://github.com/saurabharch/pomodoro-gatsby/pull/89) in [saurabharch/pomodoro-gatsby](https://github.com/saurabharch/pomodoro-gatsby)
+2. 💪 Opened PR [#99](https://github.com/raindigi/Ghost/pull/99) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
+3. 💪 Opened PR [#79](https://github.com/saurabharch/gatsby-starter-simple-landing/pull/79) in [saurabharch/gatsby-starter-simple-landing](https://github.com/saurabharch/gatsby-starter-simple-landing)
+4. 💪 Opened PR [#68](https://github.com/raindigi/jamcommerce/pull/68) in [raindigi/jamcommerce](https://github.com/raindigi/jamcommerce)
+5. 💪 Opened PR [#116](https://github.com/raindigi/black-shop/pull/116) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
 <!--END_SECTION:activity-->
 <br/>
 
