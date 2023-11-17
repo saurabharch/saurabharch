@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#73](https://github.com/raindigi/Learn-Node/pull/73) in [raindigi/Learn-Node](https://github.com/raindigi/Learn-Node)
-2. 💪 Opened PR [#89](https://github.com/saurabharch/pomodoro-gatsby/pull/89) in [saurabharch/pomodoro-gatsby](https://github.com/saurabharch/pomodoro-gatsby)
-3. 💪 Opened PR [#99](https://github.com/raindigi/Ghost/pull/99) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
-4. 💪 Opened PR [#79](https://github.com/saurabharch/gatsby-starter-simple-landing/pull/79) in [saurabharch/gatsby-starter-simple-landing](https://github.com/saurabharch/gatsby-starter-simple-landing)
-5. 💪 Opened PR [#68](https://github.com/raindigi/jamcommerce/pull/68) in [raindigi/jamcommerce](https://github.com/raindigi/jamcommerce)
+1. 💪 Opened PR [#52](https://github.com/saurabharch/mail-for-good/pull/52) in [saurabharch/mail-for-good](https://github.com/saurabharch/mail-for-good)
+2. 💪 Opened PR [#73](https://github.com/raindigi/Learn-Node/pull/73) in [raindigi/Learn-Node](https://github.com/raindigi/Learn-Node)
+3. 💪 Opened PR [#89](https://github.com/saurabharch/pomodoro-gatsby/pull/89) in [saurabharch/pomodoro-gatsby](https://github.com/saurabharch/pomodoro-gatsby)
+4. 💪 Opened PR [#99](https://github.com/raindigi/Ghost/pull/99) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
+5. 💪 Opened PR [#79](https://github.com/saurabharch/gatsby-starter-simple-landing/pull/79) in [saurabharch/gatsby-starter-simple-landing](https://github.com/saurabharch/gatsby-starter-simple-landing)
 <!--END_SECTION:activity-->
 <br/>
 
