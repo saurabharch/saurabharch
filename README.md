@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/raindigi/eShopOnContainers/pull/31) in [raindigi/eShopOnContainers](https://github.com/raindigi/eShopOnContainers)
-2. 💪 Opened PR [#19](https://github.com/saurabharch/Ionic-3-Uber/pull/19) in [saurabharch/Ionic-3-Uber](https://github.com/saurabharch/Ionic-3-Uber)
-3. 💪 Opened PR [#2420](https://github.com/saurabharch/gatsby/pull/2420) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#2419](https://github.com/saurabharch/gatsby/pull/2419) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-5. 💪 Opened PR [#79](https://github.com/saurabharch/gatsby-starter-kitchen-sink/pull/79) in [saurabharch/gatsby-starter-kitchen-sink](https://github.com/saurabharch/gatsby-starter-kitchen-sink)
+1. 💪 Opened PR [#2421](https://github.com/saurabharch/gatsby/pull/2421) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+2. 💪 Opened PR [#31](https://github.com/raindigi/eShopOnContainers/pull/31) in [raindigi/eShopOnContainers](https://github.com/raindigi/eShopOnContainers)
+3. 💪 Opened PR [#19](https://github.com/saurabharch/Ionic-3-Uber/pull/19) in [saurabharch/Ionic-3-Uber](https://github.com/saurabharch/Ionic-3-Uber)
+4. 💪 Opened PR [#2420](https://github.com/saurabharch/gatsby/pull/2420) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+5. 💪 Opened PR [#2419](https://github.com/saurabharch/gatsby/pull/2419) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
