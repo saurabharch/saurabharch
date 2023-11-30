@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/saurabharch/playwright/pull/8) in [saurabharch/playwright](https://github.com/saurabharch/playwright)
-2. 💪 Opened PR [#233](https://github.com/saurabharch/spectrum/pull/233) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
-3. 💪 Opened PR [#4](https://github.com/saurabhkashyap/Social-Media-Automation/pull/4) in [saurabhkashyap/Social-Media-Automation](https://github.com/saurabhkashyap/Social-Media-Automation)
-4. 💪 Opened PR [#27](https://github.com/saurabharch/mongotron/pull/27) in [saurabharch/mongotron](https://github.com/saurabharch/mongotron)
-5. 💪 Opened PR [#78](https://github.com/saurabharch/fastyper/pull/78) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
+1. 💪 Opened PR [#86](https://github.com/saurabharch/kentcdodds.com/pull/86) in [saurabharch/kentcdodds.com](https://github.com/saurabharch/kentcdodds.com)
+2. 💪 Opened PR [#350](https://github.com/raindigi/site-landing/pull/350) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
+3. 💪 Opened PR [#36](https://github.com/saurabharch/graphiql/pull/36) in [saurabharch/graphiql](https://github.com/saurabharch/graphiql)
+4. 💪 Opened PR [#8](https://github.com/saurabharch/playwright/pull/8) in [saurabharch/playwright](https://github.com/saurabharch/playwright)
+5. 💪 Opened PR [#233](https://github.com/saurabharch/spectrum/pull/233) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
 <!--END_SECTION:activity-->
 <br/>
 
