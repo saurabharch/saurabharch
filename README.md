@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2424](https://github.com/saurabharch/gatsby/pull/2424) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-2. 💪 Opened PR [#2423](https://github.com/saurabharch/gatsby/pull/2423) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-3. 💪 Opened PR [#49](https://github.com/saurabharch/FileNation/pull/49) in [saurabharch/FileNation](https://github.com/saurabharch/FileNation)
-4. 💪 Opened PR [#49](https://github.com/saurabharch/meanblog/pull/49) in [saurabharch/meanblog](https://github.com/saurabharch/meanblog)
-5. 💪 Opened PR [#65](https://github.com/saurabharch/autopush/pull/65) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
+1. 💪 Opened PR [#233](https://github.com/saurabharch/spectrum/pull/233) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
+2. 💪 Opened PR [#4](https://github.com/saurabhkashyap/Social-Media-Automation/pull/4) in [saurabhkashyap/Social-Media-Automation](https://github.com/saurabhkashyap/Social-Media-Automation)
+3. 💪 Opened PR [#27](https://github.com/saurabharch/mongotron/pull/27) in [saurabharch/mongotron](https://github.com/saurabharch/mongotron)
+4. 💪 Opened PR [#78](https://github.com/saurabharch/fastyper/pull/78) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
+5. 💪 Opened PR [#2424](https://github.com/saurabharch/gatsby/pull/2424) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
