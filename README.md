@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/saurabharch/node-imager/pull/12) in [saurabharch/node-imager](https://github.com/saurabharch/node-imager)
-2. 💪 Opened PR [#55](https://github.com/raindigi/stf/pull/55) in [raindigi/stf](https://github.com/raindigi/stf)
-3. 💪 Opened PR [#2427](https://github.com/saurabharch/gatsby/pull/2427) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#97](https://github.com/raindigi/Merchello/pull/97) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
-5. 💪 Opened PR [#38](https://github.com/saurabharch/graphiql/pull/38) in [saurabharch/graphiql](https://github.com/saurabharch/graphiql)
+1. 💪 Opened PR [#234](https://github.com/saurabharch/spectrum/pull/234) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
+2. 💪 Opened PR [#12](https://github.com/saurabharch/node-imager/pull/12) in [saurabharch/node-imager](https://github.com/saurabharch/node-imager)
+3. 💪 Opened PR [#55](https://github.com/raindigi/stf/pull/55) in [raindigi/stf](https://github.com/raindigi/stf)
+4. 💪 Opened PR [#2427](https://github.com/saurabharch/gatsby/pull/2427) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+5. 💪 Opened PR [#97](https://github.com/raindigi/Merchello/pull/97) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
 <!--END_SECTION:activity-->
 <br/>
 
