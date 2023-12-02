@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#185](https://github.com/saurabharch/cyph/pull/185) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-2. 💪 Opened PR [#2481](https://github.com/saurabharch/gatsby/pull/2481) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-3. 💪 Opened PR [#2480](https://github.com/saurabharch/gatsby/pull/2480) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#24](https://github.com/saurabharch/AngularApp/pull/24) in [saurabharch/AngularApp](https://github.com/saurabharch/AngularApp)
-5. 💪 Opened PR [#28](https://github.com/raindigi/animinated-date-gif/pull/28) in [raindigi/animinated-date-gif](https://github.com/raindigi/animinated-date-gif)
+1. 💪 Opened PR [#25](https://github.com/saurabharch/meteor-apollo-starter-kit/pull/25) in [saurabharch/meteor-apollo-starter-kit](https://github.com/saurabharch/meteor-apollo-starter-kit)
+2. 💪 Opened PR [#185](https://github.com/saurabharch/cyph/pull/185) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
+3. 💪 Opened PR [#2481](https://github.com/saurabharch/gatsby/pull/2481) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+4. 💪 Opened PR [#2480](https://github.com/saurabharch/gatsby/pull/2480) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+5. 💪 Opened PR [#24](https://github.com/saurabharch/AngularApp/pull/24) in [saurabharch/AngularApp](https://github.com/saurabharch/AngularApp)
 <!--END_SECTION:activity-->
 <br/>
 
