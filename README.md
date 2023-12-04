@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#400](https://github.com/saurabharch/react/pull/400) in [saurabharch/react](https://github.com/saurabharch/react)
-2. 💪 Opened PR [#106](https://github.com/saurabharch/meeting-for-good/pull/106) in [saurabharch/meeting-for-good](https://github.com/saurabharch/meeting-for-good)
-3. 💪 Opened PR [#25](https://github.com/saurabharch/meteor-apollo-starter-kit/pull/25) in [saurabharch/meteor-apollo-starter-kit](https://github.com/saurabharch/meteor-apollo-starter-kit)
-4. 💪 Opened PR [#185](https://github.com/saurabharch/cyph/pull/185) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-5. 💪 Opened PR [#2481](https://github.com/saurabharch/gatsby/pull/2481) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+1. 💪 Opened PR [#2482](https://github.com/saurabharch/gatsby/pull/2482) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+2. 💪 Opened PR [#400](https://github.com/saurabharch/react/pull/400) in [saurabharch/react](https://github.com/saurabharch/react)
+3. 💪 Opened PR [#106](https://github.com/saurabharch/meeting-for-good/pull/106) in [saurabharch/meeting-for-good](https://github.com/saurabharch/meeting-for-good)
+4. 💪 Opened PR [#25](https://github.com/saurabharch/meteor-apollo-starter-kit/pull/25) in [saurabharch/meteor-apollo-starter-kit](https://github.com/saurabharch/meteor-apollo-starter-kit)
+5. 💪 Opened PR [#185](https://github.com/saurabharch/cyph/pull/185) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
 <!--END_SECTION:activity-->
 <br/>
 
