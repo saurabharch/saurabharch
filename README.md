@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#140](https://github.com/saurabharch/fireship.io/pull/140) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
-2. 💪 Opened PR [#353](https://github.com/raindigi/site-landing/pull/353) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
-3. 💪 Opened PR [#55](https://github.com/raindigi/erxes-api/pull/55) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
-4. 💪 Opened PR [#13](https://github.com/saurabharch/chat-engine/pull/13) in [saurabharch/chat-engine](https://github.com/saurabharch/chat-engine)
-5. 💪 Opened PR [#352](https://github.com/raindigi/site-landing/pull/352) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
+1. 💪 Opened PR [#41](https://github.com/saurabharch/angular4-mails/pull/41) in [saurabharch/angular4-mails](https://github.com/saurabharch/angular4-mails)
+2. 💪 Opened PR [#140](https://github.com/saurabharch/fireship.io/pull/140) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
+3. 💪 Opened PR [#353](https://github.com/raindigi/site-landing/pull/353) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
+4. 💪 Opened PR [#55](https://github.com/raindigi/erxes-api/pull/55) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
+5. 💪 Opened PR [#13](https://github.com/saurabharch/chat-engine/pull/13) in [saurabharch/chat-engine](https://github.com/saurabharch/chat-engine)
 <!--END_SECTION:activity-->
 <br/>
 
