@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#188](https://github.com/saurabharch/cyph/pull/188) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-2. 💪 Opened PR [#65](https://github.com/saurabharch/gatsby-wp/pull/65) in [saurabharch/gatsby-wp](https://github.com/saurabharch/gatsby-wp)
-3. 💪 Opened PR [#187](https://github.com/saurabharch/cyph/pull/187) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-4. 💪 Opened PR [#198](https://github.com/raindigi/Advanced-React/pull/198) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
-5. 💪 Opened PR [#29](https://github.com/raindigi/animinated-date-gif/pull/29) in [raindigi/animinated-date-gif](https://github.com/raindigi/animinated-date-gif)
+1. 💪 Opened PR [#118](https://github.com/raindigi/black-shop/pull/118) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+2. 💪 Opened PR [#86](https://github.com/saurabharch/linkpreview/pull/86) in [saurabharch/linkpreview](https://github.com/saurabharch/linkpreview)
+3. 💪 Opened PR [#188](https://github.com/saurabharch/cyph/pull/188) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
+4. 💪 Opened PR [#65](https://github.com/saurabharch/gatsby-wp/pull/65) in [saurabharch/gatsby-wp](https://github.com/saurabharch/gatsby-wp)
+5. 💪 Opened PR [#187](https://github.com/saurabharch/cyph/pull/187) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
 <!--END_SECTION:activity-->
 <br/>
 
