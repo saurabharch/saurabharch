@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#106](https://github.com/raindigi/Merchello/pull/106) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
-2. 💪 Opened PR [#105](https://github.com/raindigi/Merchello/pull/105) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
-3. 💪 Opened PR [#104](https://github.com/raindigi/Merchello/pull/104) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
-4. 💪 Opened PR [#103](https://github.com/raindigi/Merchello/pull/103) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
-5. 💪 Opened PR [#102](https://github.com/raindigi/Merchello/pull/102) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
+1. 💪 Opened PR [#107](https://github.com/raindigi/Merchello/pull/107) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
+2. 💪 Opened PR [#106](https://github.com/raindigi/Merchello/pull/106) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
+3. 💪 Opened PR [#105](https://github.com/raindigi/Merchello/pull/105) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
+4. 💪 Opened PR [#104](https://github.com/raindigi/Merchello/pull/104) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
+5. 💪 Opened PR [#103](https://github.com/raindigi/Merchello/pull/103) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
 <!--END_SECTION:activity-->
 <br/>
 
