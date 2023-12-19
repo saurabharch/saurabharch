@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#81](https://github.com/saurabharch/gatsby-starter-kitchen-sink/pull/81) in [saurabharch/gatsby-starter-kitchen-sink](https://github.com/saurabharch/gatsby-starter-kitchen-sink)
-2. 💪 Opened PR [#103](https://github.com/raindigi/Ghost/pull/103) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
-3. 💪 Opened PR [#22](https://github.com/saurabharch/first-timers-bot/pull/22) in [saurabharch/first-timers-bot](https://github.com/saurabharch/first-timers-bot)
-4. 💪 Opened PR [#2541](https://github.com/saurabharch/gatsby/pull/2541) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-5. 💪 Opened PR [#2540](https://github.com/saurabharch/gatsby/pull/2540) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+1. 💪 Opened PR [#82](https://github.com/saurabharch/gatsby-starter-simple-landing/pull/82) in [saurabharch/gatsby-starter-simple-landing](https://github.com/saurabharch/gatsby-starter-simple-landing)
+2. 💪 Opened PR [#81](https://github.com/saurabharch/gatsby-starter-kitchen-sink/pull/81) in [saurabharch/gatsby-starter-kitchen-sink](https://github.com/saurabharch/gatsby-starter-kitchen-sink)
+3. 💪 Opened PR [#103](https://github.com/raindigi/Ghost/pull/103) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
+4. 💪 Opened PR [#22](https://github.com/saurabharch/first-timers-bot/pull/22) in [saurabharch/first-timers-bot](https://github.com/saurabharch/first-timers-bot)
+5. 💪 Opened PR [#2541](https://github.com/saurabharch/gatsby/pull/2541) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
