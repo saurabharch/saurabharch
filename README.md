@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/saurabharch/avia/pull/37) in [saurabharch/avia](https://github.com/saurabharch/avia)
-2. 💪 Opened PR [#237](https://github.com/saurabharch/spectrum/pull/237) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
-3. 💪 Opened PR [#405](https://github.com/saurabharch/react/pull/405) in [saurabharch/react](https://github.com/saurabharch/react)
-4. 💪 Opened PR [#44](https://github.com/raindigi/nsfwjs/pull/44) in [raindigi/nsfwjs](https://github.com/raindigi/nsfwjs)
-5. 💪 Opened PR [#199](https://github.com/raindigi/Advanced-React/pull/199) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
+1. 💪 Opened PR [#30](https://github.com/raindigi/erxes-widgets-api/pull/30) in [raindigi/erxes-widgets-api](https://github.com/raindigi/erxes-widgets-api)
+2. 💪 Opened PR [#95](https://github.com/saurabharch/docs-tools/pull/95) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
+3. 💪 Opened PR [#63](https://github.com/saurabharch/guesstimate-app/pull/63) in [saurabharch/guesstimate-app](https://github.com/saurabharch/guesstimate-app)
+4. 💪 Opened PR [#238](https://github.com/saurabharch/spectrum/pull/238) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
+5. 💪 Opened PR [#143](https://github.com/saurabharch/fireship.io/pull/143) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
 <!--END_SECTION:activity-->
 <br/>
 
