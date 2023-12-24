@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#411](https://github.com/saurabharch/react/pull/411) in [saurabharch/react](https://github.com/saurabharch/react)
-2. 💪 Opened PR [#119](https://github.com/raindigi/black-shop/pull/119) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
-3. 💪 Opened PR [#57](https://github.com/raindigi/erxes-api/pull/57) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
-4. 💪 Opened PR [#104](https://github.com/raindigi/Ghost/pull/104) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
-5. 💪 Opened PR [#6](https://github.com/saurabharch/camelot/pull/6) in [saurabharch/camelot](https://github.com/saurabharch/camelot)
+1. 💪 Opened PR [#120](https://github.com/raindigi/black-shop/pull/120) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+2. 💪 Opened PR [#411](https://github.com/saurabharch/react/pull/411) in [saurabharch/react](https://github.com/saurabharch/react)
+3. 💪 Opened PR [#119](https://github.com/raindigi/black-shop/pull/119) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+4. 💪 Opened PR [#57](https://github.com/raindigi/erxes-api/pull/57) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
+5. 💪 Opened PR [#104](https://github.com/raindigi/Ghost/pull/104) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
 <!--END_SECTION:activity-->
 <br/>
 
