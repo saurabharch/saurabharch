@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2691](https://github.com/saurabharch/gatsby/pull/2691) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-2. 💪 Opened PR [#110](https://github.com/saurabharch/odoo/pull/110) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
-3. 💪 Opened PR [#97](https://github.com/saurabharch/docs-tools/pull/97) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
-4. 💪 Opened PR [#412](https://github.com/saurabharch/react/pull/412) in [saurabharch/react](https://github.com/saurabharch/react)
-5. 💪 Opened PR [#9](https://github.com/raindigi/eShopModernizing/pull/9) in [raindigi/eShopModernizing](https://github.com/raindigi/eShopModernizing)
+1. 💪 Opened PR [#39](https://github.com/raindigi/eShopOnContainersAI/pull/39) in [raindigi/eShopOnContainersAI](https://github.com/raindigi/eShopOnContainersAI)
+2. 💪 Opened PR [#38](https://github.com/raindigi/eShopOnContainersAI/pull/38) in [raindigi/eShopOnContainersAI](https://github.com/raindigi/eShopOnContainersAI)
+3. 💪 Opened PR [#2691](https://github.com/saurabharch/gatsby/pull/2691) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+4. 💪 Opened PR [#110](https://github.com/saurabharch/odoo/pull/110) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
+5. 💪 Opened PR [#97](https://github.com/saurabharch/docs-tools/pull/97) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
 <!--END_SECTION:activity-->
 <br/>
 
