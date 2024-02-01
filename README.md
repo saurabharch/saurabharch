@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/raindigi/haraka-plugin-wildduck/pull/25) in [raindigi/haraka-plugin-wildduck](https://github.com/raindigi/haraka-plugin-wildduck)
-2. 💪 Opened PR [#112](https://github.com/saurabharch/odoo/pull/112) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
-3. 💪 Opened PR [#29](https://github.com/raindigi/cinema-microservice/pull/29) in [raindigi/cinema-microservice](https://github.com/raindigi/cinema-microservice)
-4. 💪 Opened PR [#205](https://github.com/raindigi/Advanced-React/pull/205) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
-5. 💪 Opened PR [#194](https://github.com/saurabharch/cyph/pull/194) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
+1. 💪 Opened PR [#98](https://github.com/saurabharch/NodeBB/pull/98) in [saurabharch/NodeBB](https://github.com/saurabharch/NodeBB)
+2. 💪 Opened PR [#49](https://github.com/saurabharch/GraphqlType-API-Registration/pull/49) in [saurabharch/GraphqlType-API-Registration](https://github.com/saurabharch/GraphqlType-API-Registration)
+3. 💪 Opened PR [#25](https://github.com/raindigi/haraka-plugin-wildduck/pull/25) in [raindigi/haraka-plugin-wildduck](https://github.com/raindigi/haraka-plugin-wildduck)
+4. 💪 Opened PR [#112](https://github.com/saurabharch/odoo/pull/112) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
+5. 💪 Opened PR [#29](https://github.com/raindigi/cinema-microservice/pull/29) in [raindigi/cinema-microservice](https://github.com/raindigi/cinema-microservice)
 <!--END_SECTION:activity-->
 <br/>
 
