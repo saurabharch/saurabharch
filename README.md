@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#69](https://github.com/saurabharch/autopush/pull/69) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
-2. 💪 Opened PR [#49](https://github.com/saurabharch/n8n/pull/49) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
-3. 💪 Opened PR [#34](https://github.com/raindigi/mailtrain/pull/34) in [raindigi/mailtrain](https://github.com/raindigi/mailtrain)
-4. 💪 Opened PR [#68](https://github.com/saurabharch/autopush/pull/68) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
-5. 💪 Opened PR [#149](https://github.com/saurabharch/fireship.io/pull/149) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
+1. 💪 Opened PR [#31](https://github.com/raindigi/erxes-widgets-api/pull/31) in [raindigi/erxes-widgets-api](https://github.com/raindigi/erxes-widgets-api)
+2. 💪 Opened PR [#69](https://github.com/saurabharch/autopush/pull/69) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
+3. 💪 Opened PR [#49](https://github.com/saurabharch/n8n/pull/49) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
+4. 💪 Opened PR [#34](https://github.com/raindigi/mailtrain/pull/34) in [raindigi/mailtrain](https://github.com/raindigi/mailtrain)
+5. 💪 Opened PR [#68](https://github.com/saurabharch/autopush/pull/68) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
 <!--END_SECTION:activity-->
 <br/>
 
