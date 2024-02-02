@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51](https://github.com/saurabharch/meanblog/pull/51) in [saurabharch/meanblog](https://github.com/saurabharch/meanblog)
-2. 💪 Opened PR [#65](https://github.com/saurabharch/fireframe/pull/65) in [saurabharch/fireframe](https://github.com/saurabharch/fireframe)
-3. 💪 Opened PR [#74](https://github.com/saurabharch/lounge/pull/74) in [saurabharch/lounge](https://github.com/saurabharch/lounge)
-4. 💪 Opened PR [#13](https://github.com/saurabharch/node-imager/pull/13) in [saurabharch/node-imager](https://github.com/saurabharch/node-imager)
-5. 💪 Opened PR [#70](https://github.com/saurabharch/EBB/pull/70) in [saurabharch/EBB](https://github.com/saurabharch/EBB)
+1. 💪 Opened PR [#61](https://github.com/saurabharch/stitch-examples/pull/61) in [saurabharch/stitch-examples](https://github.com/saurabharch/stitch-examples)
+2. 💪 Opened PR [#188](https://github.com/raindigi/GraphqlType-API-Registration/pull/188) in [raindigi/GraphqlType-API-Registration](https://github.com/raindigi/GraphqlType-API-Registration)
+3. 💪 Opened PR [#51](https://github.com/saurabharch/meanblog/pull/51) in [saurabharch/meanblog](https://github.com/saurabharch/meanblog)
+4. 💪 Opened PR [#65](https://github.com/saurabharch/fireframe/pull/65) in [saurabharch/fireframe](https://github.com/saurabharch/fireframe)
+5. 💪 Opened PR [#74](https://github.com/saurabharch/lounge/pull/74) in [saurabharch/lounge](https://github.com/saurabharch/lounge)
 <!--END_SECTION:activity-->
 <br/>
 
