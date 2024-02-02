@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#68](https://github.com/saurabharch/snippets/pull/68) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
-2. 💪 Opened PR [#24](https://github.com/saurabharch/refinery/pull/24) in [saurabharch/refinery](https://github.com/saurabharch/refinery)
-3. 💪 Opened PR [#35](https://github.com/saurabharch/conference-for-good/pull/35) in [saurabharch/conference-for-good](https://github.com/saurabharch/conference-for-good)
-4. 💪 Opened PR [#86](https://github.com/raindigi/Learn-Node/pull/86) in [raindigi/Learn-Node](https://github.com/raindigi/Learn-Node)
-5. 💪 Opened PR [#21](https://github.com/saurabharch/meanstacktutorial/pull/21) in [saurabharch/meanstacktutorial](https://github.com/saurabharch/meanstacktutorial)
+1. 💪 Opened PR [#94](https://github.com/saurabharch/kentcdodds.com/pull/94) in [saurabharch/kentcdodds.com](https://github.com/saurabharch/kentcdodds.com)
+2. 💪 Opened PR [#68](https://github.com/saurabharch/snippets/pull/68) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
+3. 💪 Opened PR [#24](https://github.com/saurabharch/refinery/pull/24) in [saurabharch/refinery](https://github.com/saurabharch/refinery)
+4. 💪 Opened PR [#35](https://github.com/saurabharch/conference-for-good/pull/35) in [saurabharch/conference-for-good](https://github.com/saurabharch/conference-for-good)
+5. 💪 Opened PR [#86](https://github.com/raindigi/Learn-Node/pull/86) in [raindigi/Learn-Node](https://github.com/raindigi/Learn-Node)
 <!--END_SECTION:activity-->
 <br/>
 
