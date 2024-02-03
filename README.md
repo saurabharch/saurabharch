@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#69](https://github.com/saurabharch/pokemart/pull/69) in [saurabharch/pokemart](https://github.com/saurabharch/pokemart)
-2. 💪 Opened PR [#109](https://github.com/saurabharch/meeting-for-good/pull/109) in [saurabharch/meeting-for-good](https://github.com/saurabharch/meeting-for-good)
-3. 💪 Opened PR [#16](https://github.com/raindigi/erxes-widgets/pull/16) in [raindigi/erxes-widgets](https://github.com/raindigi/erxes-widgets)
-4. 💪 Opened PR [#69](https://github.com/saurabharch/snippets/pull/69) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
-5. 💪 Opened PR [#160](https://github.com/saurabharch/howtographql/pull/160) in [saurabharch/howtographql](https://github.com/saurabharch/howtographql)
+1. 💪 Opened PR [#152](https://github.com/raindigi/cloudcannon-suite/pull/152) in [raindigi/cloudcannon-suite](https://github.com/raindigi/cloudcannon-suite)
+2. 💪 Opened PR [#61](https://github.com/saurabharch/HireDot2/pull/61) in [saurabharch/HireDot2](https://github.com/saurabharch/HireDot2)
+3. 💪 Opened PR [#69](https://github.com/saurabharch/pokemart/pull/69) in [saurabharch/pokemart](https://github.com/saurabharch/pokemart)
+4. 💪 Opened PR [#109](https://github.com/saurabharch/meeting-for-good/pull/109) in [saurabharch/meeting-for-good](https://github.com/saurabharch/meeting-for-good)
+5. 💪 Opened PR [#16](https://github.com/raindigi/erxes-widgets/pull/16) in [raindigi/erxes-widgets](https://github.com/raindigi/erxes-widgets)
 <!--END_SECTION:activity-->
 <br/>
 
