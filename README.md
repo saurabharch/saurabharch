@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#160](https://github.com/saurabharch/howtographql/pull/160) in [saurabharch/howtographql](https://github.com/saurabharch/howtographql)
-2. 💪 Opened PR [#60](https://github.com/saurabharch/web-refinery/pull/60) in [saurabharch/web-refinery](https://github.com/saurabharch/web-refinery)
-3. 💪 Opened PR [#248](https://github.com/saurabharch/spectrum/pull/248) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
-4. 💪 Opened PR [#57](https://github.com/raindigi/stf/pull/57) in [raindigi/stf](https://github.com/raindigi/stf)
-5. 💪 Opened PR [#365](https://github.com/raindigi/site-landing/pull/365) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
+1. 💪 Opened PR [#109](https://github.com/saurabharch/meeting-for-good/pull/109) in [saurabharch/meeting-for-good](https://github.com/saurabharch/meeting-for-good)
+2. 💪 Opened PR [#16](https://github.com/raindigi/erxes-widgets/pull/16) in [raindigi/erxes-widgets](https://github.com/raindigi/erxes-widgets)
+3. 💪 Opened PR [#69](https://github.com/saurabharch/snippets/pull/69) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
+4. 💪 Opened PR [#160](https://github.com/saurabharch/howtographql/pull/160) in [saurabharch/howtographql](https://github.com/saurabharch/howtographql)
+5. 💪 Opened PR [#60](https://github.com/saurabharch/web-refinery/pull/60) in [saurabharch/web-refinery](https://github.com/saurabharch/web-refinery)
 <!--END_SECTION:activity-->
 <br/>
 
