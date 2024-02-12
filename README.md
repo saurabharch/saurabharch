@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/raindigi/nsfwjs/pull/46) in [raindigi/nsfwjs](https://github.com/raindigi/nsfwjs)
-2. 💪 Opened PR [#71](https://github.com/saurabharch/snippets/pull/71) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
-3. 💪 Opened PR [#2793](https://github.com/saurabharch/gatsby/pull/2793) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#2792](https://github.com/saurabharch/gatsby/pull/2792) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-5. 💪 Opened PR [#2791](https://github.com/saurabharch/gatsby/pull/2791) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+1. 💪 Opened PR [#81](https://github.com/saurabharch/fastyper/pull/81) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
+2. 💪 Opened PR [#66](https://github.com/saurabharch/nicky-blog/pull/66) in [saurabharch/nicky-blog](https://github.com/saurabharch/nicky-blog)
+3. 💪 Opened PR [#366](https://github.com/raindigi/site-landing/pull/366) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
+4. 💪 Opened PR [#2795](https://github.com/saurabharch/gatsby/pull/2795) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+5. 💪 Opened PR [#2794](https://github.com/saurabharch/gatsby/pull/2794) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
