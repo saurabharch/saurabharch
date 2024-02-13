@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2797](https://github.com/saurabharch/gatsby/pull/2797) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-2. 💪 Opened PR [#197](https://github.com/saurabharch/cyph/pull/197) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-3. 💪 Opened PR [#2796](https://github.com/saurabharch/gatsby/pull/2796) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#81](https://github.com/saurabharch/fastyper/pull/81) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
-5. 💪 Opened PR [#66](https://github.com/saurabharch/nicky-blog/pull/66) in [saurabharch/nicky-blog](https://github.com/saurabharch/nicky-blog)
+1. 💪 Opened PR [#2798](https://github.com/saurabharch/gatsby/pull/2798) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+2. 💪 Opened PR [#75](https://github.com/saurabharch/taniarascia.com/pull/75) in [saurabharch/taniarascia.com](https://github.com/saurabharch/taniarascia.com)
+3. 💪 Opened PR [#2797](https://github.com/saurabharch/gatsby/pull/2797) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+4. 💪 Opened PR [#197](https://github.com/saurabharch/cyph/pull/197) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
+5. 💪 Opened PR [#2796](https://github.com/saurabharch/gatsby/pull/2796) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
