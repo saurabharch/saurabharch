@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/saurabharch/node-imager/pull/14) in [saurabharch/node-imager](https://github.com/saurabharch/node-imager)
-2. 💪 Opened PR [#121](https://github.com/raindigi/black-shop/pull/121) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
-3. 💪 Opened PR [#2799](https://github.com/saurabharch/gatsby/pull/2799) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#79](https://github.com/saurabharch/FyndX/pull/79) in [saurabharch/FyndX](https://github.com/saurabharch/FyndX)
-5. 💪 Opened PR [#2798](https://github.com/saurabharch/gatsby/pull/2798) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+1. ❌ Closed PR [#25](https://github.com/saurabharch/n8n/pull/25) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
+2. ❌ Closed PR [#23](https://github.com/saurabharch/n8n/pull/23) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
+3. ❌ Closed PR [#22](https://github.com/saurabharch/n8n/pull/22) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
+4. ❌ Closed PR [#21](https://github.com/saurabharch/n8n/pull/21) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
+5. ❌ Closed PR [#19](https://github.com/saurabharch/n8n/pull/19) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
 <!--END_SECTION:activity-->
 <br/>
 
