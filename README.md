@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#62](https://github.com/saurabharch/web-refinery/pull/62) in [saurabharch/web-refinery](https://github.com/saurabharch/web-refinery)
-2. 💪 Opened PR [#164](https://github.com/raindigi/site-preview/pull/164) in [raindigi/site-preview](https://github.com/raindigi/site-preview)
-3. 💪 Opened PR [#209](https://github.com/saurabharch/wekanhow/pull/209) in [saurabharch/wekanhow](https://github.com/saurabharch/wekanhow)
-4. 💪 Opened PR [#60](https://github.com/raindigi/erxes-api/pull/60) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
-5. 💪 Opened PR [#74](https://github.com/raindigi/jamcommerce/pull/74) in [raindigi/jamcommerce](https://github.com/raindigi/jamcommerce)
+1. 💪 Opened PR [#85](https://github.com/saurabharch/gatsby-starter-simple-landing/pull/85) in [saurabharch/gatsby-starter-simple-landing](https://github.com/saurabharch/gatsby-starter-simple-landing)
+2. 💪 Opened PR [#62](https://github.com/saurabharch/web-refinery/pull/62) in [saurabharch/web-refinery](https://github.com/saurabharch/web-refinery)
+3. 💪 Opened PR [#164](https://github.com/raindigi/site-preview/pull/164) in [raindigi/site-preview](https://github.com/raindigi/site-preview)
+4. 💪 Opened PR [#209](https://github.com/saurabharch/wekanhow/pull/209) in [saurabharch/wekanhow](https://github.com/saurabharch/wekanhow)
+5. 💪 Opened PR [#60](https://github.com/raindigi/erxes-api/pull/60) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
 <!--END_SECTION:activity-->
 <br/>
 
