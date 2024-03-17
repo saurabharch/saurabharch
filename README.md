@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#198](https://github.com/saurabharch/cyph/pull/198) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-2. 💪 Opened PR [#152](https://github.com/saurabharch/fireship.io/pull/152) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
-3. 💪 Opened PR [#217](https://github.com/saurabharch/codesandbox-client/pull/217) in [saurabharch/codesandbox-client](https://github.com/saurabharch/codesandbox-client)
-4. 💪 Opened PR [#125](https://github.com/saurabhkashyap/graphql-asia/pull/125) in [saurabhkashyap/graphql-asia](https://github.com/saurabhkashyap/graphql-asia)
-5. 💪 Opened PR [#216](https://github.com/saurabharch/codesandbox-client/pull/216) in [saurabharch/codesandbox-client](https://github.com/saurabharch/codesandbox-client)
+1. 💪 Opened PR [#24](https://github.com/saurabharch/first-timers-bot/pull/24) in [saurabharch/first-timers-bot](https://github.com/saurabharch/first-timers-bot)
+2. 💪 Opened PR [#198](https://github.com/saurabharch/cyph/pull/198) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
+3. 💪 Opened PR [#152](https://github.com/saurabharch/fireship.io/pull/152) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
+4. 💪 Opened PR [#217](https://github.com/saurabharch/codesandbox-client/pull/217) in [saurabharch/codesandbox-client](https://github.com/saurabharch/codesandbox-client)
+5. 💪 Opened PR [#125](https://github.com/saurabhkashyap/graphql-asia/pull/125) in [saurabhkashyap/graphql-asia](https://github.com/saurabhkashyap/graphql-asia)
 <!--END_SECTION:activity-->
 <br/>
 
