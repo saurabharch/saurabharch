@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2828](https://github.com/saurabharch/gatsby/pull/2828) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-2. 💪 Opened PR [#47](https://github.com/saurabharch/typeorm/pull/47) in [saurabharch/typeorm](https://github.com/saurabharch/typeorm)
-3. 💪 Opened PR [#2827](https://github.com/saurabharch/gatsby/pull/2827) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#65](https://github.com/saurabharch/gatsby-starter-restro/pull/65) in [saurabharch/gatsby-starter-restro](https://github.com/saurabharch/gatsby-starter-restro)
-5. 💪 Opened PR [#70](https://github.com/saurabharch/gatsby-wp/pull/70) in [saurabharch/gatsby-wp](https://github.com/saurabharch/gatsby-wp)
+1. 💪 Opened PR [#97](https://github.com/saurabharch/kentcdodds.com/pull/97) in [saurabharch/kentcdodds.com](https://github.com/saurabharch/kentcdodds.com)
+2. 💪 Opened PR [#2828](https://github.com/saurabharch/gatsby/pull/2828) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+3. 💪 Opened PR [#47](https://github.com/saurabharch/typeorm/pull/47) in [saurabharch/typeorm](https://github.com/saurabharch/typeorm)
+4. 💪 Opened PR [#2827](https://github.com/saurabharch/gatsby/pull/2827) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+5. 💪 Opened PR [#65](https://github.com/saurabharch/gatsby-starter-restro/pull/65) in [saurabharch/gatsby-starter-restro](https://github.com/saurabharch/gatsby-starter-restro)
 <!--END_SECTION:activity-->
 <br/>
 
