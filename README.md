@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#79](https://github.com/saurabharch/microservices-example/pull/79) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
-2. 💪 Opened PR [#78](https://github.com/saurabharch/microservices-example/pull/78) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
-3. 💪 Opened PR [#8](https://github.com/saurabharch/soundcloud-ngrx/pull/8) in [saurabharch/soundcloud-ngrx](https://github.com/saurabharch/soundcloud-ngrx)
-4. 💪 Opened PR [#210](https://github.com/saurabharch/summit-workshop/pull/210) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
-5. 💪 Opened PR [#15](https://github.com/saurabharch/node-dc-mongo/pull/15) in [saurabharch/node-dc-mongo](https://github.com/saurabharch/node-dc-mongo)
+1. 💪 Opened PR [#61](https://github.com/raindigi/erxes-api/pull/61) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
+2. 💪 Opened PR [#83](https://github.com/saurabharch/f8app/pull/83) in [saurabharch/f8app](https://github.com/saurabharch/f8app)
+3. 💪 Opened PR [#13](https://github.com/raindigi/erxes-logger/pull/13) in [raindigi/erxes-logger](https://github.com/raindigi/erxes-logger)
+4. 💪 Opened PR [#79](https://github.com/saurabharch/microservices-example/pull/79) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
+5. 💪 Opened PR [#78](https://github.com/saurabharch/microservices-example/pull/78) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
 <!--END_SECTION:activity-->
 <br/>
 
