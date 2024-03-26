@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#200](https://github.com/saurabharch/cyph/pull/200) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-2. 💪 Opened PR [#52](https://github.com/saurabharch/react-phone-e-commerce-project/pull/52) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
-3. 💪 Opened PR [#118](https://github.com/raindigi/Merchello/pull/118) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
-4. 💪 Opened PR [#127](https://github.com/saurabhkashyap/graphql-asia/pull/127) in [saurabhkashyap/graphql-asia](https://github.com/saurabhkashyap/graphql-asia)
-5. 💪 Opened PR [#81](https://github.com/saurabharch/FyndX/pull/81) in [saurabharch/FyndX](https://github.com/saurabharch/FyndX)
+1. 💪 Opened PR [#76](https://github.com/saurabharch/microservices-example/pull/76) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
+2. 💪 Opened PR [#72](https://github.com/raindigi/room-booking-system/pull/72) in [raindigi/room-booking-system](https://github.com/raindigi/room-booking-system)
+3. 💪 Opened PR [#8](https://github.com/saurabharch/smog/pull/8) in [saurabharch/smog](https://github.com/saurabharch/smog)
+4. 💪 Opened PR [#207](https://github.com/saurabharch/summit-workshop/pull/207) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
+5. 💪 Opened PR [#200](https://github.com/saurabharch/cyph/pull/200) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
 <!--END_SECTION:activity-->
 <br/>
 
