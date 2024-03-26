@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](https://github.com/raindigi/erxes-api/pull/61) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
-2. 💪 Opened PR [#83](https://github.com/saurabharch/f8app/pull/83) in [saurabharch/f8app](https://github.com/saurabharch/f8app)
-3. 💪 Opened PR [#13](https://github.com/raindigi/erxes-logger/pull/13) in [raindigi/erxes-logger](https://github.com/raindigi/erxes-logger)
-4. 💪 Opened PR [#79](https://github.com/saurabharch/microservices-example/pull/79) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
-5. 💪 Opened PR [#78](https://github.com/saurabharch/microservices-example/pull/78) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
+1. 💪 Opened PR [#42](https://github.com/saurabharch/graphiql/pull/42) in [saurabharch/graphiql](https://github.com/saurabharch/graphiql)
+2. 💪 Opened PR [#61](https://github.com/raindigi/erxes-api/pull/61) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
+3. 💪 Opened PR [#83](https://github.com/saurabharch/f8app/pull/83) in [saurabharch/f8app](https://github.com/saurabharch/f8app)
+4. 💪 Opened PR [#13](https://github.com/raindigi/erxes-logger/pull/13) in [raindigi/erxes-logger](https://github.com/raindigi/erxes-logger)
+5. 💪 Opened PR [#79](https://github.com/saurabharch/microservices-example/pull/79) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
 <!--END_SECTION:activity-->
 <br/>
 
