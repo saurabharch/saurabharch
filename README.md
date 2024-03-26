@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#209](https://github.com/saurabharch/summit-workshop/pull/209) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
-2. 💪 Opened PR [#32](https://github.com/raindigi/animinated-date-gif/pull/32) in [raindigi/animinated-date-gif](https://github.com/raindigi/animinated-date-gif)
-3. 💪 Opened PR [#212](https://github.com/raindigi/Advanced-React/pull/212) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
-4. 💪 Opened PR [#36](https://github.com/saurabharch/simple-sso/pull/36) in [saurabharch/simple-sso](https://github.com/saurabharch/simple-sso)
-5. 💪 Opened PR [#429](https://github.com/saurabharch/react/pull/429) in [saurabharch/react](https://github.com/saurabharch/react)
+1. 💪 Opened PR [#79](https://github.com/saurabharch/microservices-example/pull/79) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
+2. 💪 Opened PR [#78](https://github.com/saurabharch/microservices-example/pull/78) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
+3. 💪 Opened PR [#8](https://github.com/saurabharch/soundcloud-ngrx/pull/8) in [saurabharch/soundcloud-ngrx](https://github.com/saurabharch/soundcloud-ngrx)
+4. 💪 Opened PR [#210](https://github.com/saurabharch/summit-workshop/pull/210) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
+5. 💪 Opened PR [#15](https://github.com/saurabharch/node-dc-mongo/pull/15) in [saurabharch/node-dc-mongo](https://github.com/saurabharch/node-dc-mongo)
 <!--END_SECTION:activity-->
 <br/>
 
