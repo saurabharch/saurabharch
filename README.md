@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/saurabharch/node-chat/pull/14) in [saurabharch/node-chat](https://github.com/saurabharch/node-chat)
-2. 💪 Opened PR [#58](https://github.com/raindigi/stf/pull/58) in [raindigi/stf](https://github.com/raindigi/stf)
-3. 💪 Opened PR [#212](https://github.com/saurabharch/summit-workshop/pull/212) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
-4. 💪 Opened PR [#83](https://github.com/saurabharch/fastyper/pull/83) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
-5. 💪 Opened PR [#93](https://github.com/saurabharch/linkpreview/pull/93) in [saurabharch/linkpreview](https://github.com/saurabharch/linkpreview)
+1. 💪 Opened PR [#24](https://github.com/raindigi/erxes-integrations/pull/24) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
+2. 💪 Opened PR [#212](https://github.com/saurabharch/wekanhow/pull/212) in [saurabharch/wekanhow](https://github.com/saurabharch/wekanhow)
+3. 💪 Opened PR [#14](https://github.com/saurabharch/node-chat/pull/14) in [saurabharch/node-chat](https://github.com/saurabharch/node-chat)
+4. 💪 Opened PR [#58](https://github.com/raindigi/stf/pull/58) in [raindigi/stf](https://github.com/raindigi/stf)
+5. 💪 Opened PR [#212](https://github.com/saurabharch/summit-workshop/pull/212) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
 <!--END_SECTION:activity-->
 <br/>
 
