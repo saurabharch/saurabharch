@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#94](https://github.com/saurabharch/linkpreview/pull/94) in [saurabharch/linkpreview](https://github.com/saurabharch/linkpreview)
-2. 💪 Opened PR [#73](https://github.com/saurabharch/byodb/pull/73) in [saurabharch/byodb](https://github.com/saurabharch/byodb)
-3. 💪 Opened PR [#203](https://github.com/saurabharch/cyph/pull/203) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-4. 💪 Opened PR [#432](https://github.com/saurabharch/react/pull/432) in [saurabharch/react](https://github.com/saurabharch/react)
-5. 💪 Opened PR [#2888](https://github.com/saurabharch/gatsby/pull/2888) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+1. 💪 Opened PR [#49](https://github.com/saurabharch/typeorm/pull/49) in [saurabharch/typeorm](https://github.com/saurabharch/typeorm)
+2. 💪 Opened PR [#94](https://github.com/saurabharch/linkpreview/pull/94) in [saurabharch/linkpreview](https://github.com/saurabharch/linkpreview)
+3. 💪 Opened PR [#73](https://github.com/saurabharch/byodb/pull/73) in [saurabharch/byodb](https://github.com/saurabharch/byodb)
+4. 💪 Opened PR [#203](https://github.com/saurabharch/cyph/pull/203) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
+5. 💪 Opened PR [#432](https://github.com/saurabharch/react/pull/432) in [saurabharch/react](https://github.com/saurabharch/react)
 <!--END_SECTION:activity-->
 <br/>
 
