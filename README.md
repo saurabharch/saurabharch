@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51](https://github.com/saurabharch/moonly-app/pull/51) in [saurabharch/moonly-app](https://github.com/saurabharch/moonly-app)
-2. 💪 Opened PR [#213](https://github.com/raindigi/Advanced-React/pull/213) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
-3. 💪 Opened PR [#29](https://github.com/saurabharch/meteor-apollo-starter-kit/pull/29) in [saurabharch/meteor-apollo-starter-kit](https://github.com/saurabharch/meteor-apollo-starter-kit)
-4. 💪 Opened PR [#84](https://github.com/saurabharch/f8app/pull/84) in [saurabharch/f8app](https://github.com/saurabharch/f8app)
-5. 💪 Opened PR [#33](https://github.com/saurabhkashyap/gh-cc-exercise/pull/33) in [saurabhkashyap/gh-cc-exercise](https://github.com/saurabhkashyap/gh-cc-exercise)
+1. 💪 Opened PR [#25](https://github.com/raindigi/erxes-integrations/pull/25) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
+2. 💪 Opened PR [#221](https://github.com/saurabharch/codesandbox-client/pull/221) in [saurabharch/codesandbox-client](https://github.com/saurabharch/codesandbox-client)
+3. 💪 Opened PR [#371](https://github.com/raindigi/site-landing/pull/371) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
+4. 💪 Opened PR [#256](https://github.com/saurabharch/spectrum/pull/256) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
+5. 💪 Opened PR [#26](https://github.com/saurabharch/nectarcommerce/pull/26) in [saurabharch/nectarcommerce](https://github.com/saurabharch/nectarcommerce)
 <!--END_SECTION:activity-->
 <br/>
 
