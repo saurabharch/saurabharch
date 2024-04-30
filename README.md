@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/saurabharch/simple-sso/pull/39) in [saurabharch/simple-sso](https://github.com/saurabharch/simple-sso)
-2. 💪 Opened PR [#15](https://github.com/saurabharch/node-chat/pull/15) in [saurabharch/node-chat](https://github.com/saurabharch/node-chat)
-3. 💪 Opened PR [#18](https://github.com/raindigi/erxes-widgets/pull/18) in [raindigi/erxes-widgets](https://github.com/raindigi/erxes-widgets)
-4. 💪 Opened PR [#38](https://github.com/saurabharch/simple-sso/pull/38) in [saurabharch/simple-sso](https://github.com/saurabharch/simple-sso)
-5. 💪 Opened PR [#2907](https://github.com/saurabharch/gatsby/pull/2907) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+1. 💪 Opened PR [#219](https://github.com/saurabharch/summit-workshop/pull/219) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
+2. 💪 Opened PR [#39](https://github.com/saurabharch/simple-sso/pull/39) in [saurabharch/simple-sso](https://github.com/saurabharch/simple-sso)
+3. 💪 Opened PR [#15](https://github.com/saurabharch/node-chat/pull/15) in [saurabharch/node-chat](https://github.com/saurabharch/node-chat)
+4. 💪 Opened PR [#18](https://github.com/raindigi/erxes-widgets/pull/18) in [raindigi/erxes-widgets](https://github.com/raindigi/erxes-widgets)
+5. 💪 Opened PR [#38](https://github.com/saurabharch/simple-sso/pull/38) in [saurabharch/simple-sso](https://github.com/saurabharch/simple-sso)
 <!--END_SECTION:activity-->
 <br/>
 
