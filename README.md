@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#113](https://github.com/saurabharch/meeting-for-good/pull/113) in [saurabharch/meeting-for-good](https://github.com/saurabharch/meeting-for-good)
-2. 💪 Opened PR [#223](https://github.com/saurabharch/summit-workshop/pull/223) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
-3. 💪 Opened PR [#222](https://github.com/saurabharch/summit-workshop/pull/222) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
-4. 💪 Opened PR [#221](https://github.com/saurabharch/summit-workshop/pull/221) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
-5. 💪 Opened PR [#25](https://github.com/saurabharch/first-timers-bot/pull/25) in [saurabharch/first-timers-bot](https://github.com/saurabharch/first-timers-bot)
+1. 💪 Opened PR [#10](https://github.com/saurabharch/camelot/pull/10) in [saurabharch/camelot](https://github.com/saurabharch/camelot)
+2. 💪 Opened PR [#113](https://github.com/saurabharch/meeting-for-good/pull/113) in [saurabharch/meeting-for-good](https://github.com/saurabharch/meeting-for-good)
+3. 💪 Opened PR [#223](https://github.com/saurabharch/summit-workshop/pull/223) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
+4. 💪 Opened PR [#222](https://github.com/saurabharch/summit-workshop/pull/222) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
+5. 💪 Opened PR [#221](https://github.com/saurabharch/summit-workshop/pull/221) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
 <!--END_SECTION:activity-->
 <br/>
 
