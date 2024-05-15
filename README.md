@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#221](https://github.com/raindigi/Advanced-React/pull/221) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
-2. 💪 Opened PR [#75](https://github.com/saurabharch/snippets/pull/75) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
-3. 💪 Opened PR [#107](https://github.com/saurabharch/Breezeblocks/pull/107) in [saurabharch/Breezeblocks](https://github.com/saurabharch/Breezeblocks)
-4. 💪 Opened PR [#27](https://github.com/saurabharch/first-timers-bot/pull/27) in [saurabharch/first-timers-bot](https://github.com/saurabharch/first-timers-bot)
-5. 💪 Opened PR [#230](https://github.com/saurabharch/summit-workshop/pull/230) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
+1. 💪 Opened PR [#56](https://github.com/saurabharch/graphiql/pull/56) in [saurabharch/graphiql](https://github.com/saurabharch/graphiql)
+2. 💪 Opened PR [#221](https://github.com/raindigi/Advanced-React/pull/221) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
+3. 💪 Opened PR [#75](https://github.com/saurabharch/snippets/pull/75) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
+4. 💪 Opened PR [#107](https://github.com/saurabharch/Breezeblocks/pull/107) in [saurabharch/Breezeblocks](https://github.com/saurabharch/Breezeblocks)
+5. 💪 Opened PR [#27](https://github.com/saurabharch/first-timers-bot/pull/27) in [saurabharch/first-timers-bot](https://github.com/saurabharch/first-timers-bot)
 <!--END_SECTION:activity-->
 <br/>
 
