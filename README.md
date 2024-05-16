@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#72](https://github.com/saurabharch/autopush/pull/72) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
-2. 💪 Opened PR [#389](https://github.com/raindigi/site-landing/pull/389) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
-3. 💪 Opened PR [#56](https://github.com/saurabharch/graphiql/pull/56) in [saurabharch/graphiql](https://github.com/saurabharch/graphiql)
-4. 💪 Opened PR [#221](https://github.com/raindigi/Advanced-React/pull/221) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
-5. 💪 Opened PR [#75](https://github.com/saurabharch/snippets/pull/75) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
+1. 💪 Opened PR [#2972](https://github.com/saurabharch/gatsby/pull/2972) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+2. 💪 Opened PR [#72](https://github.com/saurabharch/autopush/pull/72) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
+3. 💪 Opened PR [#389](https://github.com/raindigi/site-landing/pull/389) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
+4. 💪 Opened PR [#56](https://github.com/saurabharch/graphiql/pull/56) in [saurabharch/graphiql](https://github.com/saurabharch/graphiql)
+5. 💪 Opened PR [#221](https://github.com/raindigi/Advanced-React/pull/221) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
 <!--END_SECTION:activity-->
 <br/>
 
