@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#58](https://github.com/saurabharch/react-phone-e-commerce-project/pull/58) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
-2. 💪 Opened PR [#57](https://github.com/saurabharch/react-phone-e-commerce-project/pull/57) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
-3. 💪 Opened PR [#56](https://github.com/saurabharch/react-phone-e-commerce-project/pull/56) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
-4. 💪 Opened PR [#55](https://github.com/saurabharch/react-phone-e-commerce-project/pull/55) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
-5. 💪 Opened PR [#2973](https://github.com/saurabharch/gatsby/pull/2973) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+1. 💪 Opened PR [#85](https://github.com/saurabharch/FyndX/pull/85) in [saurabharch/FyndX](https://github.com/saurabharch/FyndX)
+2. 💪 Opened PR [#58](https://github.com/saurabharch/react-phone-e-commerce-project/pull/58) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
+3. 💪 Opened PR [#57](https://github.com/saurabharch/react-phone-e-commerce-project/pull/57) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
+4. 💪 Opened PR [#56](https://github.com/saurabharch/react-phone-e-commerce-project/pull/56) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
+5. 💪 Opened PR [#55](https://github.com/saurabharch/react-phone-e-commerce-project/pull/55) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
 <!--END_SECTION:activity-->
 <br/>
 
