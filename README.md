@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#122](https://github.com/raindigi/Merchello/pull/122) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
-2. 💪 Opened PR [#75](https://github.com/saurabharch/gatsby-wp/pull/75) in [saurabharch/gatsby-wp](https://github.com/saurabharch/gatsby-wp)
-3. 💪 Opened PR [#110](https://github.com/saurabharch/docs-tools/pull/110) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
-4. 💪 Opened PR [#81](https://github.com/saurabharch/taniarascia.com/pull/81) in [saurabharch/taniarascia.com](https://github.com/saurabharch/taniarascia.com)
-5. 💪 Opened PR [#121](https://github.com/raindigi/Merchello/pull/121) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
+1. 💪 Opened PR [#102](https://github.com/saurabharch/kentcdodds.com/pull/102) in [saurabharch/kentcdodds.com](https://github.com/saurabharch/kentcdodds.com)
+2. 💪 Opened PR [#122](https://github.com/raindigi/Merchello/pull/122) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
+3. 💪 Opened PR [#75](https://github.com/saurabharch/gatsby-wp/pull/75) in [saurabharch/gatsby-wp](https://github.com/saurabharch/gatsby-wp)
+4. 💪 Opened PR [#110](https://github.com/saurabharch/docs-tools/pull/110) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
+5. 💪 Opened PR [#81](https://github.com/saurabharch/taniarascia.com/pull/81) in [saurabharch/taniarascia.com](https://github.com/saurabharch/taniarascia.com)
 <!--END_SECTION:activity-->
 <br/>
 
