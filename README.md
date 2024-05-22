@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2974](https://github.com/saurabharch/gatsby/pull/2974) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-2. 💪 Opened PR [#76](https://github.com/saurabharch/byodb/pull/76) in [saurabharch/byodb](https://github.com/saurabharch/byodb)
-3. 💪 Opened PR [#70](https://github.com/saurabharch/gatsby-starter-restro/pull/70) in [saurabharch/gatsby-starter-restro](https://github.com/saurabharch/gatsby-starter-restro)
-4. 💪 Opened PR [#103](https://github.com/saurabharch/kentcdodds.com/pull/103) in [saurabharch/kentcdodds.com](https://github.com/saurabharch/kentcdodds.com)
-5. 💪 Opened PR [#15](https://github.com/saurabharch/tbp-annotator/pull/15) in [saurabharch/tbp-annotator](https://github.com/saurabharch/tbp-annotator)
+1. 💪 Opened PR [#18](https://github.com/saurabharch/datatable-typeahead/pull/18) in [saurabharch/datatable-typeahead](https://github.com/saurabharch/datatable-typeahead)
+2. 💪 Opened PR [#2974](https://github.com/saurabharch/gatsby/pull/2974) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+3. 💪 Opened PR [#76](https://github.com/saurabharch/byodb/pull/76) in [saurabharch/byodb](https://github.com/saurabharch/byodb)
+4. 💪 Opened PR [#70](https://github.com/saurabharch/gatsby-starter-restro/pull/70) in [saurabharch/gatsby-starter-restro](https://github.com/saurabharch/gatsby-starter-restro)
+5. 💪 Opened PR [#103](https://github.com/saurabharch/kentcdodds.com/pull/103) in [saurabharch/kentcdodds.com](https://github.com/saurabharch/kentcdodds.com)
 <!--END_SECTION:activity-->
 <br/>
 
