@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#129](https://github.com/raindigi/Merchello/pull/129) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
-2. 💪 Opened PR [#128](https://github.com/raindigi/Merchello/pull/128) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
-3. 💪 Opened PR [#157](https://github.com/raindigi/cloudcannon-suite/pull/157) in [raindigi/cloudcannon-suite](https://github.com/raindigi/cloudcannon-suite)
-4. 💪 Opened PR [#76](https://github.com/saurabharch/gatsby-wp/pull/76) in [saurabharch/gatsby-wp](https://github.com/saurabharch/gatsby-wp)
-5. 💪 Opened PR [#76](https://github.com/saurabharch/snippets/pull/76) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
+1. 💪 Opened PR [#79](https://github.com/saurabharch/lounge/pull/79) in [saurabharch/lounge](https://github.com/saurabharch/lounge)
+2. 💪 Opened PR [#130](https://github.com/raindigi/Merchello/pull/130) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
+3. 💪 Opened PR [#98](https://github.com/saurabharch/pomodoro-gatsby/pull/98) in [saurabharch/pomodoro-gatsby](https://github.com/saurabharch/pomodoro-gatsby)
+4. 💪 Opened PR [#78](https://github.com/raindigi/jamcommerce/pull/78) in [raindigi/jamcommerce](https://github.com/raindigi/jamcommerce)
+5. 💪 Opened PR [#31](https://github.com/saurabharch/react-imgpro/pull/31) in [saurabharch/react-imgpro](https://github.com/saurabharch/react-imgpro)
 <!--END_SECTION:activity-->
 <br/>
 
