@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#109](https://github.com/saurabharch/Breezeblocks/pull/109) in [saurabharch/Breezeblocks](https://github.com/saurabharch/Breezeblocks)
-2. 💪 Opened PR [#94](https://github.com/saurabharch/gatsby-starter-test/pull/94) in [saurabharch/gatsby-starter-test](https://github.com/saurabharch/gatsby-starter-test)
-3. 💪 Opened PR [#391](https://github.com/raindigi/site-landing/pull/391) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
-4. 💪 Opened PR [#73](https://github.com/saurabharch/nicky-blog/pull/73) in [saurabharch/nicky-blog](https://github.com/saurabharch/nicky-blog)
-5. 💪 Opened PR [#453](https://github.com/saurabharch/react/pull/453) in [saurabharch/react](https://github.com/saurabharch/react)
+1. 💪 Opened PR [#129](https://github.com/raindigi/Merchello/pull/129) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
+2. 💪 Opened PR [#128](https://github.com/raindigi/Merchello/pull/128) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
+3. 💪 Opened PR [#157](https://github.com/raindigi/cloudcannon-suite/pull/157) in [raindigi/cloudcannon-suite](https://github.com/raindigi/cloudcannon-suite)
+4. 💪 Opened PR [#76](https://github.com/saurabharch/gatsby-wp/pull/76) in [saurabharch/gatsby-wp](https://github.com/saurabharch/gatsby-wp)
+5. 💪 Opened PR [#76](https://github.com/saurabharch/snippets/pull/76) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
 <!--END_SECTION:activity-->
 <br/>
 
