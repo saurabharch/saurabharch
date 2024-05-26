@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#224](https://github.com/raindigi/Advanced-React/pull/224) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
-2. 💪 Opened PR [#73](https://github.com/saurabharch/v4/pull/73) in [saurabharch/v4](https://github.com/saurabharch/v4)
-3. 💪 Opened PR [#134](https://github.com/saurabhkashyap/graphql-asia/pull/134) in [saurabhkashyap/graphql-asia](https://github.com/saurabhkashyap/graphql-asia)
-4. 💪 Opened PR [#168](https://github.com/raindigi/site-preview/pull/168) in [raindigi/site-preview](https://github.com/raindigi/site-preview)
-5. 💪 Opened PR [#158](https://github.com/saurabharch/fireship.io/pull/158) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
+1. 💪 Opened PR [#53](https://github.com/saurabharch/GraphqlType-API-Registration/pull/53) in [saurabharch/GraphqlType-API-Registration](https://github.com/saurabharch/GraphqlType-API-Registration)
+2. 💪 Opened PR [#42](https://github.com/saurabharch/node/pull/42) in [saurabharch/node](https://github.com/saurabharch/node)
+3. 💪 Opened PR [#224](https://github.com/raindigi/Advanced-React/pull/224) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
+4. 💪 Opened PR [#73](https://github.com/saurabharch/v4/pull/73) in [saurabharch/v4](https://github.com/saurabharch/v4)
+5. 💪 Opened PR [#134](https://github.com/saurabhkashyap/graphql-asia/pull/134) in [saurabhkashyap/graphql-asia](https://github.com/saurabhkashyap/graphql-asia)
 <!--END_SECTION:activity-->
 <br/>
 
