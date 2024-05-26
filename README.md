@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](https://github.com/saurabharch/typeorm/pull/53) in [saurabharch/typeorm](https://github.com/saurabharch/typeorm)
-2. 💪 Opened PR [#225](https://github.com/raindigi/Advanced-React/pull/225) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
-3. 💪 Opened PR [#88](https://github.com/saurabharch/fastyper/pull/88) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
-4. 💪 Opened PR [#458](https://github.com/saurabharch/react/pull/458) in [saurabharch/react](https://github.com/saurabharch/react)
-5. 💪 Opened PR [#53](https://github.com/saurabharch/GraphqlType-API-Registration/pull/53) in [saurabharch/GraphqlType-API-Registration](https://github.com/saurabharch/GraphqlType-API-Registration)
+1. 💪 Opened PR [#83](https://github.com/saurabharch/taniarascia.com/pull/83) in [saurabharch/taniarascia.com](https://github.com/saurabharch/taniarascia.com)
+2. 💪 Opened PR [#53](https://github.com/saurabharch/typeorm/pull/53) in [saurabharch/typeorm](https://github.com/saurabharch/typeorm)
+3. 💪 Opened PR [#225](https://github.com/raindigi/Advanced-React/pull/225) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
+4. 💪 Opened PR [#88](https://github.com/saurabharch/fastyper/pull/88) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
+5. 💪 Opened PR [#458](https://github.com/saurabharch/react/pull/458) in [saurabharch/react](https://github.com/saurabharch/react)
 <!--END_SECTION:activity-->
 <br/>
 
