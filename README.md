@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](https://github.com/saurabharch/GraphqlType-API-Registration/pull/53) in [saurabharch/GraphqlType-API-Registration](https://github.com/saurabharch/GraphqlType-API-Registration)
-2. 💪 Opened PR [#42](https://github.com/saurabharch/node/pull/42) in [saurabharch/node](https://github.com/saurabharch/node)
-3. 💪 Opened PR [#224](https://github.com/raindigi/Advanced-React/pull/224) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
-4. 💪 Opened PR [#73](https://github.com/saurabharch/v4/pull/73) in [saurabharch/v4](https://github.com/saurabharch/v4)
-5. 💪 Opened PR [#134](https://github.com/saurabhkashyap/graphql-asia/pull/134) in [saurabhkashyap/graphql-asia](https://github.com/saurabhkashyap/graphql-asia)
+1. 💪 Opened PR [#88](https://github.com/saurabharch/fastyper/pull/88) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
+2. 💪 Opened PR [#458](https://github.com/saurabharch/react/pull/458) in [saurabharch/react](https://github.com/saurabharch/react)
+3. 💪 Opened PR [#53](https://github.com/saurabharch/GraphqlType-API-Registration/pull/53) in [saurabharch/GraphqlType-API-Registration](https://github.com/saurabharch/GraphqlType-API-Registration)
+4. 💪 Opened PR [#42](https://github.com/saurabharch/node/pull/42) in [saurabharch/node](https://github.com/saurabharch/node)
+5. 💪 Opened PR [#224](https://github.com/raindigi/Advanced-React/pull/224) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
 <!--END_SECTION:activity-->
 <br/>
 
