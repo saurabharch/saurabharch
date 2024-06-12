@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#69](https://github.com/saurabharch/n8n/pull/69) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
-2. 💪 Opened PR [#27](https://github.com/raindigi/erxes-integrations/pull/27) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
-3. 💪 Opened PR [#64](https://github.com/raindigi/erxes-api/pull/64) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
-4. 💪 Opened PR [#172](https://github.com/raindigi/cloudcannon-suite/pull/172) in [raindigi/cloudcannon-suite](https://github.com/raindigi/cloudcannon-suite)
-5. 💪 Opened PR [#3035](https://github.com/saurabharch/gatsby/pull/3035) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+1. 💪 Opened PR [#55](https://github.com/saurabharch/typeorm/pull/55) in [saurabharch/typeorm](https://github.com/saurabharch/typeorm)
+2. 💪 Opened PR [#69](https://github.com/saurabharch/n8n/pull/69) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
+3. 💪 Opened PR [#27](https://github.com/raindigi/erxes-integrations/pull/27) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
+4. 💪 Opened PR [#64](https://github.com/raindigi/erxes-api/pull/64) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
+5. 💪 Opened PR [#172](https://github.com/raindigi/cloudcannon-suite/pull/172) in [raindigi/cloudcannon-suite](https://github.com/raindigi/cloudcannon-suite)
 <!--END_SECTION:activity-->
 <br/>
 
