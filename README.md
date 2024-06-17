@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#261](https://github.com/saurabharch/spectrum/pull/261) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
-2. 💪 Opened PR [#3049](https://github.com/saurabharch/gatsby/pull/3049) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-3. 💪 Opened PR [#3048](https://github.com/saurabharch/gatsby/pull/3048) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#3047](https://github.com/saurabharch/gatsby/pull/3047) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-5. 💪 Opened PR [#35](https://github.com/raindigi/erxes-widgets-api/pull/35) in [raindigi/erxes-widgets-api](https://github.com/raindigi/erxes-widgets-api)
+1. 💪 Opened PR [#68](https://github.com/saurabharch/web-refinery/pull/68) in [saurabharch/web-refinery](https://github.com/saurabharch/web-refinery)
+2. 💪 Opened PR [#3054](https://github.com/saurabharch/gatsby/pull/3054) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+3. 💪 Opened PR [#3053](https://github.com/saurabharch/gatsby/pull/3053) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+4. 💪 Opened PR [#78](https://github.com/saurabharch/snippets/pull/78) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
+5. 💪 Opened PR [#3052](https://github.com/saurabharch/gatsby/pull/3052) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
