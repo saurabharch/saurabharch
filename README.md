@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3095](https://github.com/saurabharch/gatsby/pull/3095) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-2. 💪 Opened PR [#3094](https://github.com/saurabharch/gatsby/pull/3094) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-3. 💪 Opened PR [#3093](https://github.com/saurabharch/gatsby/pull/3093) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#3092](https://github.com/saurabharch/gatsby/pull/3092) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-5. 💪 Opened PR [#3091](https://github.com/saurabharch/gatsby/pull/3091) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+1. 💪 Opened PR [#3096](https://github.com/saurabharch/gatsby/pull/3096) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+2. 💪 Opened PR [#3095](https://github.com/saurabharch/gatsby/pull/3095) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+3. 💪 Opened PR [#3094](https://github.com/saurabharch/gatsby/pull/3094) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+4. 💪 Opened PR [#3093](https://github.com/saurabharch/gatsby/pull/3093) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+5. 💪 Opened PR [#3092](https://github.com/saurabharch/gatsby/pull/3092) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
