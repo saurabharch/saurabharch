@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](https://github.com/saurabharch/HireDot2/pull/70) in [saurabharch/HireDot2](https://github.com/saurabharch/HireDot2)
-2. 💪 Opened PR [#70](https://github.com/saurabharch/web-refinery/pull/70) in [saurabharch/web-refinery](https://github.com/saurabharch/web-refinery)
-3. 💪 Opened PR [#45](https://github.com/raindigi/eShopOnContainersAI/pull/45) in [raindigi/eShopOnContainersAI](https://github.com/raindigi/eShopOnContainersAI)
-4. 💪 Opened PR [#80](https://github.com/saurabharch/pokemart/pull/80) in [saurabharch/pokemart](https://github.com/saurabharch/pokemart)
-5. 💪 Opened PR [#76](https://github.com/saurabharch/TerraWatts/pull/76) in [saurabharch/TerraWatts](https://github.com/saurabharch/TerraWatts)
+1. 💪 Opened PR [#80](https://github.com/saurabharch/snippets/pull/80) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
+2. 💪 Opened PR [#50](https://github.com/saurabharch/web/pull/50) in [saurabharch/web](https://github.com/saurabharch/web)
+3. 💪 Opened PR [#75](https://github.com/saurabharch/fireframe/pull/75) in [saurabharch/fireframe](https://github.com/saurabharch/fireframe)
+4. 💪 Opened PR [#70](https://github.com/saurabharch/HireDot2/pull/70) in [saurabharch/HireDot2](https://github.com/saurabharch/HireDot2)
+5. 💪 Opened PR [#70](https://github.com/saurabharch/web-refinery/pull/70) in [saurabharch/web-refinery](https://github.com/saurabharch/web-refinery)
 <!--END_SECTION:activity-->
 <br/>
 
