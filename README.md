@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/raindigi/erxes-widgets-api/pull/37) in [raindigi/erxes-widgets-api](https://github.com/raindigi/erxes-widgets-api)
-2. 💪 Opened PR [#45](https://github.com/saurabharch/avia/pull/45) in [saurabharch/avia](https://github.com/saurabharch/avia)
-3. 💪 Opened PR [#73](https://github.com/saurabharch/reelcool/pull/73) in [saurabharch/reelcool](https://github.com/saurabharch/reelcool)
-4. 💪 Opened PR [#48](https://github.com/raindigi/eShopOnContainersAI/pull/48) in [raindigi/eShopOnContainersAI](https://github.com/raindigi/eShopOnContainersAI)
-5. 💪 Opened PR [#35](https://github.com/saurabharch/elasticsearch-client/pull/35) in [saurabharch/elasticsearch-client](https://github.com/saurabharch/elasticsearch-client)
+1. 💪 Opened PR [#9](https://github.com/saurabharch/image-sequencer/pull/9) in [saurabharch/image-sequencer](https://github.com/saurabharch/image-sequencer)
+2. 💪 Opened PR [#45](https://github.com/raindigi/eShopOnContainers/pull/45) in [raindigi/eShopOnContainers](https://github.com/raindigi/eShopOnContainers)
+3. 💪 Opened PR [#90](https://github.com/saurabharch/CodeGenius/pull/90) in [saurabharch/CodeGenius](https://github.com/saurabharch/CodeGenius)
+4. 💪 Opened PR [#37](https://github.com/raindigi/erxes-widgets-api/pull/37) in [raindigi/erxes-widgets-api](https://github.com/raindigi/erxes-widgets-api)
+5. 💪 Opened PR [#45](https://github.com/saurabharch/avia/pull/45) in [saurabharch/avia](https://github.com/saurabharch/avia)
 <!--END_SECTION:activity-->
 <br/>
 
