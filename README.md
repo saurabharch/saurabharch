@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#400](https://github.com/raindigi/site-landing/pull/400) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
-2. 💪 Opened PR [#81](https://github.com/saurabharch/snippets/pull/81) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
-3. 💪 Opened PR [#87](https://github.com/raindigi/medium-blog-kafka-udemy/pull/87) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
-4. 💪 Opened PR [#15](https://github.com/saurabharch/excalibur/pull/15) in [saurabharch/excalibur](https://github.com/saurabharch/excalibur)
-5. 💪 Opened PR [#71](https://github.com/saurabharch/HireDot2/pull/71) in [saurabharch/HireDot2](https://github.com/saurabharch/HireDot2)
+1. 💪 Opened PR [#35](https://github.com/saurabharch/elasticsearch-client/pull/35) in [saurabharch/elasticsearch-client](https://github.com/saurabharch/elasticsearch-client)
+2. 💪 Opened PR [#400](https://github.com/raindigi/site-landing/pull/400) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
+3. 💪 Opened PR [#81](https://github.com/saurabharch/snippets/pull/81) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
+4. 💪 Opened PR [#87](https://github.com/raindigi/medium-blog-kafka-udemy/pull/87) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+5. 💪 Opened PR [#15](https://github.com/saurabharch/excalibur/pull/15) in [saurabharch/excalibur](https://github.com/saurabharch/excalibur)
 <!--END_SECTION:activity-->
 <br/>
 
