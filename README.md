@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/saurabharch/elasticsearch-client/pull/34) in [saurabharch/elasticsearch-client](https://github.com/saurabharch/elasticsearch-client)
-2. 💪 Opened PR [#81](https://github.com/saurabharch/ImVue/pull/81) in [saurabharch/ImVue](https://github.com/saurabharch/ImVue)
-3. 💪 Opened PR [#114](https://github.com/saurabharch/Breezeblocks/pull/114) in [saurabharch/Breezeblocks](https://github.com/saurabharch/Breezeblocks)
-4. 💪 Opened PR [#65](https://github.com/saurabharch/react-phone-e-commerce-project/pull/65) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
-5. 💪 Opened PR [#126](https://github.com/raindigi/black-shop/pull/126) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+1. 💪 Opened PR [#86](https://github.com/raindigi/medium-blog-kafka-udemy/pull/86) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+2. 💪 Opened PR [#51](https://github.com/saurabharch/web/pull/51) in [saurabharch/web](https://github.com/saurabharch/web)
+3. 💪 Opened PR [#80](https://github.com/saurabharch/byodb/pull/80) in [saurabharch/byodb](https://github.com/saurabharch/byodb)
+4. 💪 Opened PR [#28](https://github.com/saurabharch/AngularApp/pull/28) in [saurabharch/AngularApp](https://github.com/saurabharch/AngularApp)
+5. 💪 Opened PR [#76](https://github.com/saurabharch/fireframe/pull/76) in [saurabharch/fireframe](https://github.com/saurabharch/fireframe)
 <!--END_SECTION:activity-->
 <br/>
 
