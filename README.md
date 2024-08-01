@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49](https://github.com/raindigi/eShopOnContainersAI/pull/49) in [raindigi/eShopOnContainersAI](https://github.com/raindigi/eShopOnContainersAI)
-2. 💪 Opened PR [#16](https://github.com/saurabharch/excalibur/pull/16) in [saurabharch/excalibur](https://github.com/saurabharch/excalibur)
-3. 💪 Opened PR [#46](https://github.com/raindigi/eShopOnContainers/pull/46) in [raindigi/eShopOnContainers](https://github.com/raindigi/eShopOnContainers)
-4. 💪 Opened PR [#20](https://github.com/saurabharch/website/pull/20) in [saurabharch/website](https://github.com/saurabharch/website)
-5. 💪 Opened PR [#46](https://github.com/saurabharch/avia/pull/46) in [saurabharch/avia](https://github.com/saurabharch/avia)
+1. 💪 Opened PR [#42](https://github.com/saurabharch/huddo121.github.io/pull/42) in [saurabharch/huddo121.github.io](https://github.com/saurabharch/huddo121.github.io)
+2. 💪 Opened PR [#49](https://github.com/raindigi/eShopOnContainersAI/pull/49) in [raindigi/eShopOnContainersAI](https://github.com/raindigi/eShopOnContainersAI)
+3. 💪 Opened PR [#16](https://github.com/saurabharch/excalibur/pull/16) in [saurabharch/excalibur](https://github.com/saurabharch/excalibur)
+4. 💪 Opened PR [#46](https://github.com/raindigi/eShopOnContainers/pull/46) in [raindigi/eShopOnContainers](https://github.com/raindigi/eShopOnContainers)
+5. 💪 Opened PR [#20](https://github.com/saurabharch/website/pull/20) in [saurabharch/website](https://github.com/saurabharch/website)
 <!--END_SECTION:activity-->
 <br/>
 
