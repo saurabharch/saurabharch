@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#170](https://github.com/saurabharch/howtographql/pull/170) in [saurabharch/howtographql](https://github.com/saurabharch/howtographql)
-2. 💪 Opened PR [#97](https://github.com/raindigi/Learn-Node/pull/97) in [raindigi/Learn-Node](https://github.com/raindigi/Learn-Node)
-3. 💪 Opened PR [#81](https://github.com/saurabharch/lounge/pull/81) in [saurabharch/lounge](https://github.com/saurabharch/lounge)
-4. 💪 Opened PR [#53](https://github.com/saurabharch/moonly-app/pull/53) in [saurabharch/moonly-app](https://github.com/saurabharch/moonly-app)
-5. 💪 Opened PR [#96](https://github.com/raindigi/Learn-Node/pull/96) in [raindigi/Learn-Node](https://github.com/raindigi/Learn-Node)
+1. 💪 Opened PR [#176](https://github.com/raindigi/cloudcannon-suite/pull/176) in [raindigi/cloudcannon-suite](https://github.com/raindigi/cloudcannon-suite)
+2. 💪 Opened PR [#170](https://github.com/saurabharch/howtographql/pull/170) in [saurabharch/howtographql](https://github.com/saurabharch/howtographql)
+3. 💪 Opened PR [#97](https://github.com/raindigi/Learn-Node/pull/97) in [raindigi/Learn-Node](https://github.com/raindigi/Learn-Node)
+4. 💪 Opened PR [#81](https://github.com/saurabharch/lounge/pull/81) in [saurabharch/lounge](https://github.com/saurabharch/lounge)
+5. 💪 Opened PR [#53](https://github.com/saurabharch/moonly-app/pull/53) in [saurabharch/moonly-app](https://github.com/saurabharch/moonly-app)
 <!--END_SECTION:activity-->
 <br/>
 
