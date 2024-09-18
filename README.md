@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#245](https://github.com/saurabharch/summit-workshop/pull/245) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
-2. 💪 Opened PR [#95](https://github.com/saurabharch/microservices-example/pull/95) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
-3. 💪 Opened PR [#110](https://github.com/saurabharch/NodeBB/pull/110) in [saurabharch/NodeBB](https://github.com/saurabharch/NodeBB)
-4. 💪 Opened PR [#14](https://github.com/saurabharch/yt-graphql-react-event-booking-api/pull/14) in [saurabharch/yt-graphql-react-event-booking-api](https://github.com/saurabharch/yt-graphql-react-event-booking-api)
-5. 💪 Opened PR [#124](https://github.com/raindigi/Ghost/pull/124) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
+1. 💪 Opened PR [#70](https://github.com/raindigi/erxes-api/pull/70) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
+2. 💪 Opened PR [#33](https://github.com/raindigi/erxes-integrations/pull/33) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
+3. 💪 Opened PR [#97](https://github.com/saurabharch/fastyper/pull/97) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
+4. 💪 Opened PR [#41](https://github.com/raindigi/erxes-widgets-api/pull/41) in [raindigi/erxes-widgets-api](https://github.com/raindigi/erxes-widgets-api)
+5. 💪 Opened PR [#16](https://github.com/raindigi/erxes-logger/pull/16) in [raindigi/erxes-logger](https://github.com/raindigi/erxes-logger)
 <!--END_SECTION:activity-->
 <br/>
 
