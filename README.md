@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](https://github.com/raindigi/erxes-api/pull/70) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
-2. 💪 Opened PR [#33](https://github.com/raindigi/erxes-integrations/pull/33) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
-3. 💪 Opened PR [#97](https://github.com/saurabharch/fastyper/pull/97) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
-4. 💪 Opened PR [#41](https://github.com/raindigi/erxes-widgets-api/pull/41) in [raindigi/erxes-widgets-api](https://github.com/raindigi/erxes-widgets-api)
-5. 💪 Opened PR [#16](https://github.com/raindigi/erxes-logger/pull/16) in [raindigi/erxes-logger](https://github.com/raindigi/erxes-logger)
+1. 💪 Opened PR [#104](https://github.com/saurabharch/linkpreview/pull/104) in [saurabharch/linkpreview](https://github.com/saurabharch/linkpreview)
+2. 💪 Opened PR [#43](https://github.com/saurabharch/simple-sso/pull/43) in [saurabharch/simple-sso](https://github.com/saurabharch/simple-sso)
+3. 💪 Opened PR [#84](https://github.com/saurabharch/lounge/pull/84) in [saurabharch/lounge](https://github.com/saurabharch/lounge)
+4. 💪 Opened PR [#70](https://github.com/raindigi/erxes-api/pull/70) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
+5. 💪 Opened PR [#33](https://github.com/raindigi/erxes-integrations/pull/33) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
 <!--END_SECTION:activity-->
 <br/>
 
