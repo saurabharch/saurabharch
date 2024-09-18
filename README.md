@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#65](https://github.com/saurabharch/mail-for-good/pull/65) in [saurabharch/mail-for-good](https://github.com/saurabharch/mail-for-good)
-2. 💪 Opened PR [#95](https://github.com/raindigi/graphql-server-with-node/pull/95) in [raindigi/graphql-server-with-node](https://github.com/raindigi/graphql-server-with-node)
-3. 💪 Opened PR [#42](https://github.com/raindigi/mailtrain/pull/42) in [raindigi/mailtrain](https://github.com/raindigi/mailtrain)
-4. 💪 Opened PR [#248](https://github.com/saurabharch/summit-workshop/pull/248) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
-5. 💪 Opened PR [#17](https://github.com/saurabharch/node-chat/pull/17) in [saurabharch/node-chat](https://github.com/saurabharch/node-chat)
+1. 💪 Opened PR [#57](https://github.com/saurabharch/GraphqlType-API-Registration/pull/57) in [saurabharch/GraphqlType-API-Registration](https://github.com/saurabharch/GraphqlType-API-Registration)
+2. 💪 Opened PR [#65](https://github.com/saurabharch/mail-for-good/pull/65) in [saurabharch/mail-for-good](https://github.com/saurabharch/mail-for-good)
+3. 💪 Opened PR [#95](https://github.com/raindigi/graphql-server-with-node/pull/95) in [raindigi/graphql-server-with-node](https://github.com/raindigi/graphql-server-with-node)
+4. 💪 Opened PR [#42](https://github.com/raindigi/mailtrain/pull/42) in [raindigi/mailtrain](https://github.com/raindigi/mailtrain)
+5. 💪 Opened PR [#248](https://github.com/saurabharch/summit-workshop/pull/248) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
 <!--END_SECTION:activity-->
 <br/>
 
