@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#104](https://github.com/saurabharch/linkpreview/pull/104) in [saurabharch/linkpreview](https://github.com/saurabharch/linkpreview)
-2. 💪 Opened PR [#43](https://github.com/saurabharch/simple-sso/pull/43) in [saurabharch/simple-sso](https://github.com/saurabharch/simple-sso)
-3. 💪 Opened PR [#84](https://github.com/saurabharch/lounge/pull/84) in [saurabharch/lounge](https://github.com/saurabharch/lounge)
-4. 💪 Opened PR [#70](https://github.com/raindigi/erxes-api/pull/70) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
-5. 💪 Opened PR [#33](https://github.com/raindigi/erxes-integrations/pull/33) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
+1. 💪 Opened PR [#17](https://github.com/saurabharch/node-chat/pull/17) in [saurabharch/node-chat](https://github.com/saurabharch/node-chat)
+2. 💪 Opened PR [#34](https://github.com/raindigi/animinated-date-gif/pull/34) in [raindigi/animinated-date-gif](https://github.com/raindigi/animinated-date-gif)
+3. 💪 Opened PR [#247](https://github.com/saurabharch/summit-workshop/pull/247) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
+4. 💪 Opened PR [#170](https://github.com/saurabharch/fireship.io/pull/170) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
+5. 💪 Opened PR [#104](https://github.com/saurabharch/linkpreview/pull/104) in [saurabharch/linkpreview](https://github.com/saurabharch/linkpreview)
 <!--END_SECTION:activity-->
 <br/>
 
