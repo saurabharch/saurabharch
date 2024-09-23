@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#99](https://github.com/saurabharch/fastyper/pull/99) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
-2. 💪 Opened PR [#85](https://github.com/saurabharch/lounge/pull/85) in [saurabharch/lounge](https://github.com/saurabharch/lounge)
-3. 💪 Opened PR [#125](https://github.com/raindigi/Ghost/pull/125) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
-4. 💪 Opened PR [#98](https://github.com/saurabharch/fastyper/pull/98) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
-5. 💪 Opened PR [#70](https://github.com/raindigi/stf/pull/70) in [raindigi/stf](https://github.com/raindigi/stf)
+1. 💪 Opened PR [#82](https://github.com/saurabharch/autopush/pull/82) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
+2. 💪 Opened PR [#99](https://github.com/saurabharch/fastyper/pull/99) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
+3. 💪 Opened PR [#85](https://github.com/saurabharch/lounge/pull/85) in [saurabharch/lounge](https://github.com/saurabharch/lounge)
+4. 💪 Opened PR [#125](https://github.com/raindigi/Ghost/pull/125) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
+5. 💪 Opened PR [#98](https://github.com/saurabharch/fastyper/pull/98) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
 <!--END_SECTION:activity-->
 <br/>
 
