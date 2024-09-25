@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#83](https://github.com/saurabharch/autopush/pull/83) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
-2. 💪 Opened PR [#178](https://github.com/raindigi/cloudcannon-suite/pull/178) in [raindigi/cloudcannon-suite](https://github.com/raindigi/cloudcannon-suite)
-3. 💪 Opened PR [#82](https://github.com/saurabharch/autopush/pull/82) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
-4. 💪 Opened PR [#99](https://github.com/saurabharch/fastyper/pull/99) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
-5. 💪 Opened PR [#85](https://github.com/saurabharch/lounge/pull/85) in [saurabharch/lounge](https://github.com/saurabharch/lounge)
+1. 💪 Opened PR [#175](https://github.com/raindigi/site-preview/pull/175) in [raindigi/site-preview](https://github.com/raindigi/site-preview)
+2. 💪 Opened PR [#83](https://github.com/saurabharch/autopush/pull/83) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
+3. 💪 Opened PR [#178](https://github.com/raindigi/cloudcannon-suite/pull/178) in [raindigi/cloudcannon-suite](https://github.com/raindigi/cloudcannon-suite)
+4. 💪 Opened PR [#82](https://github.com/saurabharch/autopush/pull/82) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
+5. 💪 Opened PR [#99](https://github.com/saurabharch/fastyper/pull/99) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
 <!--END_SECTION:activity-->
 <br/>
 
