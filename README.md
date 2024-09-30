@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#504](https://github.com/saurabharch/rollout/issues/504) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
-2. 💪 Opened PR [#98](https://github.com/saurabharch/gatsby-starter-simple-landing/pull/98) in [saurabharch/gatsby-starter-simple-landing](https://github.com/saurabharch/gatsby-starter-simple-landing)
-3. 💪 Opened PR [#224](https://github.com/saurabharch/wekanhow/pull/224) in [saurabharch/wekanhow](https://github.com/saurabharch/wekanhow)
-4. 💪 Opened PR [#120](https://github.com/saurabharch/docs-tools/pull/120) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
-5. 💪 Opened PR [#45](https://github.com/saurabharch/react-ecommerce/pull/45) in [saurabharch/react-ecommerce](https://github.com/saurabharch/react-ecommerce)
+1. 💪 Opened PR [#225](https://github.com/saurabharch/wekanhow/pull/225) in [saurabharch/wekanhow](https://github.com/saurabharch/wekanhow)
+2. ❗ Opened issue [#504](https://github.com/saurabharch/rollout/issues/504) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
+3. 💪 Opened PR [#98](https://github.com/saurabharch/gatsby-starter-simple-landing/pull/98) in [saurabharch/gatsby-starter-simple-landing](https://github.com/saurabharch/gatsby-starter-simple-landing)
+4. 💪 Opened PR [#224](https://github.com/saurabharch/wekanhow/pull/224) in [saurabharch/wekanhow](https://github.com/saurabharch/wekanhow)
+5. 💪 Opened PR [#120](https://github.com/saurabharch/docs-tools/pull/120) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
 <!--END_SECTION:activity-->
 <br/>
 
