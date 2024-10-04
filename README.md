@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/saurabharch/smog/pull/10) in [saurabharch/smog](https://github.com/saurabharch/smog)
-2. 💪 Opened PR [#75](https://github.com/saurabharch/HireDot2/pull/75) in [saurabharch/HireDot2](https://github.com/saurabharch/HireDot2)
-3. 💪 Opened PR [#69](https://github.com/raindigi/ChainReactApp2019/pull/69) in [raindigi/ChainReactApp2019](https://github.com/raindigi/ChainReactApp2019)
-4. 💪 Opened PR [#14](https://github.com/saurabharch/subnodes/pull/14) in [saurabharch/subnodes](https://github.com/saurabharch/subnodes)
-5. 💪 Opened PR [#118](https://github.com/saurabharch/Breezeblocks/pull/118) in [saurabharch/Breezeblocks](https://github.com/saurabharch/Breezeblocks)
+1. 💪 Opened PR [#92](https://github.com/raindigi/medium-blog-kafka-udemy/pull/92) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+2. 💪 Opened PR [#91](https://github.com/raindigi/medium-blog-kafka-udemy/pull/91) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+3. 💪 Opened PR [#10](https://github.com/saurabharch/smog/pull/10) in [saurabharch/smog](https://github.com/saurabharch/smog)
+4. 💪 Opened PR [#75](https://github.com/saurabharch/HireDot2/pull/75) in [saurabharch/HireDot2](https://github.com/saurabharch/HireDot2)
+5. 💪 Opened PR [#69](https://github.com/raindigi/ChainReactApp2019/pull/69) in [raindigi/ChainReactApp2019](https://github.com/raindigi/ChainReactApp2019)
 <!--END_SECTION:activity-->
 <br/>
 
