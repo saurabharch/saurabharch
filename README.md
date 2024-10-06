@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#58](https://github.com/saurabharch/FileNation/pull/58) in [saurabharch/FileNation](https://github.com/saurabharch/FileNation)
-2. 💪 Opened PR [#105](https://github.com/saurabharch/linkpreview/pull/105) in [saurabharch/linkpreview](https://github.com/saurabharch/linkpreview)
-3. 💪 Opened PR [#11](https://github.com/saurabharch/smog/pull/11) in [saurabharch/smog](https://github.com/saurabharch/smog)
-4. 💪 Opened PR [#15](https://github.com/saurabharch/subnodes/pull/15) in [saurabharch/subnodes](https://github.com/saurabharch/subnodes)
-5. 💪 Opened PR [#93](https://github.com/raindigi/medium-blog-kafka-udemy/pull/93) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+1. 💪 Opened PR [#3371](https://github.com/saurabharch/gatsby/pull/3371) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+2. 💪 Opened PR [#58](https://github.com/saurabharch/FileNation/pull/58) in [saurabharch/FileNation](https://github.com/saurabharch/FileNation)
+3. 💪 Opened PR [#105](https://github.com/saurabharch/linkpreview/pull/105) in [saurabharch/linkpreview](https://github.com/saurabharch/linkpreview)
+4. 💪 Opened PR [#11](https://github.com/saurabharch/smog/pull/11) in [saurabharch/smog](https://github.com/saurabharch/smog)
+5. 💪 Opened PR [#15](https://github.com/saurabharch/subnodes/pull/15) in [saurabharch/subnodes](https://github.com/saurabharch/subnodes)
 <!--END_SECTION:activity-->
 <br/>
 
