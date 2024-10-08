@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/saurabharch/smog/pull/12) in [saurabharch/smog](https://github.com/saurabharch/smog)
-2. 💪 Opened PR [#3379](https://github.com/saurabharch/gatsby/pull/3379) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-3. 💪 Opened PR [#3378](https://github.com/saurabharch/gatsby/pull/3378) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#248](https://github.com/raindigi/Advanced-React/pull/248) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
-5. 💪 Opened PR [#103](https://github.com/saurabharch/gatsby-starter-test/pull/103) in [saurabharch/gatsby-starter-test](https://github.com/saurabharch/gatsby-starter-test)
+1. 💪 Opened PR [#3380](https://github.com/saurabharch/gatsby/pull/3380) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+2. 💪 Opened PR [#12](https://github.com/saurabharch/smog/pull/12) in [saurabharch/smog](https://github.com/saurabharch/smog)
+3. 💪 Opened PR [#3379](https://github.com/saurabharch/gatsby/pull/3379) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+4. 💪 Opened PR [#3378](https://github.com/saurabharch/gatsby/pull/3378) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+5. 💪 Opened PR [#248](https://github.com/raindigi/Advanced-React/pull/248) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
 <!--END_SECTION:activity-->
 <br/>
 
