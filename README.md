@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/saurabharch/node-chat/pull/18) in [saurabharch/node-chat](https://github.com/saurabharch/node-chat)
-2. 💪 Opened PR [#119](https://github.com/saurabharch/Breezeblocks/pull/119) in [saurabharch/Breezeblocks](https://github.com/saurabharch/Breezeblocks)
-3. 💪 Opened PR [#98](https://github.com/saurabharch/microservices-example/pull/98) in [saurabharch/microservices-example](https://github.com/saurabharch/microservices-example)
-4. 💪 Opened PR [#112](https://github.com/saurabharch/NodeBB/pull/112) in [saurabharch/NodeBB](https://github.com/saurabharch/NodeBB)
-5. 💪 Opened PR [#174](https://github.com/saurabharch/Story/pull/174) in [saurabharch/Story](https://github.com/saurabharch/Story)
+1. 💪 Opened PR [#179](https://github.com/raindigi/cloudcannon-suite/pull/179) in [raindigi/cloudcannon-suite](https://github.com/raindigi/cloudcannon-suite)
+2. 💪 Opened PR [#250](https://github.com/saurabharch/summit-workshop/pull/250) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
+3. 💪 Opened PR [#84](https://github.com/saurabharch/byodb/pull/84) in [saurabharch/byodb](https://github.com/saurabharch/byodb)
+4. 💪 Opened PR [#18](https://github.com/saurabharch/node-chat/pull/18) in [saurabharch/node-chat](https://github.com/saurabharch/node-chat)
+5. 💪 Opened PR [#119](https://github.com/saurabharch/Breezeblocks/pull/119) in [saurabharch/Breezeblocks](https://github.com/saurabharch/Breezeblocks)
 <!--END_SECTION:activity-->
 <br/>
 
