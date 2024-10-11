@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/saurabharch/subnodes/pull/16) in [saurabharch/subnodes](https://github.com/saurabharch/subnodes)
-2. 💪 Opened PR [#150](https://github.com/saurabhkashyap/graphql-asia/pull/150) in [saurabhkashyap/graphql-asia](https://github.com/saurabhkashyap/graphql-asia)
-3. 💪 Opened PR [#61](https://github.com/saurabharch/www.greglobinski.com/pull/61) in [saurabharch/www.greglobinski.com](https://github.com/saurabharch/www.greglobinski.com)
-4. 💪 Opened PR [#406](https://github.com/raindigi/site-landing/pull/406) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
-5. 💪 Opened PR [#86](https://github.com/saurabharch/lounge/pull/86) in [saurabharch/lounge](https://github.com/saurabharch/lounge)
+1. 💪 Opened PR [#58](https://github.com/saurabharch/GraphqlType-API-Registration/pull/58) in [saurabharch/GraphqlType-API-Registration](https://github.com/saurabharch/GraphqlType-API-Registration)
+2. 💪 Opened PR [#16](https://github.com/saurabharch/subnodes/pull/16) in [saurabharch/subnodes](https://github.com/saurabharch/subnodes)
+3. 💪 Opened PR [#150](https://github.com/saurabhkashyap/graphql-asia/pull/150) in [saurabhkashyap/graphql-asia](https://github.com/saurabhkashyap/graphql-asia)
+4. 💪 Opened PR [#61](https://github.com/saurabharch/www.greglobinski.com/pull/61) in [saurabharch/www.greglobinski.com](https://github.com/saurabharch/www.greglobinski.com)
+5. 💪 Opened PR [#406](https://github.com/raindigi/site-landing/pull/406) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
 <!--END_SECTION:activity-->
 <br/>
 
