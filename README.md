@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#506](https://github.com/saurabharch/rollout/pull/506) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
-2. 💪 Opened PR [#100](https://github.com/saurabharch/gatsby-starter-simple-landing/pull/100) in [saurabharch/gatsby-starter-simple-landing](https://github.com/saurabharch/gatsby-starter-simple-landing)
-3. 💪 Opened PR [#23](https://github.com/saurabharch/web-push-book/pull/23) in [saurabharch/web-push-book](https://github.com/saurabharch/web-push-book)
-4. 💪 Opened PR [#64](https://github.com/saurabharch/api.gatsbyjs.org/pull/64) in [saurabharch/api.gatsbyjs.org](https://github.com/saurabharch/api.gatsbyjs.org)
-5. 💪 Opened PR [#77](https://github.com/saurabharch/reelcool/pull/77) in [saurabharch/reelcool](https://github.com/saurabharch/reelcool)
+1. 💪 Opened PR [#179](https://github.com/saurabharch/howtographql/pull/179) in [saurabharch/howtographql](https://github.com/saurabharch/howtographql)
+2. 💪 Opened PR [#506](https://github.com/saurabharch/rollout/pull/506) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
+3. 💪 Opened PR [#100](https://github.com/saurabharch/gatsby-starter-simple-landing/pull/100) in [saurabharch/gatsby-starter-simple-landing](https://github.com/saurabharch/gatsby-starter-simple-landing)
+4. 💪 Opened PR [#23](https://github.com/saurabharch/web-push-book/pull/23) in [saurabharch/web-push-book](https://github.com/saurabharch/web-push-book)
+5. 💪 Opened PR [#64](https://github.com/saurabharch/api.gatsbyjs.org/pull/64) in [saurabharch/api.gatsbyjs.org](https://github.com/saurabharch/api.gatsbyjs.org)
 <!--END_SECTION:activity-->
 <br/>
 
