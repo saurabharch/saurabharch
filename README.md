@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/raindigi/erxes-integrations/pull/34) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
-2. 💪 Opened PR [#51](https://github.com/saurabharch/mean-full-starter/pull/51) in [saurabharch/mean-full-starter](https://github.com/saurabharch/mean-full-starter)
-3. 💪 Opened PR [#171](https://github.com/saurabharch/fireship.io/pull/171) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
-4. 💪 Opened PR [#252](https://github.com/saurabharch/summit-workshop/pull/252) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
-5. 💪 Opened PR [#96](https://github.com/saurabharch/FyndX/pull/96) in [saurabharch/FyndX](https://github.com/saurabharch/FyndX)
+1. 💪 Opened PR [#516](https://github.com/saurabharch/react/pull/516) in [saurabharch/react](https://github.com/saurabharch/react)
+2. 💪 Opened PR [#34](https://github.com/raindigi/erxes-integrations/pull/34) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
+3. 💪 Opened PR [#51](https://github.com/saurabharch/mean-full-starter/pull/51) in [saurabharch/mean-full-starter](https://github.com/saurabharch/mean-full-starter)
+4. 💪 Opened PR [#171](https://github.com/saurabharch/fireship.io/pull/171) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
+5. 💪 Opened PR [#252](https://github.com/saurabharch/summit-workshop/pull/252) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
 <!--END_SECTION:activity-->
 <br/>
 
