@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#519](https://github.com/saurabharch/react/pull/519) in [saurabharch/react](https://github.com/saurabharch/react)
-2. 💪 Opened PR [#72](https://github.com/saurabharch/bulma-book-code/pull/72) in [saurabharch/bulma-book-code](https://github.com/saurabharch/bulma-book-code)
-3. 💪 Opened PR [#3401](https://github.com/saurabharch/gatsby/pull/3401) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#102](https://github.com/saurabharch/fastyper/pull/102) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
-5. 💪 Opened PR [#96](https://github.com/saurabharch/gatsby-starter-default/pull/96) in [saurabharch/gatsby-starter-default](https://github.com/saurabharch/gatsby-starter-default)
+1. 💪 Opened PR [#3403](https://github.com/saurabharch/gatsby/pull/3403) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+2. 💪 Opened PR [#3402](https://github.com/saurabharch/gatsby/pull/3402) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+3. 💪 Opened PR [#519](https://github.com/saurabharch/react/pull/519) in [saurabharch/react](https://github.com/saurabharch/react)
+4. 💪 Opened PR [#72](https://github.com/saurabharch/bulma-book-code/pull/72) in [saurabharch/bulma-book-code](https://github.com/saurabharch/bulma-book-code)
+5. 💪 Opened PR [#3401](https://github.com/saurabharch/gatsby/pull/3401) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
