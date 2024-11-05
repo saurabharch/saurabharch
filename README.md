@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#103](https://github.com/raindigi/Learn-Node/pull/103) in [raindigi/Learn-Node](https://github.com/raindigi/Learn-Node)
-2. 💪 Opened PR [#77](https://github.com/saurabharch/HireDot2/pull/77) in [saurabharch/HireDot2](https://github.com/saurabharch/HireDot2)
-3. 💪 Opened PR [#75](https://github.com/saurabharch/web-refinery/pull/75) in [saurabharch/web-refinery](https://github.com/saurabharch/web-refinery)
-4. 💪 Opened PR [#29](https://github.com/saurabharch/refinery/pull/29) in [saurabharch/refinery](https://github.com/saurabharch/refinery)
-5. 💪 Opened PR [#85](https://github.com/saurabharch/snippets/pull/85) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
+1. 💪 Opened PR [#104](https://github.com/raindigi/Learn-Node/pull/104) in [raindigi/Learn-Node](https://github.com/raindigi/Learn-Node)
+2. 💪 Opened PR [#103](https://github.com/raindigi/Learn-Node/pull/103) in [raindigi/Learn-Node](https://github.com/raindigi/Learn-Node)
+3. 💪 Opened PR [#77](https://github.com/saurabharch/HireDot2/pull/77) in [saurabharch/HireDot2](https://github.com/saurabharch/HireDot2)
+4. 💪 Opened PR [#75](https://github.com/saurabharch/web-refinery/pull/75) in [saurabharch/web-refinery](https://github.com/saurabharch/web-refinery)
+5. 💪 Opened PR [#29](https://github.com/saurabharch/refinery/pull/29) in [saurabharch/refinery](https://github.com/saurabharch/refinery)
 <!--END_SECTION:activity-->
 <br/>
 
