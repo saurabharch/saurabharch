@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#103](https://github.com/saurabharch/gatsby-starter-simple-landing/pull/103) in [saurabharch/gatsby-starter-simple-landing](https://github.com/saurabharch/gatsby-starter-simple-landing)
-2. 💪 Opened PR [#512](https://github.com/saurabharch/rollout/pull/512) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
-3. 💪 Opened PR [#3513](https://github.com/saurabharch/gatsby/pull/3513) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#409](https://github.com/raindigi/site-landing/pull/409) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
-5. 💪 Opened PR [#257](https://github.com/raindigi/Advanced-React/pull/257) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
+1. 💪 Opened PR [#3517](https://github.com/saurabharch/gatsby/pull/3517) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+2. 💪 Opened PR [#3516](https://github.com/saurabharch/gatsby/pull/3516) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+3. 💪 Opened PR [#197](https://github.com/raindigi/GraphqlType-API-Registration/pull/197) in [raindigi/GraphqlType-API-Registration](https://github.com/raindigi/GraphqlType-API-Registration)
+4. 💪 Opened PR [#3515](https://github.com/saurabharch/gatsby/pull/3515) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+5. 💪 Opened PR [#3514](https://github.com/saurabharch/gatsby/pull/3514) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
