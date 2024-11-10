@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3531](https://github.com/saurabharch/gatsby/pull/3531) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-2. 💪 Opened PR [#35](https://github.com/raindigi/erxes-integrations/pull/35) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
-3. 💪 Opened PR [#3530](https://github.com/saurabharch/gatsby/pull/3530) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#3529](https://github.com/saurabharch/gatsby/pull/3529) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-5. 💪 Opened PR [#3528](https://github.com/saurabharch/gatsby/pull/3528) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+1. 💪 Opened PR [#127](https://github.com/raindigi/Ghost/pull/127) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
+2. 💪 Opened PR [#86](https://github.com/saurabharch/snippets/pull/86) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
+3. 💪 Opened PR [#3532](https://github.com/saurabharch/gatsby/pull/3532) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+4. 💪 Opened PR [#3531](https://github.com/saurabharch/gatsby/pull/3531) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+5. 💪 Opened PR [#35](https://github.com/raindigi/erxes-integrations/pull/35) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
 <!--END_SECTION:activity-->
 <br/>
 
