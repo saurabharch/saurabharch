@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#127](https://github.com/raindigi/Ghost/pull/127) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
-2. 💪 Opened PR [#86](https://github.com/saurabharch/snippets/pull/86) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
-3. 💪 Opened PR [#3532](https://github.com/saurabharch/gatsby/pull/3532) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#3531](https://github.com/saurabharch/gatsby/pull/3531) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-5. 💪 Opened PR [#35](https://github.com/raindigi/erxes-integrations/pull/35) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
+1. 💪 Opened PR [#76](https://github.com/saurabharch/web-refinery/pull/76) in [saurabharch/web-refinery](https://github.com/saurabharch/web-refinery)
+2. 💪 Opened PR [#47](https://github.com/saurabharch/avia/pull/47) in [saurabharch/avia](https://github.com/saurabharch/avia)
+3. 💪 Opened PR [#45](https://github.com/raindigi/mailtrain/pull/45) in [raindigi/mailtrain](https://github.com/raindigi/mailtrain)
+4. 💪 Opened PR [#127](https://github.com/raindigi/Ghost/pull/127) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
+5. 💪 Opened PR [#86](https://github.com/saurabharch/snippets/pull/86) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
 <!--END_SECTION:activity-->
 <br/>
 
