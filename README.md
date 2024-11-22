@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#229](https://github.com/saurabharch/cyph/pull/229) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-2. 💪 Opened PR [#73](https://github.com/raindigi/erxes-api/pull/73) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
-3. 💪 Opened PR [#25](https://github.com/saurabharch/ionic3chat/pull/25) in [saurabharch/ionic3chat](https://github.com/saurabharch/ionic3chat)
-4. 💪 Opened PR [#410](https://github.com/raindigi/site-landing/pull/410) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
-5. 💪 Opened PR [#65](https://github.com/saurabharch/graphiql/pull/65) in [saurabharch/graphiql](https://github.com/saurabharch/graphiql)
+1. 💪 Opened PR [#132](https://github.com/raindigi/black-shop/pull/132) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+2. 💪 Opened PR [#51](https://github.com/saurabharch/angular4-mails/pull/51) in [saurabharch/angular4-mails](https://github.com/saurabharch/angular4-mails)
+3. 💪 Opened PR [#229](https://github.com/saurabharch/cyph/pull/229) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
+4. 💪 Opened PR [#73](https://github.com/raindigi/erxes-api/pull/73) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
+5. 💪 Opened PR [#25](https://github.com/saurabharch/ionic3chat/pull/25) in [saurabharch/ionic3chat](https://github.com/saurabharch/ionic3chat)
 <!--END_SECTION:activity-->
 <br/>
 
