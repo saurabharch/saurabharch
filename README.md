@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#411](https://github.com/raindigi/site-landing/pull/411) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
-2. 💪 Opened PR [#132](https://github.com/raindigi/black-shop/pull/132) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
-3. 💪 Opened PR [#51](https://github.com/saurabharch/angular4-mails/pull/51) in [saurabharch/angular4-mails](https://github.com/saurabharch/angular4-mails)
-4. 💪 Opened PR [#229](https://github.com/saurabharch/cyph/pull/229) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-5. 💪 Opened PR [#73](https://github.com/raindigi/erxes-api/pull/73) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
+1. 💪 Opened PR [#230](https://github.com/saurabharch/cyph/pull/230) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
+2. 💪 Opened PR [#411](https://github.com/raindigi/site-landing/pull/411) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
+3. 💪 Opened PR [#132](https://github.com/raindigi/black-shop/pull/132) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+4. 💪 Opened PR [#51](https://github.com/saurabharch/angular4-mails/pull/51) in [saurabharch/angular4-mails](https://github.com/saurabharch/angular4-mails)
+5. 💪 Opened PR [#229](https://github.com/saurabharch/cyph/pull/229) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
 <!--END_SECTION:activity-->
 <br/>
 
