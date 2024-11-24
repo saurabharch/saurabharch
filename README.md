@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51](https://github.com/saurabharch/angular-movies/pull/51) in [saurabharch/angular-movies](https://github.com/saurabharch/angular-movies)
-2. 💪 Opened PR [#175](https://github.com/saurabharch/fireship.io/pull/175) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
-3. 💪 Opened PR [#230](https://github.com/saurabharch/cyph/pull/230) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-4. 💪 Opened PR [#411](https://github.com/raindigi/site-landing/pull/411) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
-5. 💪 Opened PR [#132](https://github.com/raindigi/black-shop/pull/132) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+1. 💪 Opened PR [#30](https://github.com/saurabharch/AngularApp/pull/30) in [saurabharch/AngularApp](https://github.com/saurabharch/AngularApp)
+2. 💪 Opened PR [#51](https://github.com/saurabharch/angular-movies/pull/51) in [saurabharch/angular-movies](https://github.com/saurabharch/angular-movies)
+3. 💪 Opened PR [#175](https://github.com/saurabharch/fireship.io/pull/175) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
+4. 💪 Opened PR [#230](https://github.com/saurabharch/cyph/pull/230) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
+5. 💪 Opened PR [#411](https://github.com/raindigi/site-landing/pull/411) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
 <!--END_SECTION:activity-->
 <br/>
 
