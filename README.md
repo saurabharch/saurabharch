@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#140](https://github.com/saurabharch/dev.to/pull/140) in [saurabharch/dev.to](https://github.com/saurabharch/dev.to)
-2. 💪 Opened PR [#134](https://github.com/raindigi/black-shop/pull/134) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
-3. 💪 Opened PR [#133](https://github.com/raindigi/black-shop/pull/133) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
-4. 💪 Opened PR [#528](https://github.com/saurabharch/react/pull/528) in [saurabharch/react](https://github.com/saurabharch/react)
-5. 💪 Opened PR [#19](https://github.com/saurabharch/datatable-typeahead/pull/19) in [saurabharch/datatable-typeahead](https://github.com/saurabharch/datatable-typeahead)
+1. 💪 Opened PR [#135](https://github.com/raindigi/black-shop/pull/135) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+2. 💪 Opened PR [#140](https://github.com/saurabharch/dev.to/pull/140) in [saurabharch/dev.to](https://github.com/saurabharch/dev.to)
+3. 💪 Opened PR [#134](https://github.com/raindigi/black-shop/pull/134) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+4. 💪 Opened PR [#133](https://github.com/raindigi/black-shop/pull/133) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+5. 💪 Opened PR [#528](https://github.com/saurabharch/react/pull/528) in [saurabharch/react](https://github.com/saurabharch/react)
 <!--END_SECTION:activity-->
 <br/>
 
