@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#520](https://github.com/saurabharch/rollout/pull/520) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
-2. 💪 Opened PR [#231](https://github.com/saurabharch/cyph/pull/231) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-3. 💪 Opened PR [#25](https://github.com/saurabharch/drywall/pull/25) in [saurabharch/drywall](https://github.com/saurabharch/drywall)
-4. 💪 Opened PR [#74](https://github.com/raindigi/erxes-api/pull/74) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
-5. 💪 Opened PR [#86](https://github.com/saurabharch/EBB/pull/86) in [saurabharch/EBB](https://github.com/saurabharch/EBB)
+1. 💪 Opened PR [#52](https://github.com/saurabharch/mean-full-starter/pull/52) in [saurabharch/mean-full-starter](https://github.com/saurabharch/mean-full-starter)
+2. 💪 Opened PR [#520](https://github.com/saurabharch/rollout/pull/520) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
+3. 💪 Opened PR [#231](https://github.com/saurabharch/cyph/pull/231) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
+4. 💪 Opened PR [#25](https://github.com/saurabharch/drywall/pull/25) in [saurabharch/drywall](https://github.com/saurabharch/drywall)
+5. 💪 Opened PR [#74](https://github.com/raindigi/erxes-api/pull/74) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
 <!--END_SECTION:activity-->
 <br/>
 
