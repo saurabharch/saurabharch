@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/raindigi/animinated-date-gif/pull/36) in [raindigi/animinated-date-gif](https://github.com/raindigi/animinated-date-gif)
-2. 💪 Opened PR [#43](https://github.com/raindigi/erxes-widgets-api/pull/43) in [raindigi/erxes-widgets-api](https://github.com/raindigi/erxes-widgets-api)
-3. 💪 Opened PR [#82](https://github.com/saurabharch/fireframe/pull/82) in [saurabharch/fireframe](https://github.com/saurabharch/fireframe)
-4. 💪 Opened PR [#97](https://github.com/raindigi/graphql-server-with-node/pull/97) in [raindigi/graphql-server-with-node](https://github.com/raindigi/graphql-server-with-node)
-5. 💪 Opened PR [#37](https://github.com/raindigi/erxes-integrations/pull/37) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
+1. 💪 Opened PR [#75](https://github.com/saurabharch/yatrum-api/pull/75) in [saurabharch/yatrum-api](https://github.com/saurabharch/yatrum-api)
+2. 💪 Opened PR [#111](https://github.com/saurabharch/linkpreview/pull/111) in [saurabharch/linkpreview](https://github.com/saurabharch/linkpreview)
+3. 💪 Opened PR [#57](https://github.com/saurabharch/meanblog/pull/57) in [saurabharch/meanblog](https://github.com/saurabharch/meanblog)
+4. 💪 Opened PR [#36](https://github.com/raindigi/animinated-date-gif/pull/36) in [raindigi/animinated-date-gif](https://github.com/raindigi/animinated-date-gif)
+5. 💪 Opened PR [#43](https://github.com/raindigi/erxes-widgets-api/pull/43) in [raindigi/erxes-widgets-api](https://github.com/raindigi/erxes-widgets-api)
 <!--END_SECTION:activity-->
 <br/>
 
