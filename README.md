@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/saurabharch/conference-for-good/pull/40) in [saurabharch/conference-for-good](https://github.com/saurabharch/conference-for-good)
-2. 💪 Opened PR [#37](https://github.com/saurabharch/meteor-apollo-starter-kit/pull/37) in [saurabharch/meteor-apollo-starter-kit](https://github.com/saurabharch/meteor-apollo-starter-kit)
-3. 💪 Opened PR [#284](https://github.com/saurabharch/spectrum/pull/284) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
-4. 💪 Opened PR [#13](https://github.com/saurabharch/web-push-service/pull/13) in [saurabharch/web-push-service](https://github.com/saurabharch/web-push-service)
-5. 💪 Opened PR [#54](https://github.com/saurabharch/push-rest/pull/54) in [saurabharch/push-rest](https://github.com/saurabharch/push-rest)
+1. 💪 Opened PR [#18](https://github.com/raindigi/erxes-logger/pull/18) in [raindigi/erxes-logger](https://github.com/raindigi/erxes-logger)
+2. 💪 Opened PR [#40](https://github.com/saurabharch/conference-for-good/pull/40) in [saurabharch/conference-for-good](https://github.com/saurabharch/conference-for-good)
+3. 💪 Opened PR [#37](https://github.com/saurabharch/meteor-apollo-starter-kit/pull/37) in [saurabharch/meteor-apollo-starter-kit](https://github.com/saurabharch/meteor-apollo-starter-kit)
+4. 💪 Opened PR [#284](https://github.com/saurabharch/spectrum/pull/284) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
+5. 💪 Opened PR [#13](https://github.com/saurabharch/web-push-service/pull/13) in [saurabharch/web-push-service](https://github.com/saurabharch/web-push-service)
 <!--END_SECTION:activity-->
 <br/>
 
