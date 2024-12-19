@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#230](https://github.com/saurabharch/wekanhow/pull/230) in [saurabharch/wekanhow](https://github.com/saurabharch/wekanhow)
-2. 💪 Opened PR [#415](https://github.com/raindigi/site-landing/pull/415) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
-3. 💪 Opened PR [#62](https://github.com/saurabharch/FileNation/pull/62) in [saurabharch/FileNation](https://github.com/saurabharch/FileNation)
-4. 💪 Opened PR [#100](https://github.com/saurabharch/create-react-app/pull/100) in [saurabharch/create-react-app](https://github.com/saurabharch/create-react-app)
-5. 💪 Opened PR [#181](https://github.com/raindigi/site-preview/pull/181) in [raindigi/site-preview](https://github.com/raindigi/site-preview)
+1. 💪 Opened PR [#94](https://github.com/raindigi/medium-blog-kafka-udemy/pull/94) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+2. 💪 Opened PR [#230](https://github.com/saurabharch/wekanhow/pull/230) in [saurabharch/wekanhow](https://github.com/saurabharch/wekanhow)
+3. 💪 Opened PR [#415](https://github.com/raindigi/site-landing/pull/415) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
+4. 💪 Opened PR [#62](https://github.com/saurabharch/FileNation/pull/62) in [saurabharch/FileNation](https://github.com/saurabharch/FileNation)
+5. 💪 Opened PR [#100](https://github.com/saurabharch/create-react-app/pull/100) in [saurabharch/create-react-app](https://github.com/saurabharch/create-react-app)
 <!--END_SECTION:activity-->
 <br/>
 
