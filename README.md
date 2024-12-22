@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#95](https://github.com/raindigi/medium-blog-kafka-udemy/pull/95) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
-2. 💪 Opened PR [#49](https://github.com/raindigi/pizzaql/pull/49) in [raindigi/pizzaql](https://github.com/raindigi/pizzaql)
-3. 💪 Opened PR [#50](https://github.com/saurabharch/react-ecommerce/pull/50) in [saurabharch/react-ecommerce](https://github.com/saurabharch/react-ecommerce)
-4. 💪 Opened PR [#53](https://github.com/saurabharch/angular4-mails/pull/53) in [saurabharch/angular4-mails](https://github.com/saurabharch/angular4-mails)
-5. 💪 Opened PR [#95](https://github.com/saurabharch/headless-wp-starter/pull/95) in [saurabharch/headless-wp-starter](https://github.com/saurabharch/headless-wp-starter)
+1. 💪 Opened PR [#96](https://github.com/raindigi/medium-blog-kafka-udemy/pull/96) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+2. 💪 Opened PR [#95](https://github.com/raindigi/medium-blog-kafka-udemy/pull/95) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+3. 💪 Opened PR [#49](https://github.com/raindigi/pizzaql/pull/49) in [raindigi/pizzaql](https://github.com/raindigi/pizzaql)
+4. 💪 Opened PR [#50](https://github.com/saurabharch/react-ecommerce/pull/50) in [saurabharch/react-ecommerce](https://github.com/saurabharch/react-ecommerce)
+5. 💪 Opened PR [#53](https://github.com/saurabharch/angular4-mails/pull/53) in [saurabharch/angular4-mails](https://github.com/saurabharch/angular4-mails)
 <!--END_SECTION:activity-->
 <br/>
 
