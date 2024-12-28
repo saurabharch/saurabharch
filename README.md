@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#122](https://github.com/saurabharch/docs-tools/pull/122) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
-2. 💪 Opened PR [#523](https://github.com/saurabharch/rollout/pull/523) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
-3. 💪 Opened PR [#129](https://github.com/raindigi/Ghost/pull/129) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
-4. 💪 Opened PR [#416](https://github.com/raindigi/site-landing/pull/416) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
-5. 💪 Opened PR [#96](https://github.com/raindigi/medium-blog-kafka-udemy/pull/96) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+1. 💪 Opened PR [#120](https://github.com/saurabharch/odoo/pull/120) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
+2. 💪 Opened PR [#122](https://github.com/saurabharch/docs-tools/pull/122) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
+3. 💪 Opened PR [#523](https://github.com/saurabharch/rollout/pull/523) in [saurabharch/rollout](https://github.com/saurabharch/rollout)
+4. 💪 Opened PR [#129](https://github.com/raindigi/Ghost/pull/129) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
+5. 💪 Opened PR [#416](https://github.com/raindigi/site-landing/pull/416) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
 <!--END_SECTION:activity-->
 <br/>
 
