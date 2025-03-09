@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3675](https://github.com/saurabharch/gatsby/pull/3675) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-2. 💪 Opened PR [#3674](https://github.com/saurabharch/gatsby/pull/3674) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-3. 💪 Opened PR [#59](https://github.com/saurabharch/typeorm/pull/59) in [saurabharch/typeorm](https://github.com/saurabharch/typeorm)
-4. 💪 Opened PR [#117](https://github.com/saurabharch/kentcdodds.com/pull/117) in [saurabharch/kentcdodds.com](https://github.com/saurabharch/kentcdodds.com)
-5. 💪 Opened PR [#3673](https://github.com/saurabharch/gatsby/pull/3673) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+1. 💪 Opened PR [#199](https://github.com/raindigi/GraphqlType-API-Registration/pull/199) in [raindigi/GraphqlType-API-Registration](https://github.com/raindigi/GraphqlType-API-Registration)
+2. 💪 Opened PR [#3675](https://github.com/saurabharch/gatsby/pull/3675) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+3. 💪 Opened PR [#3674](https://github.com/saurabharch/gatsby/pull/3674) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+4. 💪 Opened PR [#59](https://github.com/saurabharch/typeorm/pull/59) in [saurabharch/typeorm](https://github.com/saurabharch/typeorm)
+5. 💪 Opened PR [#117](https://github.com/saurabharch/kentcdodds.com/pull/117) in [saurabharch/kentcdodds.com](https://github.com/saurabharch/kentcdodds.com)
 <!--END_SECTION:activity-->
 <br/>
 
