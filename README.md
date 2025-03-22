@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#91](https://github.com/saurabharch/gatsby-wp/pull/91) in [saurabharch/gatsby-wp](https://github.com/saurabharch/gatsby-wp)
-2. 💪 Opened PR [#86](https://github.com/saurabharch/gatsby-starter-restro/pull/86) in [saurabharch/gatsby-starter-restro](https://github.com/saurabharch/gatsby-starter-restro)
-3. 💪 Opened PR [#74](https://github.com/saurabharch/graphiql/pull/74) in [saurabharch/graphiql](https://github.com/saurabharch/graphiql)
-4. 💪 Opened PR [#183](https://github.com/saurabharch/fireship.io/pull/183) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
-5. 💪 Opened PR [#79](https://github.com/saurabharch/yatrum-api/pull/79) in [saurabharch/yatrum-api](https://github.com/saurabharch/yatrum-api)
+1. 💪 Opened PR [#85](https://github.com/saurabharch/nicky-blog/pull/85) in [saurabharch/nicky-blog](https://github.com/saurabharch/nicky-blog)
+2. 💪 Opened PR [#91](https://github.com/saurabharch/gatsby-wp/pull/91) in [saurabharch/gatsby-wp](https://github.com/saurabharch/gatsby-wp)
+3. 💪 Opened PR [#86](https://github.com/saurabharch/gatsby-starter-restro/pull/86) in [saurabharch/gatsby-starter-restro](https://github.com/saurabharch/gatsby-starter-restro)
+4. 💪 Opened PR [#74](https://github.com/saurabharch/graphiql/pull/74) in [saurabharch/graphiql](https://github.com/saurabharch/graphiql)
+5. 💪 Opened PR [#183](https://github.com/saurabharch/fireship.io/pull/183) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
 <!--END_SECTION:activity-->
 <br/>
 
