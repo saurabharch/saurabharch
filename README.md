@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3798](https://github.com/saurabharch/gatsby/pull/3798) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-2. 💪 Opened PR [#97](https://github.com/saurabharch/taniarascia.com/pull/97) in [saurabharch/taniarascia.com](https://github.com/saurabharch/taniarascia.com)
-3. 💪 Opened PR [#3797](https://github.com/saurabharch/gatsby/pull/3797) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#118](https://github.com/raindigi/Learn-Node/pull/118) in [raindigi/Learn-Node](https://github.com/raindigi/Learn-Node)
-5. 💪 Opened PR [#3796](https://github.com/saurabharch/gatsby/pull/3796) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+1. 💪 Opened PR [#60](https://github.com/saurabharch/typeorm/pull/60) in [saurabharch/typeorm](https://github.com/saurabharch/typeorm)
+2. 💪 Opened PR [#120](https://github.com/saurabharch/kentcdodds.com/pull/120) in [saurabharch/kentcdodds.com](https://github.com/saurabharch/kentcdodds.com)
+3. 💪 Opened PR [#3798](https://github.com/saurabharch/gatsby/pull/3798) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+4. 💪 Opened PR [#97](https://github.com/saurabharch/taniarascia.com/pull/97) in [saurabharch/taniarascia.com](https://github.com/saurabharch/taniarascia.com)
+5. 💪 Opened PR [#3797](https://github.com/saurabharch/gatsby/pull/3797) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
