@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#540](https://github.com/saurabharch/react/pull/540) in [saurabharch/react](https://github.com/saurabharch/react)
-2. 💪 Opened PR [#94](https://github.com/raindigi/jamcommerce/pull/94) in [raindigi/jamcommerce](https://github.com/raindigi/jamcommerce)
-3. 💪 Opened PR [#130](https://github.com/raindigi/Ghost/pull/130) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
-4. 💪 Opened PR [#187](https://github.com/saurabharch/howtographql/pull/187) in [saurabharch/howtographql](https://github.com/saurabharch/howtographql)
-5. 💪 Opened PR [#35](https://github.com/saurabharch/WBOT/pull/35) in [saurabharch/WBOT](https://github.com/saurabharch/WBOT)
+1. 💪 Opened PR [#422](https://github.com/raindigi/site-landing/pull/422) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
+2. 💪 Opened PR [#540](https://github.com/saurabharch/react/pull/540) in [saurabharch/react](https://github.com/saurabharch/react)
+3. 💪 Opened PR [#94](https://github.com/raindigi/jamcommerce/pull/94) in [raindigi/jamcommerce](https://github.com/raindigi/jamcommerce)
+4. 💪 Opened PR [#130](https://github.com/raindigi/Ghost/pull/130) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
+5. 💪 Opened PR [#187](https://github.com/saurabharch/howtographql/pull/187) in [saurabharch/howtographql](https://github.com/saurabharch/howtographql)
 <!--END_SECTION:activity-->
 <br/>
 
