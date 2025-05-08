@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#82](https://github.com/saurabharch/HireDot2/pull/82) in [saurabharch/HireDot2](https://github.com/saurabharch/HireDot2)
-2. 💪 Opened PR [#119](https://github.com/saurabharch/linkpreview/pull/119) in [saurabharch/linkpreview](https://github.com/saurabharch/linkpreview)
-3. 💪 Opened PR [#268](https://github.com/raindigi/Advanced-React/pull/268) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
-4. 💪 Opened PR [#88](https://github.com/saurabharch/ImVue/pull/88) in [saurabharch/ImVue](https://github.com/saurabharch/ImVue)
-5. 💪 Opened PR [#292](https://github.com/saurabharch/spectrum/pull/292) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
+1. ❌ Closed PR [#1](https://github.com/vivekbharatha/vbank/pull/1) in [vivekbharatha/vbank](https://github.com/vivekbharatha/vbank)
+2. 💪 Opened PR [#82](https://github.com/saurabharch/HireDot2/pull/82) in [saurabharch/HireDot2](https://github.com/saurabharch/HireDot2)
+3. 💪 Opened PR [#119](https://github.com/saurabharch/linkpreview/pull/119) in [saurabharch/linkpreview](https://github.com/saurabharch/linkpreview)
+4. 💪 Opened PR [#268](https://github.com/raindigi/Advanced-React/pull/268) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
+5. 💪 Opened PR [#88](https://github.com/saurabharch/ImVue/pull/88) in [saurabharch/ImVue](https://github.com/saurabharch/ImVue)
 <!--END_SECTION:activity-->
 <br/>
 
