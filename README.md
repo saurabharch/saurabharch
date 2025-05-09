@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](https://github.com/saurabharch/graphiql/pull/75) in [saurabharch/graphiql](https://github.com/saurabharch/graphiql)
-2. 💪 Opened PR [#269](https://github.com/raindigi/Advanced-React/pull/269) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
-3. 💪 Opened PR [#75](https://github.com/raindigi/ChainReactApp2019/pull/75) in [raindigi/ChainReactApp2019](https://github.com/raindigi/ChainReactApp2019)
-4. ❌ Closed PR [#1](https://github.com/vivekbharatha/vbank/pull/1) in [vivekbharatha/vbank](https://github.com/vivekbharatha/vbank)
-5. 💪 Opened PR [#82](https://github.com/saurabharch/HireDot2/pull/82) in [saurabharch/HireDot2](https://github.com/saurabharch/HireDot2)
+1. 💪 Opened PR [#50](https://github.com/raindigi/pizzaql/pull/50) in [raindigi/pizzaql](https://github.com/raindigi/pizzaql)
+2. 💪 Opened PR [#75](https://github.com/saurabharch/graphiql/pull/75) in [saurabharch/graphiql](https://github.com/saurabharch/graphiql)
+3. 💪 Opened PR [#269](https://github.com/raindigi/Advanced-React/pull/269) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
+4. 💪 Opened PR [#75](https://github.com/raindigi/ChainReactApp2019/pull/75) in [raindigi/ChainReactApp2019](https://github.com/raindigi/ChainReactApp2019)
+5. ❌ Closed PR [#1](https://github.com/vivekbharatha/vbank/pull/1) in [vivekbharatha/vbank](https://github.com/vivekbharatha/vbank)
 <!--END_SECTION:activity-->
 <br/>
 
