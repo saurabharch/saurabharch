@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#293](https://github.com/saurabharch/spectrum/pull/293) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
-2. 💪 Opened PR [#93](https://github.com/saurabharch/gatsby-wp/pull/93) in [saurabharch/gatsby-wp](https://github.com/saurabharch/gatsby-wp)
-3. 💪 Opened PR [#87](https://github.com/saurabharch/nicky-blog/pull/87) in [saurabharch/nicky-blog](https://github.com/saurabharch/nicky-blog)
-4. 💪 Opened PR [#67](https://github.com/saurabharch/spectacle/pull/67) in [saurabharch/spectacle](https://github.com/saurabharch/spectacle)
-5. 💪 Opened PR [#88](https://github.com/saurabharch/gatsby-starter-restro/pull/88) in [saurabharch/gatsby-starter-restro](https://github.com/saurabharch/gatsby-starter-restro)
+1. 💪 Opened PR [#39](https://github.com/saurabharch/meteor-apollo-starter-kit/pull/39) in [saurabharch/meteor-apollo-starter-kit](https://github.com/saurabharch/meteor-apollo-starter-kit)
+2. 💪 Opened PR [#293](https://github.com/saurabharch/spectrum/pull/293) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
+3. 💪 Opened PR [#93](https://github.com/saurabharch/gatsby-wp/pull/93) in [saurabharch/gatsby-wp](https://github.com/saurabharch/gatsby-wp)
+4. 💪 Opened PR [#87](https://github.com/saurabharch/nicky-blog/pull/87) in [saurabharch/nicky-blog](https://github.com/saurabharch/nicky-blog)
+5. 💪 Opened PR [#67](https://github.com/saurabharch/spectacle/pull/67) in [saurabharch/spectacle](https://github.com/saurabharch/spectacle)
 <!--END_SECTION:activity-->
 <br/>
 
