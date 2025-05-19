@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#248](https://github.com/saurabharch/cyph/pull/248) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-2. 💪 Opened PR [#78](https://github.com/saurabharch/web-refinery/pull/78) in [saurabharch/web-refinery](https://github.com/saurabharch/web-refinery)
-3. 💪 Opened PR [#89](https://github.com/saurabharch/EBB/pull/89) in [saurabharch/EBB](https://github.com/saurabharch/EBB)
-4. 💪 Opened PR [#85](https://github.com/saurabharch/fireframe/pull/85) in [saurabharch/fireframe](https://github.com/saurabharch/fireframe)
-5. 💪 Opened PR [#73](https://github.com/saurabharch/mail-for-good/pull/73) in [saurabharch/mail-for-good](https://github.com/saurabharch/mail-for-good)
+1. ❌ Closed PR [#1](https://github.com/saurabharch/payug/pull/1) in [saurabharch/payug](https://github.com/saurabharch/payug)
+2. 💪 Opened PR [#248](https://github.com/saurabharch/cyph/pull/248) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
+3. 💪 Opened PR [#78](https://github.com/saurabharch/web-refinery/pull/78) in [saurabharch/web-refinery](https://github.com/saurabharch/web-refinery)
+4. 💪 Opened PR [#89](https://github.com/saurabharch/EBB/pull/89) in [saurabharch/EBB](https://github.com/saurabharch/EBB)
+5. 💪 Opened PR [#85](https://github.com/saurabharch/fireframe/pull/85) in [saurabharch/fireframe](https://github.com/saurabharch/fireframe)
 <!--END_SECTION:activity-->
 <br/>
 
