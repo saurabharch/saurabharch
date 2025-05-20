@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#99](https://github.com/saurabharch/CodeGenius/pull/99) in [saurabharch/CodeGenius](https://github.com/saurabharch/CodeGenius)
-2. 💪 Opened PR [#54](https://github.com/saurabharch/mean-full-starter/pull/54) in [saurabharch/mean-full-starter](https://github.com/saurabharch/mean-full-starter)
-3. 💪 Opened PR [#84](https://github.com/saurabharch/reelcool/pull/84) in [saurabharch/reelcool](https://github.com/saurabharch/reelcool)
-4. 💪 Opened PR [#88](https://github.com/saurabharch/byodb/pull/88) in [saurabharch/byodb](https://github.com/saurabharch/byodb)
-5. 💪 Opened PR [#131](https://github.com/raindigi/Ghost/pull/131) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
+1. 🎉 Merged PR [#4](https://github.com/saurabharch/payug/pull/4) in [saurabharch/payug](https://github.com/saurabharch/payug)
+2. 💪 Opened PR [#4](https://github.com/saurabharch/payug/pull/4) in [saurabharch/payug](https://github.com/saurabharch/payug)
+3. 🎉 Merged PR [#3](https://github.com/saurabharch/payug/pull/3) in [saurabharch/payug](https://github.com/saurabharch/payug)
+4. 💪 Opened PR [#99](https://github.com/saurabharch/CodeGenius/pull/99) in [saurabharch/CodeGenius](https://github.com/saurabharch/CodeGenius)
+5. 💪 Opened PR [#54](https://github.com/saurabharch/mean-full-starter/pull/54) in [saurabharch/mean-full-starter](https://github.com/saurabharch/mean-full-starter)
 <!--END_SECTION:activity-->
 <br/>
 
