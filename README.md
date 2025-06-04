@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#273](https://github.com/saurabharch/summit-workshop/pull/273) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
-2. 💪 Opened PR [#272](https://github.com/saurabharch/summit-workshop/pull/272) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
-3. 💪 Opened PR [#36](https://github.com/saurabharch/WBOT/pull/36) in [saurabharch/WBOT](https://github.com/saurabharch/WBOT)
-4. 💪 Opened PR [#271](https://github.com/saurabharch/summit-workshop/pull/271) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
-5. 💪 Opened PR [#270](https://github.com/saurabharch/summit-workshop/pull/270) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
+1. 💪 Opened PR [#237](https://github.com/saurabharch/wekanhow/pull/237) in [saurabharch/wekanhow](https://github.com/saurabharch/wekanhow)
+2. 💪 Opened PR [#96](https://github.com/raindigi/jamcommerce/pull/96) in [raindigi/jamcommerce](https://github.com/raindigi/jamcommerce)
+3. 💪 Opened PR [#273](https://github.com/saurabharch/summit-workshop/pull/273) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
+4. 💪 Opened PR [#272](https://github.com/saurabharch/summit-workshop/pull/272) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
+5. 💪 Opened PR [#36](https://github.com/saurabharch/WBOT/pull/36) in [saurabharch/WBOT](https://github.com/saurabharch/WBOT)
 <!--END_SECTION:activity-->
 <br/>
 
