@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#107](https://github.com/saurabharch/fastyper/pull/107) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
-2. 💪 Opened PR [#48](https://github.com/saurabharch/avia/pull/48) in [saurabharch/avia](https://github.com/saurabharch/avia)
-3. 💪 Opened PR [#543](https://github.com/saurabharch/react/pull/543) in [saurabharch/react](https://github.com/saurabharch/react)
-4. 💪 Opened PR [#126](https://github.com/saurabharch/docs-tools/pull/126) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
-5. 💪 Opened PR [#79](https://github.com/saurabharch/fileapp-reactjs/pull/79) in [saurabharch/fileapp-reactjs](https://github.com/saurabharch/fileapp-reactjs)
+1. 💪 Opened PR [#274](https://github.com/raindigi/Advanced-React/pull/274) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
+2. 💪 Opened PR [#150](https://github.com/saurabharch/dev.to/pull/150) in [saurabharch/dev.to](https://github.com/saurabharch/dev.to)
+3. 💪 Opened PR [#53](https://github.com/saurabharch/web/pull/53) in [saurabharch/web](https://github.com/saurabharch/web)
+4. 💪 Opened PR [#55](https://github.com/saurabharch/react-ecommerce/pull/55) in [saurabharch/react-ecommerce](https://github.com/saurabharch/react-ecommerce)
+5. 💪 Opened PR [#107](https://github.com/saurabharch/fastyper/pull/107) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
 <!--END_SECTION:activity-->
 <br/>
 
