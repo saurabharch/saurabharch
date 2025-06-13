@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#274](https://github.com/raindigi/Advanced-React/pull/274) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
-2. 💪 Opened PR [#150](https://github.com/saurabharch/dev.to/pull/150) in [saurabharch/dev.to](https://github.com/saurabharch/dev.to)
-3. 💪 Opened PR [#53](https://github.com/saurabharch/web/pull/53) in [saurabharch/web](https://github.com/saurabharch/web)
-4. 💪 Opened PR [#55](https://github.com/saurabharch/react-ecommerce/pull/55) in [saurabharch/react-ecommerce](https://github.com/saurabharch/react-ecommerce)
-5. 💪 Opened PR [#107](https://github.com/saurabharch/fastyper/pull/107) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
+1. 💪 Opened PR [#115](https://github.com/saurabharch/pomodoro-gatsby/pull/115) in [saurabharch/pomodoro-gatsby](https://github.com/saurabharch/pomodoro-gatsby)
+2. 💪 Opened PR [#76](https://github.com/raindigi/ChainReactApp2019/pull/76) in [raindigi/ChainReactApp2019](https://github.com/raindigi/ChainReactApp2019)
+3. 💪 Opened PR [#274](https://github.com/raindigi/Advanced-React/pull/274) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
+4. 💪 Opened PR [#150](https://github.com/saurabharch/dev.to/pull/150) in [saurabharch/dev.to](https://github.com/saurabharch/dev.to)
+5. 💪 Opened PR [#53](https://github.com/saurabharch/web/pull/53) in [saurabharch/web](https://github.com/saurabharch/web)
 <!--END_SECTION:activity-->
 <br/>
 
