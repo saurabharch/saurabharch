@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#126](https://github.com/saurabharch/docs-tools/pull/126) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
-2. 💪 Opened PR [#79](https://github.com/saurabharch/fileapp-reactjs/pull/79) in [saurabharch/fileapp-reactjs](https://github.com/saurabharch/fileapp-reactjs)
-3. 💪 Opened PR [#78](https://github.com/saurabharch/graphiql/pull/78) in [saurabharch/graphiql](https://github.com/saurabharch/graphiql)
-4. 💪 Opened PR [#97](https://github.com/raindigi/medium-blog-kafka-udemy/pull/97) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
-5. 💪 Opened PR [#186](https://github.com/saurabharch/Story/pull/186) in [saurabharch/Story](https://github.com/saurabharch/Story)
+1. 💪 Opened PR [#107](https://github.com/saurabharch/fastyper/pull/107) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
+2. 💪 Opened PR [#48](https://github.com/saurabharch/avia/pull/48) in [saurabharch/avia](https://github.com/saurabharch/avia)
+3. 💪 Opened PR [#543](https://github.com/saurabharch/react/pull/543) in [saurabharch/react](https://github.com/saurabharch/react)
+4. 💪 Opened PR [#126](https://github.com/saurabharch/docs-tools/pull/126) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
+5. 💪 Opened PR [#79](https://github.com/saurabharch/fileapp-reactjs/pull/79) in [saurabharch/fileapp-reactjs](https://github.com/saurabharch/fileapp-reactjs)
 <!--END_SECTION:activity-->
 <br/>
 
