@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#99](https://github.com/saurabharch/gatsby-starter-kitchen-sink/pull/99) in [saurabharch/gatsby-starter-kitchen-sink](https://github.com/saurabharch/gatsby-starter-kitchen-sink)
-2. 💪 Opened PR [#123](https://github.com/saurabharch/odoo/pull/123) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
-3. 💪 Opened PR [#149](https://github.com/raindigi/Merchello/pull/149) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
-4. 💪 Opened PR [#138](https://github.com/raindigi/black-shop/pull/138) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
-5. 💪 Opened PR [#294](https://github.com/saurabharch/spectrum/pull/294) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
+1. 💪 Opened PR [#80](https://github.com/saurabharch/lengstorf.com/pull/80) in [saurabharch/lengstorf.com](https://github.com/saurabharch/lengstorf.com)
+2. 💪 Opened PR [#99](https://github.com/saurabharch/gatsby-starter-kitchen-sink/pull/99) in [saurabharch/gatsby-starter-kitchen-sink](https://github.com/saurabharch/gatsby-starter-kitchen-sink)
+3. 💪 Opened PR [#123](https://github.com/saurabharch/odoo/pull/123) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
+4. 💪 Opened PR [#149](https://github.com/raindigi/Merchello/pull/149) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
+5. 💪 Opened PR [#138](https://github.com/raindigi/black-shop/pull/138) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
 <!--END_SECTION:activity-->
 <br/>
 
