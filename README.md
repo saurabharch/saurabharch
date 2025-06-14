@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#88](https://github.com/saurabharch/nicky-blog/pull/88) in [saurabharch/nicky-blog](https://github.com/saurabharch/nicky-blog)
-2. 💪 Opened PR [#127](https://github.com/saurabharch/docs-tools/pull/127) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
-3. 💪 Opened PR [#68](https://github.com/saurabharch/spectacle/pull/68) in [saurabharch/spectacle](https://github.com/saurabharch/spectacle)
-4. 💪 Opened PR [#75](https://github.com/saurabharch/react-phone-e-commerce-project/pull/75) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
-5. 💪 Opened PR [#41](https://github.com/raindigi/erxes-integrations/pull/41) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
+1. 💪 Opened PR [#99](https://github.com/saurabharch/gatsby-starter-kitchen-sink/pull/99) in [saurabharch/gatsby-starter-kitchen-sink](https://github.com/saurabharch/gatsby-starter-kitchen-sink)
+2. 💪 Opened PR [#123](https://github.com/saurabharch/odoo/pull/123) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
+3. 💪 Opened PR [#149](https://github.com/raindigi/Merchello/pull/149) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
+4. 💪 Opened PR [#138](https://github.com/raindigi/black-shop/pull/138) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+5. 💪 Opened PR [#294](https://github.com/saurabharch/spectrum/pull/294) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
 <!--END_SECTION:activity-->
 <br/>
 
