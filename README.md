@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#52](https://github.com/saurabharch/angular-movies/pull/52) in [saurabharch/angular-movies](https://github.com/saurabharch/angular-movies)
-2. 💪 Opened PR [#151](https://github.com/saurabharch/dev.to/pull/151) in [saurabharch/dev.to](https://github.com/saurabharch/dev.to)
-3. 💪 Opened PR [#546](https://github.com/saurabharch/react/pull/546) in [saurabharch/react](https://github.com/saurabharch/react)
-4. 💪 Opened PR [#87](https://github.com/saurabharch/v4/pull/87) in [saurabharch/v4](https://github.com/saurabharch/v4)
-5. 💪 Opened PR [#47](https://github.com/saurabharch/AdvMasterDetails/pull/47) in [saurabharch/AdvMasterDetails](https://github.com/saurabharch/AdvMasterDetails)
+1. 💪 Opened PR [#37](https://github.com/raindigi/animinated-date-gif/pull/37) in [raindigi/animinated-date-gif](https://github.com/raindigi/animinated-date-gif)
+2. 💪 Opened PR [#52](https://github.com/saurabharch/angular-movies/pull/52) in [saurabharch/angular-movies](https://github.com/saurabharch/angular-movies)
+3. 💪 Opened PR [#151](https://github.com/saurabharch/dev.to/pull/151) in [saurabharch/dev.to](https://github.com/saurabharch/dev.to)
+4. 💪 Opened PR [#546](https://github.com/saurabharch/react/pull/546) in [saurabharch/react](https://github.com/saurabharch/react)
+5. 💪 Opened PR [#87](https://github.com/saurabharch/v4/pull/87) in [saurabharch/v4](https://github.com/saurabharch/v4)
 <!--END_SECTION:activity-->
 <br/>
 
