@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/raindigi/erxes-integrations/pull/42) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
-2. 💪 Opened PR [#4](https://github.com/raindigi/documentation/pull/4) in [raindigi/documentation](https://github.com/raindigi/documentation)
-3. 💪 Opened PR [#76](https://github.com/saurabharch/react-phone-e-commerce-project/pull/76) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
-4. 💪 Opened PR [#121](https://github.com/raindigi/Learn-Node/pull/121) in [raindigi/Learn-Node](https://github.com/raindigi/Learn-Node)
-5. 💪 Opened PR [#124](https://github.com/saurabharch/odoo/pull/124) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
+1. 💪 Opened PR [#45](https://github.com/saurabharch/huddo121.github.io/pull/45) in [saurabharch/huddo121.github.io](https://github.com/saurabharch/huddo121.github.io)
+2. 💪 Opened PR [#86](https://github.com/saurabharch/fireframe/pull/86) in [saurabharch/fireframe](https://github.com/saurabharch/fireframe)
+3. 💪 Opened PR [#42](https://github.com/raindigi/erxes-integrations/pull/42) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
+4. 💪 Opened PR [#4](https://github.com/raindigi/documentation/pull/4) in [raindigi/documentation](https://github.com/raindigi/documentation)
+5. 💪 Opened PR [#76](https://github.com/saurabharch/react-phone-e-commerce-project/pull/76) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
 <!--END_SECTION:activity-->
 <br/>
 
