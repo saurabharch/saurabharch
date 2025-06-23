@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#277](https://github.com/raindigi/Advanced-React/pull/277) in [raindigi/Advanced-React](https://github.com/raindigi/Advanced-React)
-2. 💪 Opened PR [#101](https://github.com/saurabharch/taniarascia.com/pull/101) in [saurabharch/taniarascia.com](https://github.com/saurabharch/taniarascia.com)
-3. 💪 Opened PR [#3922](https://github.com/saurabharch/gatsby/pull/3922) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#89](https://github.com/saurabharch/autopush/pull/89) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
-5. 💪 Opened PR [#33](https://github.com/saurabharch/tesseract.js/pull/33) in [saurabharch/tesseract.js](https://github.com/saurabharch/tesseract.js)
+1. 💪 Opened PR [#185](https://github.com/raindigi/cloudcannon-suite/pull/185) in [raindigi/cloudcannon-suite](https://github.com/raindigi/cloudcannon-suite)
+2. 💪 Opened PR [#552](https://github.com/saurabharch/react/pull/552) in [saurabharch/react](https://github.com/saurabharch/react)
+3. 💪 Opened PR [#3924](https://github.com/saurabharch/gatsby/pull/3924) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+4. 💪 Opened PR [#152](https://github.com/saurabharch/dev.to/pull/152) in [saurabharch/dev.to](https://github.com/saurabharch/dev.to)
+5. 💪 Opened PR [#3923](https://github.com/saurabharch/gatsby/pull/3923) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
