@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#140](https://github.com/raindigi/black-shop/pull/140) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
-2. 💪 Opened PR [#3965](https://github.com/saurabharch/gatsby/pull/3965) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-3. 💪 Opened PR [#3964](https://github.com/saurabharch/gatsby/pull/3964) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#3963](https://github.com/saurabharch/gatsby/pull/3963) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-5. 💪 Opened PR [#3962](https://github.com/saurabharch/gatsby/pull/3962) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+1. 💪 Opened PR [#51](https://github.com/saurabharch/AdvMasterDetails/pull/51) in [saurabharch/AdvMasterDetails](https://github.com/saurabharch/AdvMasterDetails)
+2. 💪 Opened PR [#88](https://github.com/saurabharch/snippets/pull/88) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
+3. 💪 Opened PR [#3966](https://github.com/saurabharch/gatsby/pull/3966) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+4. 💪 Opened PR [#140](https://github.com/raindigi/black-shop/pull/140) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+5. 💪 Opened PR [#3965](https://github.com/saurabharch/gatsby/pull/3965) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
