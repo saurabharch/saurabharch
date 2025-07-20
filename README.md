@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#48](https://github.com/raindigi/mailtrain/pull/48) in [raindigi/mailtrain](https://github.com/raindigi/mailtrain)
-2. 💪 Opened PR [#22](https://github.com/saurabharch/drawio/pull/22) in [saurabharch/drawio](https://github.com/saurabharch/drawio)
-3. 💪 Opened PR [#53](https://github.com/saurabharch/simple-sso/pull/53) in [saurabharch/simple-sso](https://github.com/saurabharch/simple-sso)
-4. 💪 Opened PR [#297](https://github.com/saurabharch/spectrum/pull/297) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
-5. 💪 Opened PR [#123](https://github.com/raindigi/Learn-Node/pull/123) in [raindigi/Learn-Node](https://github.com/raindigi/Learn-Node)
+1. 💪 Opened PR [#276](https://github.com/saurabharch/summit-workshop/pull/276) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
+2. 💪 Opened PR [#15](https://github.com/saurabharch/smog/pull/15) in [saurabharch/smog](https://github.com/saurabharch/smog)
+3. 💪 Opened PR [#48](https://github.com/raindigi/mailtrain/pull/48) in [raindigi/mailtrain](https://github.com/raindigi/mailtrain)
+4. 💪 Opened PR [#22](https://github.com/saurabharch/drawio/pull/22) in [saurabharch/drawio](https://github.com/saurabharch/drawio)
+5. 💪 Opened PR [#53](https://github.com/saurabharch/simple-sso/pull/53) in [saurabharch/simple-sso](https://github.com/saurabharch/simple-sso)
 <!--END_SECTION:activity-->
 <br/>
 
