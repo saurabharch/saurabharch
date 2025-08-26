@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#573](https://github.com/saurabharch/react/pull/573) in [saurabharch/react](https://github.com/saurabharch/react)
-2. 💪 Opened PR [#102](https://github.com/saurabharch/CodeGenius/pull/102) in [saurabharch/CodeGenius](https://github.com/saurabharch/CodeGenius)
-3. 💪 Opened PR [#82](https://github.com/raindigi/erxes-api/pull/82) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
-4. 💪 Opened PR [#189](https://github.com/raindigi/site-preview/pull/189) in [raindigi/site-preview](https://github.com/raindigi/site-preview)
-5. 💪 Opened PR [#75](https://github.com/saurabharch/fullstack/pull/75) in [saurabharch/fullstack](https://github.com/saurabharch/fullstack)
+1. 💪 Opened PR [#194](https://github.com/saurabharch/howtographql/pull/194) in [saurabharch/howtographql](https://github.com/saurabharch/howtographql)
+2. 💪 Opened PR [#109](https://github.com/saurabharch/FyndX/pull/109) in [saurabharch/FyndX](https://github.com/saurabharch/FyndX)
+3. 💪 Opened PR [#573](https://github.com/saurabharch/react/pull/573) in [saurabharch/react](https://github.com/saurabharch/react)
+4. 💪 Opened PR [#102](https://github.com/saurabharch/CodeGenius/pull/102) in [saurabharch/CodeGenius](https://github.com/saurabharch/CodeGenius)
+5. 💪 Opened PR [#82](https://github.com/raindigi/erxes-api/pull/82) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
 <!--END_SECTION:activity-->
 <br/>
 
