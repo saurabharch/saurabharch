@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#258](https://github.com/saurabharch/cyph/pull/258) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-2. 💪 Opened PR [#194](https://github.com/saurabharch/howtographql/pull/194) in [saurabharch/howtographql](https://github.com/saurabharch/howtographql)
-3. 💪 Opened PR [#109](https://github.com/saurabharch/FyndX/pull/109) in [saurabharch/FyndX](https://github.com/saurabharch/FyndX)
-4. 💪 Opened PR [#573](https://github.com/saurabharch/react/pull/573) in [saurabharch/react](https://github.com/saurabharch/react)
-5. 💪 Opened PR [#102](https://github.com/saurabharch/CodeGenius/pull/102) in [saurabharch/CodeGenius](https://github.com/saurabharch/CodeGenius)
+1. 💪 Opened PR [#100](https://github.com/raindigi/jamcommerce/pull/100) in [raindigi/jamcommerce](https://github.com/raindigi/jamcommerce)
+2. 💪 Opened PR [#258](https://github.com/saurabharch/cyph/pull/258) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
+3. 💪 Opened PR [#194](https://github.com/saurabharch/howtographql/pull/194) in [saurabharch/howtographql](https://github.com/saurabharch/howtographql)
+4. 💪 Opened PR [#109](https://github.com/saurabharch/FyndX/pull/109) in [saurabharch/FyndX](https://github.com/saurabharch/FyndX)
+5. 💪 Opened PR [#573](https://github.com/saurabharch/react/pull/573) in [saurabharch/react](https://github.com/saurabharch/react)
 <!--END_SECTION:activity-->
 <br/>
 
