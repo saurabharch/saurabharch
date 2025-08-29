@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4106](https://github.com/saurabharch/gatsby/pull/4106) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-2. 💪 Opened PR [#430](https://github.com/raindigi/site-landing/pull/430) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
-3. 💪 Opened PR [#116](https://github.com/saurabharch/gatsby-starter-test/pull/116) in [saurabharch/gatsby-starter-test](https://github.com/saurabharch/gatsby-starter-test)
-4. 💪 Opened PR [#242](https://github.com/saurabharch/wekanhow/pull/242) in [saurabharch/wekanhow](https://github.com/saurabharch/wekanhow)
-5. 💪 Opened PR [#100](https://github.com/raindigi/jamcommerce/pull/100) in [raindigi/jamcommerce](https://github.com/raindigi/jamcommerce)
+1. 💪 Opened PR [#4107](https://github.com/saurabharch/gatsby/pull/4107) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+2. 💪 Opened PR [#4106](https://github.com/saurabharch/gatsby/pull/4106) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+3. 💪 Opened PR [#430](https://github.com/raindigi/site-landing/pull/430) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
+4. 💪 Opened PR [#116](https://github.com/saurabharch/gatsby-starter-test/pull/116) in [saurabharch/gatsby-starter-test](https://github.com/saurabharch/gatsby-starter-test)
+5. 💪 Opened PR [#242](https://github.com/saurabharch/wekanhow/pull/242) in [saurabharch/wekanhow](https://github.com/saurabharch/wekanhow)
 <!--END_SECTION:activity-->
 <br/>
 
