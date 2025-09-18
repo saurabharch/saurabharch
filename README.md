@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#579](https://github.com/saurabharch/react/pull/579) in [saurabharch/react](https://github.com/saurabharch/react)
-2. 💪 Opened PR [#4189](https://github.com/saurabharch/gatsby/pull/4189) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-3. 💪 Opened PR [#4188](https://github.com/saurabharch/gatsby/pull/4188) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#157](https://github.com/raindigi/Merchello/pull/157) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
-5. 💪 Opened PR [#304](https://github.com/saurabharch/spectrum/pull/304) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
+1. 💪 Opened PR [#4190](https://github.com/saurabharch/gatsby/pull/4190) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+2. 💪 Opened PR [#579](https://github.com/saurabharch/react/pull/579) in [saurabharch/react](https://github.com/saurabharch/react)
+3. 💪 Opened PR [#4189](https://github.com/saurabharch/gatsby/pull/4189) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+4. 💪 Opened PR [#4188](https://github.com/saurabharch/gatsby/pull/4188) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+5. 💪 Opened PR [#157](https://github.com/raindigi/Merchello/pull/157) in [raindigi/Merchello](https://github.com/raindigi/Merchello)
 <!--END_SECTION:activity-->
 <br/>
 
