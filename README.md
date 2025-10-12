@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51](https://github.com/raindigi/mailtrain/pull/51) in [raindigi/mailtrain](https://github.com/raindigi/mailtrain)
-2. 💪 Opened PR [#264](https://github.com/saurabharch/cyph/pull/264) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-3. 💪 Opened PR [#130](https://github.com/saurabharch/kentcdodds.com/pull/130) in [saurabharch/kentcdodds.com](https://github.com/saurabharch/kentcdodds.com)
-4. 💪 Opened PR [#64](https://github.com/saurabharch/GraphqlType-API-Registration/pull/64) in [saurabharch/GraphqlType-API-Registration](https://github.com/saurabharch/GraphqlType-API-Registration)
-5. 💪 Opened PR [#202](https://github.com/raindigi/GraphqlType-API-Registration/pull/202) in [raindigi/GraphqlType-API-Registration](https://github.com/raindigi/GraphqlType-API-Registration)
+1. 💪 Opened PR [#47](https://github.com/raindigi/erxes-widgets-api/pull/47) in [raindigi/erxes-widgets-api](https://github.com/raindigi/erxes-widgets-api)
+2. 💪 Opened PR [#51](https://github.com/raindigi/mailtrain/pull/51) in [raindigi/mailtrain](https://github.com/raindigi/mailtrain)
+3. 💪 Opened PR [#264](https://github.com/saurabharch/cyph/pull/264) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
+4. 💪 Opened PR [#130](https://github.com/saurabharch/kentcdodds.com/pull/130) in [saurabharch/kentcdodds.com](https://github.com/saurabharch/kentcdodds.com)
+5. 💪 Opened PR [#64](https://github.com/saurabharch/GraphqlType-API-Registration/pull/64) in [saurabharch/GraphqlType-API-Registration](https://github.com/saurabharch/GraphqlType-API-Registration)
 <!--END_SECTION:activity-->
 <br/>
 
