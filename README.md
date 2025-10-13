@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#161](https://github.com/saurabharch/dev.to/pull/161) in [saurabharch/dev.to](https://github.com/saurabharch/dev.to)
-2. 💪 Opened PR [#29](https://github.com/raindigi/haraka-plugin-wildduck/pull/29) in [raindigi/haraka-plugin-wildduck](https://github.com/raindigi/haraka-plugin-wildduck)
-3. 💪 Opened PR [#117](https://github.com/saurabharch/NodeBB/pull/117) in [saurabharch/NodeBB](https://github.com/saurabharch/NodeBB)
-4. 💪 Opened PR [#99](https://github.com/saurabharch/n8n/pull/99) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
-5. 💪 Opened PR [#46](https://github.com/saurabharch/conference-for-good/pull/46) in [saurabharch/conference-for-good](https://github.com/saurabharch/conference-for-good)
+1. 💪 Opened PR [#92](https://github.com/saurabharch/snippets/pull/92) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
+2. 💪 Opened PR [#161](https://github.com/saurabharch/dev.to/pull/161) in [saurabharch/dev.to](https://github.com/saurabharch/dev.to)
+3. 💪 Opened PR [#29](https://github.com/raindigi/haraka-plugin-wildduck/pull/29) in [raindigi/haraka-plugin-wildduck](https://github.com/raindigi/haraka-plugin-wildduck)
+4. 💪 Opened PR [#117](https://github.com/saurabharch/NodeBB/pull/117) in [saurabharch/NodeBB](https://github.com/saurabharch/NodeBB)
+5. 💪 Opened PR [#99](https://github.com/saurabharch/n8n/pull/99) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
 <!--END_SECTION:activity-->
 <br/>
 
