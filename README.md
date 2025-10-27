@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#87](undefined) in [saurabharch/lengstorf.com](https://github.com/saurabharch/lengstorf.com)
-2. 💪 Opened PR [#192](undefined) in [raindigi/site-preview](https://github.com/raindigi/site-preview)
-3. 💪 Opened PR [#106](undefined) in [saurabharch/taniarascia.com](https://github.com/saurabharch/taniarascia.com)
-4. 💪 Opened PR [#107](undefined) in [saurabharch/f8app](https://github.com/saurabharch/f8app)
-5. 💪 Opened PR [#132](undefined) in [raindigi/Learn-Node](https://github.com/raindigi/Learn-Node)
+1. 💪 Opened PR [#183](undefined) in [saurabhkashyap/graphql-asia](https://github.com/saurabhkashyap/graphql-asia)
+2. 💪 Opened PR [#149](undefined) in [raindigi/black-shop](https://github.com/raindigi/black-shop)
+3. 💪 Opened PR [#93](undefined) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
+4. 💪 Opened PR [#74](undefined) in [saurabharch/www.greglobinski.com](https://github.com/saurabharch/www.greglobinski.com)
+5. 💪 Opened PR [#87](undefined) in [saurabharch/lengstorf.com](https://github.com/saurabharch/lengstorf.com)
 <!--END_SECTION:activity-->
 <br/>
 
