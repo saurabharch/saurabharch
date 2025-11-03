@@ -227,8 +227,6 @@
 <!-- SPONSORSHIP-DATA:END -->
 
 
-# Sponsorship Data (Per/Month in USD)
-
 
 # Scan QR
 <a href='https://github.com/saurabharch' target='_blank'><img height='460' style='border:0px;height:460px;' src='https://raw.githubusercontent.com/saurabharch/java-prepration/master/lib/MyQRCode.png' border='0' alt='Scan Here' />
