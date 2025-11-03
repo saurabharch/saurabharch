@@ -14,7 +14,7 @@ jobs:
       - name: checkput main branch
         uses: actions/checkout@v3
       - name: Fetch Sponsorships and commit
-        uses: santoshyadavdev/sponsorship-green-squares@main
+        uses: saurabharch/sponsorship-green-squares@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           allow-add-to-readme: 'true'
