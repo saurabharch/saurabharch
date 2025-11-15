@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#103](undefined) in [saurabharch/gatsby-wp](https://github.com/saurabharch/gatsby-wp)
-2. 💪 Opened PR [#88](undefined) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
-3. 💪 Opened PR [#95](undefined) in [saurabharch/nicky-blog](https://github.com/saurabharch/nicky-blog)
-4. 💪 Opened PR [#284](undefined) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
-5. 💪 Opened PR [#307](undefined) in [saurabharch/spectrum](https://github.com/saurabharch/spectrum)
+1. 💪 Opened PR [#102](undefined) in [saurabharch/gatsby-starter-kitchen-sink](https://github.com/saurabharch/gatsby-starter-kitchen-sink)
+2. 💪 Opened PR [#103](undefined) in [saurabharch/gatsby-wp](https://github.com/saurabharch/gatsby-wp)
+3. 💪 Opened PR [#88](undefined) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
+4. 💪 Opened PR [#95](undefined) in [saurabharch/nicky-blog](https://github.com/saurabharch/nicky-blog)
+5. 💪 Opened PR [#284](undefined) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
 <!--END_SECTION:activity-->
 <br/>
 
