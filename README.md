@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](undefined) in [saurabharch/web-push-book](https://github.com/saurabharch/web-push-book)
-2. 💪 Opened PR [#266](undefined) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-3. 💪 Opened PR [#286](undefined) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
-4. 💪 Opened PR [#41](undefined) in [saurabharch/gatsby-starter-personal-blog](https://github.com/saurabharch/gatsby-starter-personal-blog)
-5. 💪 Opened PR [#88](undefined) in [saurabharch/lengstorf.com](https://github.com/saurabharch/lengstorf.com)
+1. 💪 Opened PR [#94](undefined) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
+2. 💪 Opened PR [#4237](undefined) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+3. 💪 Opened PR [#75](undefined) in [saurabharch/www.greglobinski.com](https://github.com/saurabharch/www.greglobinski.com)
+4. 💪 Opened PR [#25](undefined) in [saurabharch/web-push-book](https://github.com/saurabharch/web-push-book)
+5. 💪 Opened PR [#266](undefined) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
 <!--END_SECTION:activity-->
 <br/>
 
