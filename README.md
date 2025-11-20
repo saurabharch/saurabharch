@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4239](undefined) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-2. 💪 Opened PR [#289](undefined) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
-3. 💪 Opened PR [#587](undefined) in [saurabharch/react](https://github.com/saurabharch/react)
-4. 💪 Opened PR [#130](undefined) in [saurabharch/linkpreview](https://github.com/saurabharch/linkpreview)
-5. 💪 Opened PR [#117](undefined) in [saurabharch/gatsby-starter-simple-landing](https://github.com/saurabharch/gatsby-starter-simple-landing)
+1. 💪 Opened PR [#115](undefined) in [saurabharch/fastyper](https://github.com/saurabharch/fastyper)
+2. 💪 Opened PR [#4239](undefined) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+3. 💪 Opened PR [#289](undefined) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
+4. 💪 Opened PR [#587](undefined) in [saurabharch/react](https://github.com/saurabharch/react)
+5. 💪 Opened PR [#130](undefined) in [saurabharch/linkpreview](https://github.com/saurabharch/linkpreview)
 <!--END_SECTION:activity-->
 <br/>
 
