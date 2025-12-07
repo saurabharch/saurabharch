@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](undefined) in [raindigi/eShopOnContainers](https://github.com/raindigi/eShopOnContainers)
-2. 💪 Opened PR [#9](undefined) in [saurabharch/radio](https://github.com/saurabharch/radio)
-3. 💪 Opened PR [#61](undefined) in [saurabharch/angular4-mails](https://github.com/saurabharch/angular4-mails)
-4. 💪 Opened PR [#52](undefined) in [raindigi/mailtrain](https://github.com/raindigi/mailtrain)
-5. 💪 Opened PR [#102](undefined) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
+1. 💪 Opened PR [#105](undefined) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+2. 💪 Opened PR [#134](undefined) in [saurabharch/kentcdodds.com](https://github.com/saurabharch/kentcdodds.com)
+3. 💪 Opened PR [#207](undefined) in [raindigi/GraphqlType-API-Registration](https://github.com/raindigi/GraphqlType-API-Registration)
+4. 💪 Opened PR [#138](undefined) in [raindigi/Learn-Node](https://github.com/raindigi/Learn-Node)
+5. 💪 Opened PR [#31](undefined) in [raindigi/example-voting-app](https://github.com/raindigi/example-voting-app)
 <!--END_SECTION:activity-->
 <br/>
 
