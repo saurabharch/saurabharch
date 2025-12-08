@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#270](undefined) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-2. 💪 Opened PR [#50](undefined) in [raindigi/erxes-widgets-api](https://github.com/raindigi/erxes-widgets-api)
-3. 💪 Opened PR [#105](undefined) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
-4. 💪 Opened PR [#134](undefined) in [saurabharch/kentcdodds.com](https://github.com/saurabharch/kentcdodds.com)
-5. 💪 Opened PR [#207](undefined) in [raindigi/GraphqlType-API-Registration](https://github.com/raindigi/GraphqlType-API-Registration)
+1. 💪 Opened PR [#33](undefined) in [raindigi/wildduck](https://github.com/raindigi/wildduck)
+2. 💪 Opened PR [#125](undefined) in [saurabharch/NodeBB](https://github.com/saurabharch/NodeBB)
+3. 💪 Opened PR [#270](undefined) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
+4. 💪 Opened PR [#50](undefined) in [raindigi/erxes-widgets-api](https://github.com/raindigi/erxes-widgets-api)
+5. 💪 Opened PR [#105](undefined) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
 <!--END_SECTION:activity-->
 <br/>
 
