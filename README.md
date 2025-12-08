@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#96](undefined) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
-2. 💪 Opened PR [#66](undefined) in [saurabharch/meanblog](https://github.com/saurabharch/meanblog)
-3. 💪 Opened PR [#30](undefined) in [raindigi/haraka-plugin-wildduck](https://github.com/raindigi/haraka-plugin-wildduck)
-4. 💪 Opened PR [#33](undefined) in [raindigi/wildduck](https://github.com/raindigi/wildduck)
-5. 💪 Opened PR [#125](undefined) in [saurabharch/NodeBB](https://github.com/saurabharch/NodeBB)
+1. 💪 Opened PR [#106](undefined) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+2. 💪 Opened PR [#54](undefined) in [saurabharch/angular-movies](https://github.com/saurabharch/angular-movies)
+3. 💪 Opened PR [#48](undefined) in [saurabharch/conference-for-good](https://github.com/saurabharch/conference-for-good)
+4. 💪 Opened PR [#96](undefined) in [saurabharch/snippets](https://github.com/saurabharch/snippets)
+5. 💪 Opened PR [#66](undefined) in [saurabharch/meanblog](https://github.com/saurabharch/meanblog)
 <!--END_SECTION:activity-->
 <br/>
 
