@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](undefined) in [raindigi/wildduck](https://github.com/raindigi/wildduck)
-2. 💪 Opened PR [#104](undefined) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
-3. 💪 Opened PR [#53](undefined) in [raindigi/mailtrain](https://github.com/raindigi/mailtrain)
-4. 💪 Opened PR [#90](undefined) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
-5. 💪 Opened PR [#108](undefined) in [raindigi/medium-blog-kafka-udemy](https://github.com/raindigi/medium-blog-kafka-udemy)
+1. 💪 Opened PR [#60](undefined) in [saurabharch/mean-full-starter](https://github.com/saurabharch/mean-full-starter)
+2. 💪 Opened PR [#34](undefined) in [raindigi/wildduck](https://github.com/raindigi/wildduck)
+3. 💪 Opened PR [#104](undefined) in [saurabharch/n8n](https://github.com/saurabharch/n8n)
+4. 💪 Opened PR [#53](undefined) in [raindigi/mailtrain](https://github.com/raindigi/mailtrain)
+5. 💪 Opened PR [#90](undefined) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
 <!--END_SECTION:activity-->
 <br/>
 
