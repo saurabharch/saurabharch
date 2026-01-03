@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#93](https://github.com/saurabharch/react-phone-e-commerce-project/pull/93) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
-2. 💪 Opened PR [#105](https://github.com/saurabharch/gatsby-wp/pull/105) in [saurabharch/gatsby-wp](https://github.com/saurabharch/gatsby-wp)
-3. 💪 Opened PR [#139](https://github.com/raindigi/Learn-Node/pull/139) in [raindigi/Learn-Node](https://github.com/raindigi/Learn-Node)
-4. 💪 Opened PR [#46](https://github.com/raindigi/erxes-integrations/pull/46) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
-5. 💪 Opened PR [#95](https://github.com/saurabharch/EBB/pull/95) in [saurabharch/EBB](https://github.com/saurabharch/EBB)
+1. 💪 Opened PR [#208](https://github.com/raindigi/GraphqlType-API-Registration/pull/208) in [raindigi/GraphqlType-API-Registration](https://github.com/raindigi/GraphqlType-API-Registration)
+2. 💪 Opened PR [#93](https://github.com/saurabharch/react-phone-e-commerce-project/pull/93) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
+3. 💪 Opened PR [#105](https://github.com/saurabharch/gatsby-wp/pull/105) in [saurabharch/gatsby-wp](https://github.com/saurabharch/gatsby-wp)
+4. 💪 Opened PR [#139](https://github.com/raindigi/Learn-Node/pull/139) in [raindigi/Learn-Node](https://github.com/raindigi/Learn-Node)
+5. 💪 Opened PR [#46](https://github.com/raindigi/erxes-integrations/pull/46) in [raindigi/erxes-integrations](https://github.com/raindigi/erxes-integrations)
 <!--END_SECTION:activity-->
 <br/>
 
