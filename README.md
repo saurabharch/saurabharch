@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#64](https://github.com/saurabharch/angular4-mails/pull/64) in [saurabharch/angular4-mails](https://github.com/saurabharch/angular4-mails)
-2. 💪 Opened PR [#10](https://github.com/saurabharch/radio/pull/10) in [saurabharch/radio](https://github.com/saurabharch/radio)
-3. 💪 Opened PR [#80](https://github.com/saurabharch/mail-for-good/pull/80) in [saurabharch/mail-for-good](https://github.com/saurabharch/mail-for-good)
-4. 💪 Opened PR [#94](https://github.com/saurabharch/react-phone-e-commerce-project/pull/94) in [saurabharch/react-phone-e-commerce-project](https://github.com/saurabharch/react-phone-e-commerce-project)
-5. 💪 Opened PR [#126](https://github.com/saurabharch/odoo/pull/126) in [saurabharch/odoo](https://github.com/saurabharch/odoo)
+1. 💪 Opened PR [#91](https://github.com/saurabharch/autopush/pull/91) in [saurabharch/autopush](https://github.com/saurabharch/autopush)
+2. 💪 Opened PR [#92](https://github.com/saurabharch/fileapp-reactjs/pull/92) in [saurabharch/fileapp-reactjs](https://github.com/saurabharch/fileapp-reactjs)
+3. 💪 Opened PR [#64](https://github.com/saurabharch/angular4-mails/pull/64) in [saurabharch/angular4-mails](https://github.com/saurabharch/angular4-mails)
+4. 💪 Opened PR [#10](https://github.com/saurabharch/radio/pull/10) in [saurabharch/radio](https://github.com/saurabharch/radio)
+5. 💪 Opened PR [#80](https://github.com/saurabharch/mail-for-good/pull/80) in [saurabharch/mail-for-good](https://github.com/saurabharch/mail-for-good)
 <!--END_SECTION:activity-->
 <br/>
 
