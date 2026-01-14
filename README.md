@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/saurabharch/angular5-paypal/pull/21) in [saurabharch/angular5-paypal](https://github.com/saurabharch/angular5-paypal)
-2. 💪 Opened PR [#58](https://github.com/saurabharch/yatrum/pull/58) in [saurabharch/yatrum](https://github.com/saurabharch/yatrum)
-3. 💪 Opened PR [#23](https://github.com/saurabharch/angularspree/pull/23) in [saurabharch/angularspree](https://github.com/saurabharch/angularspree)
-4. 💪 Opened PR [#30](https://github.com/saurabharch/Ionic-3-Taxi-booking-App-Similar-to-Uber-and-Taxify.-Contains-User-app-Driver-app-and-a-web-admin./pull/30) in [saurabharch/Ionic-3-Taxi-booking-App-Similar-to-Uber-and-Taxify.-Contains-User-app-Driver-app-and-a-web-admin.](https://github.com/saurabharch/Ionic-3-Taxi-booking-App-Similar-to-Uber-and-Taxify.-Contains-User-app-Driver-app-and-a-web-admin.)
-5. 💪 Opened PR [#274](https://github.com/saurabharch/cyph/pull/274) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
+1. 💪 Opened PR [#30](https://github.com/saurabharch/ionic3chat/pull/30) in [saurabharch/ionic3chat](https://github.com/saurabharch/ionic3chat)
+2. 💪 Opened PR [#34](https://github.com/saurabharch/AngularApp/pull/34) in [saurabharch/AngularApp](https://github.com/saurabharch/AngularApp)
+3. 💪 Opened PR [#21](https://github.com/saurabharch/angular5-paypal/pull/21) in [saurabharch/angular5-paypal](https://github.com/saurabharch/angular5-paypal)
+4. 💪 Opened PR [#58](https://github.com/saurabharch/yatrum/pull/58) in [saurabharch/yatrum](https://github.com/saurabharch/yatrum)
+5. 💪 Opened PR [#23](https://github.com/saurabharch/angularspree/pull/23) in [saurabharch/angularspree](https://github.com/saurabharch/angularspree)
 <!--END_SECTION:activity-->
 <br/>
 
