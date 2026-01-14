@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/saurabharch/angularspree/pull/23) in [saurabharch/angularspree](https://github.com/saurabharch/angularspree)
-2. 💪 Opened PR [#30](https://github.com/saurabharch/Ionic-3-Taxi-booking-App-Similar-to-Uber-and-Taxify.-Contains-User-app-Driver-app-and-a-web-admin./pull/30) in [saurabharch/Ionic-3-Taxi-booking-App-Similar-to-Uber-and-Taxify.-Contains-User-app-Driver-app-and-a-web-admin.](https://github.com/saurabharch/Ionic-3-Taxi-booking-App-Similar-to-Uber-and-Taxify.-Contains-User-app-Driver-app-and-a-web-admin.)
-3. 💪 Opened PR [#274](https://github.com/saurabharch/cyph/pull/274) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
-4. 💪 Opened PR [#84](https://github.com/saurabharch/bulma-book-code/pull/84) in [saurabharch/bulma-book-code](https://github.com/saurabharch/bulma-book-code)
-5. 💪 Opened PR [#32](https://github.com/saurabharch/refinery/pull/32) in [saurabharch/refinery](https://github.com/saurabharch/refinery)
+1. 💪 Opened PR [#21](https://github.com/saurabharch/angular5-paypal/pull/21) in [saurabharch/angular5-paypal](https://github.com/saurabharch/angular5-paypal)
+2. 💪 Opened PR [#58](https://github.com/saurabharch/yatrum/pull/58) in [saurabharch/yatrum](https://github.com/saurabharch/yatrum)
+3. 💪 Opened PR [#23](https://github.com/saurabharch/angularspree/pull/23) in [saurabharch/angularspree](https://github.com/saurabharch/angularspree)
+4. 💪 Opened PR [#30](https://github.com/saurabharch/Ionic-3-Taxi-booking-App-Similar-to-Uber-and-Taxify.-Contains-User-app-Driver-app-and-a-web-admin./pull/30) in [saurabharch/Ionic-3-Taxi-booking-App-Similar-to-Uber-and-Taxify.-Contains-User-app-Driver-app-and-a-web-admin.](https://github.com/saurabharch/Ionic-3-Taxi-booking-App-Similar-to-Uber-and-Taxify.-Contains-User-app-Driver-app-and-a-web-admin.)
+5. 💪 Opened PR [#274](https://github.com/saurabharch/cyph/pull/274) in [saurabharch/cyph](https://github.com/saurabharch/cyph)
 <!--END_SECTION:activity-->
 <br/>
 
