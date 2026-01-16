@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/saurabharch/datatable-typeahead/pull/24) in [saurabharch/datatable-typeahead](https://github.com/saurabharch/datatable-typeahead)
-2. 💪 Opened PR [#7](https://github.com/saurabhkashyap/radio/pull/7) in [saurabhkashyap/radio](https://github.com/saurabhkashyap/radio)
-3. 💪 Opened PR [#27](https://github.com/saurabharch/Ionic-3-Uber/pull/27) in [saurabharch/Ionic-3-Uber](https://github.com/saurabharch/Ionic-3-Uber)
-4. 💪 Opened PR [#199](https://github.com/saurabharch/fireship.io/pull/199) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
-5. 💪 Opened PR [#37](https://github.com/saurabharch/promaxconApp/pull/37) in [saurabharch/promaxconApp](https://github.com/saurabharch/promaxconApp)
+1. 💪 Opened PR [#42](https://github.com/saurabharch/pinterest/pull/42) in [saurabharch/pinterest](https://github.com/saurabharch/pinterest)
+2. 💪 Opened PR [#24](https://github.com/saurabharch/datatable-typeahead/pull/24) in [saurabharch/datatable-typeahead](https://github.com/saurabharch/datatable-typeahead)
+3. 💪 Opened PR [#7](https://github.com/saurabhkashyap/radio/pull/7) in [saurabhkashyap/radio](https://github.com/saurabhkashyap/radio)
+4. 💪 Opened PR [#27](https://github.com/saurabharch/Ionic-3-Uber/pull/27) in [saurabharch/Ionic-3-Uber](https://github.com/saurabharch/Ionic-3-Uber)
+5. 💪 Opened PR [#199](https://github.com/saurabharch/fireship.io/pull/199) in [saurabharch/fireship.io](https://github.com/saurabharch/fireship.io)
 <!--END_SECTION:activity-->
 <br/>
 
