@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#139](https://github.com/raindigi/Ghost/pull/139) in [raindigi/Ghost](https://github.com/raindigi/Ghost)
-2. 💪 Opened PR [#4381](https://github.com/saurabharch/gatsby/pull/4381) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-3. 💪 Opened PR [#4380](https://github.com/saurabharch/gatsby/pull/4380) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-4. 💪 Opened PR [#4379](https://github.com/saurabharch/gatsby/pull/4379) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-5. 💪 Opened PR [#4378](https://github.com/saurabharch/gatsby/pull/4378) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+1. 💪 Opened PR [#4384](https://github.com/saurabharch/gatsby/pull/4384) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+2. 💪 Opened PR [#4383](https://github.com/saurabharch/gatsby/pull/4383) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+3. 💪 Opened PR [#19](https://github.com/saurabharch/phoenix-trello/pull/19) in [saurabharch/phoenix-trello](https://github.com/saurabharch/phoenix-trello)
+4. 💪 Opened PR [#44](https://github.com/saurabharch/nectarcommerce/pull/44) in [saurabharch/nectarcommerce](https://github.com/saurabharch/nectarcommerce)
+5. 💪 Opened PR [#4382](https://github.com/saurabharch/gatsby/pull/4382) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
 <!--END_SECTION:activity-->
 <br/>
 
