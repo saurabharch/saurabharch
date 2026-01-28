@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4394](https://github.com/saurabharch/gatsby/pull/4394) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-2. 💪 Opened PR [#60](https://github.com/saurabharch/yatrum/pull/60) in [saurabharch/yatrum](https://github.com/saurabharch/yatrum)
-3. 💪 Opened PR [#443](https://github.com/raindigi/site-landing/pull/443) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
-4. 💪 Opened PR [#85](https://github.com/raindigi/stf/pull/85) in [raindigi/stf](https://github.com/raindigi/stf)
-5. 💪 Opened PR [#109](https://github.com/raindigi/jamcommerce/pull/109) in [raindigi/jamcommerce](https://github.com/raindigi/jamcommerce)
+1. 💪 Opened PR [#4395](https://github.com/saurabharch/gatsby/pull/4395) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+2. 💪 Opened PR [#4394](https://github.com/saurabharch/gatsby/pull/4394) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
+3. 💪 Opened PR [#60](https://github.com/saurabharch/yatrum/pull/60) in [saurabharch/yatrum](https://github.com/saurabharch/yatrum)
+4. 💪 Opened PR [#443](https://github.com/raindigi/site-landing/pull/443) in [raindigi/site-landing](https://github.com/raindigi/site-landing)
+5. 💪 Opened PR [#85](https://github.com/raindigi/stf/pull/85) in [raindigi/stf](https://github.com/raindigi/stf)
 <!--END_SECTION:activity-->
 <br/>
 
