@@ -188,11 +188,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/saurabharch/ionic3chat/pull/33) in [saurabharch/ionic3chat](https://github.com/saurabharch/ionic3chat)
-2. 💪 Opened PR [#136](https://github.com/saurabharch/docs-tools/pull/136) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
-3. 💪 Opened PR [#618](https://github.com/saurabharch/react/pull/618) in [saurabharch/react](https://github.com/saurabharch/react)
-4. 💪 Opened PR [#134](https://github.com/saurabharch/Breezeblocks/pull/134) in [saurabharch/Breezeblocks](https://github.com/saurabharch/Breezeblocks)
-5. 💪 Opened PR [#52](https://github.com/saurabharch/node/pull/52) in [saurabharch/node](https://github.com/saurabharch/node)
+1. 💪 Opened PR [#308](https://github.com/saurabharch/summit-workshop/pull/308) in [saurabharch/summit-workshop](https://github.com/saurabharch/summit-workshop)
+2. 💪 Opened PR [#33](https://github.com/saurabharch/ionic3chat/pull/33) in [saurabharch/ionic3chat](https://github.com/saurabharch/ionic3chat)
+3. 💪 Opened PR [#136](https://github.com/saurabharch/docs-tools/pull/136) in [saurabharch/docs-tools](https://github.com/saurabharch/docs-tools)
+4. 💪 Opened PR [#618](https://github.com/saurabharch/react/pull/618) in [saurabharch/react](https://github.com/saurabharch/react)
+5. 💪 Opened PR [#134](https://github.com/saurabharch/Breezeblocks/pull/134) in [saurabharch/Breezeblocks](https://github.com/saurabharch/Breezeblocks)
 <!--END_SECTION:activity-->
 <br/>
 
