@@ -49,6 +49,7 @@
 
 ## 🐥Latest Twitter Threads
 <!-- TWITTER:START -->
+- [#P99CONF and #ScyllaDB live sessions are amazing and informative.](https://nitter.net/saurabhk0972/status/1714706607538602216#m)
 - [Hire me from my @aboutdotme page! 💼👍 https://about.me/saurabh.kashyap?utm_campaign=socialshare&amp;utm_source=product&amp;utm_medium=twitter](https://nitter.net/saurabhk0972/status/805171940805644288#m)
 <!-- TWITTER:END -->
 <!--- 
