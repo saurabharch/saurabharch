@@ -189,11 +189,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/saurabharch/bright_website/pull/9) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
-2. 💪 Opened PR [#9](https://github.com/saurabharch/bright_website/pull/9) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
-3. 💪 Opened PR [#92](https://github.com/raindigi/erxes-api/pull/92) in [raindigi/erxes-api](https://github.com/raindigi/erxes-api)
-4. 💪 Opened PR [#4484](https://github.com/saurabharch/gatsby/pull/4484) in [saurabharch/gatsby](https://github.com/saurabharch/gatsby)
-5. 💪 Opened PR [#46](https://github.com/saurabharch/nectarcommerce/pull/46) in [saurabharch/nectarcommerce](https://github.com/saurabharch/nectarcommerce)
+1. 💪 Opened PR [#14](https://github.com/saurabharch/bright_website/pull/14) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
+2. 🎉 Merged PR [#13](https://github.com/saurabharch/bright_website/pull/13) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
+3. 💪 Opened PR [#13](https://github.com/saurabharch/bright_website/pull/13) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
+4. 🎉 Merged PR [#9](https://github.com/saurabharch/bright_website/pull/9) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
+5. 💪 Opened PR [#9](https://github.com/saurabharch/bright_website/pull/9) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
 <!--END_SECTION:activity-->
 <br/>
 
