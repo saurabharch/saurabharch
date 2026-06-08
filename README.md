@@ -189,7 +189,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/saurabharch/bright_website/pull/24) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
+1. 💪 Opened PR [#26](https://github.com/saurabharch/bright_website/pull/26) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
 2. 💪 Opened PR [#14](https://github.com/saurabharch/bright_website/pull/14) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
 3. 🎉 Merged PR [#13](https://github.com/saurabharch/bright_website/pull/13) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
 4. 💪 Opened PR [#13](https://github.com/saurabharch/bright_website/pull/13) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
