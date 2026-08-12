@@ -189,11 +189,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/saurabharch/bright_website/pull/26) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
-2. 💪 Opened PR [#14](https://github.com/saurabharch/bright_website/pull/14) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
-3. 🎉 Merged PR [#13](https://github.com/saurabharch/bright_website/pull/13) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
-4. 💪 Opened PR [#13](https://github.com/saurabharch/bright_website/pull/13) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
-5. 🎉 Merged PR [#9](https://github.com/saurabharch/bright_website/pull/9) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
+1. 🗣 Commented on [#67](https://github.com/saurabharch/bright_website/issues/67#issuecomment-5264732090) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
+2. 🔒 Closed issue [#67](https://github.com/saurabharch/bright_website/issues/67) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
+3. 🗣 Commented on [#66](https://github.com/saurabharch/bright_website/issues/66#issuecomment-5264731726) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
+4. 🔒 Closed issue [#66](https://github.com/saurabharch/bright_website/issues/66) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
+5. 🗣 Commented on [#65](https://github.com/saurabharch/bright_website/issues/65#issuecomment-5264731381) in [saurabharch/bright_website](https://github.com/saurabharch/bright_website)
 <!--END_SECTION:activity-->
 <br/>
 
